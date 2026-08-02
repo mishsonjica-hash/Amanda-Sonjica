@@ -82,13 +82,17 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 
 ---
 
-## 📖 References
+## 📖 References 
 
+🔗[DAX function reference](https://learn.microsoft.com/dax/)
+📘[Nova Retail Group — Sales Analytics by Clarence Mantiya](https://github.com/Clarence-Mantiya/test-project2/blob/main/README.md?plain=1) for Github layout
+📬
 ---
 
 ## ⭐ Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/amanda-sonjica-b7a169104
+- 📧 Email: mish.sonjica@gmail.com
 
 I am open to internship and entry-level opportunities in Data Analytics.
 
