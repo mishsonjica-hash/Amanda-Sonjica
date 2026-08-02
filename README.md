@@ -10,6 +10,9 @@
 
 ---
 ## 🗺️ Overview
+### 📌 Project Workflow
+
+Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR Diagram ➡️ Findings ➡️ Power BI Dashboard
 
 ----
 
