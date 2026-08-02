@@ -29,6 +29,8 @@
 - [References](#-references)
 - [About me](#-about-me)
 
+----
+
 ## 💻 Tools & skills used
 
 **Tools**
@@ -61,11 +63,39 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 | `transactions.csv`        | 9,164 | Every till receipt issued in the period              |
 | `promotions.csv`        | 4 | Historical and current marketing campaigns              |
 
+----
+
 ## 🗂️ Schema Diagram
 
 ![ERD Schema Diagram](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/ERD%20Schema%20Diagram.png)
 
+----
+
 ## ⚠️ Data quality issues
+
+----
+
+## 🔍 Key findings
+
+----
+
+## 📊 Dashboards
+
+### Executive Sales Overview
+
+---
+
+## 📖 References
+
+---
+
+## ⭐ Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/amanda-sonjica-b7a169104
+
+I am open to internship and entry-level opportunities in Data Analytics.
+
+---
 
 
 
