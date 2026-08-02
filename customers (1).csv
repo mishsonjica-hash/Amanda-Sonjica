@@ -1,0 +1,3001 @@
+customer_id,first_name,last_name,gender,birth_year,loyalty_tier,home_suburb,signup_date
+C00001,Palesa,Nyathi,F,1982,Bronze,Constantia,2024-03-29
+C00002,Bontle,Buthelezi,F,1996,Silver,Stellenbosch Central,2025-02-10
+C00003,Mandisa,Pillay,F,1986,Silver,Khayelitsha,2023-06-18
+C00004,Sarah,Nkosi,,1971,Silver,Alberton,2024-03-09
+C00005,Nokwanda,Buthelezi,M,1986,Bronze,Khayelitsha,2024-08-16
+C00006,Olwethu,Nyathi,F,1975,Bronze,Phoenix,2025-05-23
+C00007,Fatima,Botha,F,1987,Bronze,Berea,2023-03-11
+C00008,Lungile,Pillay,F,1991,Bronze,Pinetown,2023-03-25
+C00009,Emma,Zwane,M,1975,Bronze,Centurion,2023-09-02
+C00010,Kagiso,Sibanda,F,1996,Bronze,Constantia,2023-01-10
+C00011,Michael,Ngcobo,,1961,Bronze,Boksburg,2023-05-16
+C00012,Anika,Ndlovu,M,1978,Bronze,PMB Central,2024-12-21
+C00013,Ayanda,Ngcobo,,1996,Bronze,Ballito,2023-11-03
+C00014,Tumelo,Sithole,M,1963,Silver,Ballito,2023-06-09
+C00015,Busisiwe,Maseko,M,2000,Bronze,Boksburg,2024-06-01
+C00016,Rajesh,Patel,M,1958,Bronze,Brooklyn,2023-02-15
+C00017,Thabo,Mabena,M,1995,Bronze,Berea,2024-07-18
+C00018,Sibusiso,Smith,M,1962,Silver,Bellville,2024-07-12
+C00019,Sipho,Mhlongo,M,1964,Bronze,Hatfield,2025-03-26
+C00020,Nokulunga,Mokoena,M,1968,Bronze,Randburg,2025-03-09
+C00021,Yusuf,Moyo,,2002,Gold,Tygervalley,2024-12-30
+C00022,Emma,Dlamini,F,1976,Bronze,Beacon Bay,2025-06-03
+C00023,Olwethu,Pillay,F,2005,Bronze,CBD,2025-05-29
+C00024,Priya,Govender,F,1984,Silver,Edenvale,2023-08-17
+C00025,Lerato,Pretorius,F,1972,Gold,Brooklyn,2024-06-05
+C00026,James,Nyathi,F,1956,Gold,George Central,2023-09-29
+C00027,Sipho,Sithole,M,1977,Bronze,Berea,2024-06-07
+C00028,Bongani,Radebe,M,1967,Silver,Sea Point,2024-06-16
+C00029,Bontle,Nyathi,M,2002,Bronze,Rosebank,2023-03-13
+C00030,Tumelo,Mabena,M,1997,Silver,Krugersdorp,2024-06-03
+C00031,Ayanda,Moyo,F,1999,Bronze,Wonderpark,2024-11-11
+C00032,Sarah,van der Merwe,M,1974,Silver,Krugersdorp,2023-10-21
+C00033,Sizwe,Smith,M,1993,Bronze,Berea,2024-11-22
+C00034,Sizwe,Joseph,F,2005,Bronze,Alberton,2024-06-11
+C00035,Tumelo,Ngcobo,F,2003,Bronze,Midrand,2023-05-31
+C00036,Lerato,Mokoena,F,1985,Silver,Pinetown,2024-02-29
+C00037,Thandiwe,Mkhize,F,1999,Bronze,Bellville,2024-11-02
+C00038,Nokwanda,Nkosi,M,2004,Silver,Edenvale,2023-06-30
+C00039,Bontle,Adams,F,1990,Silver,Pinetown,2023-05-17
+C00040,Bontle,van Wyk,M,1990,Gold,Berea,2024-05-31
+C00041,David,Buthelezi,F,1965,Bronze,Boksburg,2025-02-08
+C00042,Andile,Khan,M,1988,Bronze,Berea,2023-03-21
+C00043,Sibusiso,Maseko,F,1976,Bronze,Parow,2023-06-04
+C00044,Nokuthula,Radebe,M,2000,Bronze,Menlyn,2024-07-09
+C00045,Michael,Moyo,F,1981,Silver,Walmer,2023-01-21
+C00046,Mandisa,Mkhize,F,1955,Bronze,Soweto,2025-05-23
+C00047,Khanyisile,Moyo,M,2002,Bronze,Edenvale,2024-05-14
+C00048,Nokuthula,Khan,F,1956,Bronze,Fourways,2025-01-11
+C00049,Refilwe,van Wyk,M,1994,Silver,Westville,2024-07-31
+C00050,Tumelo,Dlamini,F,1982,Bronze,Khayelitsha,2023-09-24
+C00051,Sarah,Tshabalala,F,1975,Silver,Brooklyn,2025-02-09
+C00052,Khanyisile,Moyo,F,1960,Silver,Khayelitsha,2023-12-25
+C00053,Nokuthula,Ndlovu,M,,Bronze,Roodepoort,2023-07-24
+C00054,Khanyisile,Dlamini,M,1970,Bronze,Richards Bay Central,2023-08-12
+C00055,Michael,Patel,M,1965,Gold,Mitchell's Plain,2023-06-17
+C00056,Ayanda,Sithole,M,1974,Silver,Soweto,2024-02-11
+C00057,Sibusiso,Pretorius,F,1999,Bronze,Walmer,2025-03-02
+C00058,Ayanda,Sibiya,M,2005,Silver,Randburg,2024-06-29
+C00059,David,Mhlongo,F,1996,Silver,Hayfields,2023-04-19
+C00060,David,Mhlongo,M,1984,Bronze,Chatsworth,2024-10-28
+C00061,Busisiwe,Ngcobo,M,1989,Bronze,Westville,2023-10-02
+C00062,Johan,Pillay,M,1960,Bronze,Pinetown,2024-08-06
+C00063,Kabelo,Radebe,F,1986,Bronze,Sandton,2023-12-30
+C00064,Bontle,Patel,F,1993,Bronze,Sea Point,2024-06-13
+C00065,Palesa,Mabaso,F,1981,Silver,Walmer,2024-05-02
+C00066,Mosa,Coetzee,F,1956,Bronze,Walmer,2023-09-07
+C00067,Ayanda,Zwane,F,1990,Bronze,Ballito,2023-12-05
+C00068,Anika,van Wyk,F,1971,Silver,Centurion,2023-05-03
+C00069,Olwethu,Nyathi,,1999,Bronze,Umhlanga,2023-10-11
+C00070,Vuyo,Zwane,,1988,Gold,Midrand,2024-01-05
+C00071,Mandla,Mthembu,F,1989,Bronze,Khayelitsha,2024-07-20
+C00072,Mpho,Mahlangu,M,2003,Silver,Richards Bay Central,2023-10-19
+C00073,Priya,du Plessis,F,1966,Bronze,Umhlanga,2023-04-27
+C00074,Dineo,Ndlovu,F,1959,Bronze,Bellville,2023-06-02
+C00075,Bontle,Mkhize,M,1960,Bronze,Wonderpark,2024-09-12
+C00076,Nthabiseng,Ngcobo,F,1988,Silver,Krugersdorp,2025-05-30
+C00077,Lesedi,Smith,F,1994,Gold,Paarl Central,2025-01-15
+C00078,Thandiwe,Naidoo,F,1960,Bronze,Constantia,2023-06-10
+C00079,Thabo,Moyo,F,1993,Bronze,Alberton,2024-12-24
+C00080,Mpho,van Wyk,F,1969,Silver,Mthatha Central,2024-08-26
+C00081,Tumelo,Pretorius,F,1989,Bronze,Brooklyn,2025-04-26
+C00082,Themba,Ndlovu,F,2005,Silver,Richards Bay Central,2023-10-23
+C00083,Rachel,Zulu,F,1974,Gold,Phoenix,2024-03-24
+C00084,Tshepo,Sibiya,F,1982,Bronze,Claremont,2023-04-04
+C00085,Nokuthula,Mkhize,M,1956,Bronze,Brooklyn,2024-08-13
+C00086,Sipho,van der Merwe,F,1996,Bronze,Westville,2024-03-22
+C00087,Thandiwe,Coetzee,,1985,Bronze,Beacon Bay,2023-04-18
+C00088,Mandisa,Botha,F,1999,Bronze,Fourways,2025-04-13
+C00089,Lehlogonolo,Buthelezi,F,1960,Bronze,Fourways,2025-06-04
+C00090,Aisha,Nkosi,M,1989,Bronze,Chatsworth,2024-01-06
+C00091,Kabelo,Coetzee,M,2003,Bronze,Parow,2023-10-22
+C00092,Rachel,Coetzee,F,1995,Bronze,Tygervalley,2023-11-15
+C00093,Yusuf,Nkosi,M,1960,Silver,Mitchell's Plain,2024-04-17
+C00094,Bongani,Mokwena,F,2000,Silver,Wonderpark,2025-05-04
+C00095,Priya,du Plessis,F,1990,Bronze,Berea,2024-06-04
+C00096,Olwethu,Mahlangu,M,1972,Silver,Menlyn,2025-03-17
+C00097,Aisha,Khan,M,1973,Silver,Westville,2024-11-06
+C00098,Rajesh,Mokwena,F,1985,Bronze,PMB Central,2024-01-22
+C00099,Michael,Tshabalala,M,1999,Bronze,Wonderpark,2023-02-14
+C00100,Johan,du Plessis,M,1979,Bronze,Vincent,2023-06-05
+C00101,Rajesh,Mokoena,F,1992,Bronze,Berea,2023-04-13
+C00102,Fatima,van Wyk,F,1964,Bronze,Bellville,2023-03-18
+C00103,Priya,Patel,F,1999,Bronze,Menlyn,2025-05-22
+C00104,Lungile,Nyathi,F,1975,Silver,Hayfields,2025-06-12
+C00105,Ibrahim,Mokoena,M,1970,Gold,Edenvale,2024-03-20
+C00106,Lindiwe,Sithole,F,1999,Bronze,Centurion,2025-03-26
+C00107,Nomvula,Maseko,F,1982,Bronze,Richards Bay Central,2024-11-29
+C00108,Karabo,van der Merwe,F,1960,Bronze,Greenacres,2023-09-04
+C00109,Rajesh,Zwane,F,1984,Bronze,Beacon Bay,2023-01-10
+C00110,Bontle,van Wyk,M,1998,Bronze,Randburg,2024-08-24
+C00111,Ayanda,Smith,M,1984,Bronze,Soweto,2025-05-23
+C00112,Priya,Sithole,F,1991,Bronze,Walmer,2023-10-30
+C00113,Lerato,Sibanda,F,1991,Silver,Khayelitsha,2024-09-12
+C00114,Olwethu,Coetzee,M,1973,Bronze,Randburg,2023-08-13
+C00115,Thandiwe,Pretorius,M,1998,Silver,Greenacres,2025-05-08
+C00116,Naledi,Sithole,M,,Silver,CBD,2024-08-16
+C00117,Marius,Mahlangu,F,1973,Bronze,Midrand,2023-05-16
+C00118,Karabo,Nyathi,M,1978,Silver,Tygervalley,2023-09-21
+C00119,Dineo,du Plessis,,1973,Bronze,Mitchell's Plain,2024-04-24
+C00120,Zanele,Mokwena,M,1969,Silver,Fourways,2025-05-16
+C00121,Bontle,Buthelezi,F,2005,Bronze,Mitchell's Plain,2024-04-10
+C00122,Marius,Patel,M,1995,Bronze,Edenvale,2024-04-27
+C00123,Lerato,Ngcobo,M,1990,Bronze,Vincent,2023-03-06
+C00124,Thandiwe,van Wyk,M,1974,Bronze,CBD,2023-02-08
+C00125,Ayanda,Coetzee,F,1970,Bronze,Pinetown,2024-01-15
+C00126,Tumelo,Nyathi,F,2002,Silver,Vincent,2023-04-12
+C00127,Khanyisile,Coetzee,M,,Bronze,Berea,2024-03-31
+C00128,Andile,Mhlongo,F,1998,Silver,Vincent,2024-01-03
+C00129,Nomvula,Sibanda,F,1962,Silver,Stellenbosch Central,2024-11-09
+C00130,Sizwe,Sibiya,,1958,Bronze,Parow,2025-03-16
+C00131,Kgomotso,Naidoo,F,2003,Bronze,Edenvale,2023-12-03
+C00132,Refiloe,Mokwena,M,,Silver,Bellville,2023-05-14
+C00133,Ibrahim,Patel,M,1962,Bronze,Sea Point,2024-01-02
+C00134,Karabo,Pillay,M,1956,Bronze,Wonderpark,2024-06-22
+C00135,Bongani,Ndlovu,F,2004,Bronze,Berea,2024-05-30
+C00136,Nokuthula,Ngcobo,F,2005,Bronze,Krugersdorp,2024-04-14
+C00137,Mosa,Dlamini,F,1985,Bronze,Paarl Central,2024-05-17
+C00138,Sibusiso,Jones,F,1960,Bronze,Parow,2023-10-09
+C00139,Kabelo,Zwane,M,1975,Bronze,Alberton,2024-04-09
+C00140,Aisha,Sibiya,F,2005,Silver,Vincent,2025-06-17
+C00141,Refiloe,Buthelezi,M,1968,Silver,Wonderpark,2023-12-14
+C00142,Dineo,van Wyk,F,2001,Bronze,Beacon Bay,2023-09-19
+C00143,Marius,Mokwena,M,1985,Silver,Stellenbosch Central,2024-03-18
+C00144,Lindiwe,Mhlongo,M,1990,Gold,Ballito,2023-05-06
+C00145,Emma,Cele,M,2003,Silver,Khayelitsha,2023-10-22
+C00146,Nthabiseng,Mthembu,F,1991,Bronze,Umhlanga,2023-08-18
+C00147,Mandisa,Sithole,F,1990,Silver,Richards Bay Central,2023-08-20
+C00148,Bontle,Smith,M,2004,Bronze,Vincent,2024-07-24
+C00149,Lerato,Sibiya,M,1999,Bronze,Walmer,2025-02-19
+C00150,Ayanda,Mabena,F,1966,Bronze,Fourways,2023-03-13
+C00151,Themba,Dlamini,F,1988,Bronze,Menlyn,2023-06-11
+C00152,Marius,Mthembu,M,2004,Bronze,Khayelitsha,2023-06-09
+C00153,Refilwe,Ngcobo,F,1960,Bronze,Hayfields,2024-09-13
+C00154,Rachel,Moyo,F,2003,Bronze,Mitchell's Plain,2023-10-18
+C00155,Lungile,Zwane,F,1997,Bronze,Berea,2023-02-26
+C00156,Thabo,Naidoo,F,1968,Silver,Alberton,2023-12-02
+C00157,Bongani,Nkosi,F,1982,Bronze,Edenvale,2024-05-27
+C00158,Yusuf,Cele,F,,Bronze,Constantia,2025-06-01
+C00159,Johan,Mkhize,F,1980,Bronze,Mitchell's Plain,2024-02-19
+C00160,Lerato,Tshabalala,F,1994,Bronze,Hatfield,2023-04-01
+C00161,David,Sithole,F,1992,Bronze,Krugersdorp,2025-02-02
+C00162,Pieter,Govender,F,1965,Bronze,Chatsworth,2024-06-06
+C00163,Palesa,Cele,F,1996,Bronze,Bellville,2023-09-20
+C00164,Palesa,van der Merwe,M,2003,Bronze,Mthatha Central,2024-05-20
+C00165,Michael,Mkhize,M,1983,Silver,Vincent,2024-10-12
+C00166,Kabelo,Tshabalala,M,1995,Bronze,Umhlanga,2024-03-28
+C00167,Thandiwe,Mthembu,M,1992,Bronze,Krugersdorp,2024-04-17
+C00168,Rachel,Mokoena,F,1973,Silver,Stellenbosch Central,2024-09-21
+C00169,Nthabiseng,Joseph,F,1992,Silver,CBD,2024-04-05
+C00170,Bontle,Mkhize,M,1975,Bronze,Khayelitsha,2024-04-06
+C00171,Lindiwe,Mabena,,1960,Bronze,Roodepoort,2024-12-25
+C00172,Rachel,Jones,M,1994,Bronze,Alberton,2024-02-01
+C00173,Emma,Mabena,M,1958,Bronze,Constantia,2023-12-04
+C00174,Lindiwe,Buthelezi,M,1973,Silver,Berea,2025-06-13
+C00175,Themba,Mabena,F,1997,Bronze,Vincent,2024-12-16
+C00176,Tumelo,Sibanda,F,2000,Bronze,Soweto,2024-10-20
+C00177,Karabo,Mabena,M,1997,Gold,Greenacres,2024-11-17
+C00178,Mosa,Smith,M,1956,Bronze,Sandton,2023-12-16
+C00179,Refiloe,Coetzee,F,1963,Bronze,Paarl Central,2024-06-03
+C00180,Refiloe,Nyathi,M,,Bronze,Pinetown,2023-05-15
+C00181,Nthabiseng,Radebe,F,1966,Silver,Tygervalley,2025-01-08
+C00182,Rachel,Mokoena,F,1998,Gold,Pinetown,2024-04-04
+C00183,Nokuthula,Nyathi,F,2005,Silver,Hatfield,2024-11-25
+C00184,Kgomotso,Jones,F,1973,Bronze,Wonderpark,2023-06-15
+C00185,Dineo,Pretorius,M,1963,Bronze,Umhlanga,2025-06-14
+C00186,Marius,Buthelezi,M,2000,Silver,Alberton,2023-03-27
+C00187,Lehlogonolo,Botha,F,1987,Bronze,Edenvale,2025-04-16
+C00188,Rachel,Cele,M,1981,Bronze,Roodepoort,2024-01-31
+C00189,Tshepo,Mhlongo,F,1975,Silver,Vincent,2023-12-10
+C00190,Karabo,Mokwena,F,1973,Bronze,Parow,2025-02-16
+C00191,Sibusiso,du Plessis,F,1955,Bronze,Sandton,2025-05-05
+C00192,Themba,Buthelezi,M,1993,Bronze,Alberton,2023-09-01
+C00193,Ayanda,Zulu,F,1981,Bronze,Constantia,2023-04-24
+C00194,Khanyisile,Coetzee,M,1956,Bronze,Bellville,2023-10-26
+C00195,David,Nkosi,M,1970,Bronze,Beacon Bay,2023-03-29
+C00196,Fatima,Mhlongo,F,1988,Silver,Phoenix,2024-07-21
+C00197,Lerato,Radebe,M,1957,Gold,Boksburg,2024-01-01
+C00198,Karabo,Ndlovu,F,2001,Bronze,Westville,2025-01-22
+C00199,Lehlogonolo,Mabena,F,1977,Silver,George Central,2025-04-30
+C00200,Refiloe,van Wyk,,1985,Silver,Constantia,2025-01-03
+C00201,Refiloe,van Wyk,F,,Bronze,CBD,2023-11-20
+C00202,Ayanda,Joseph,F,1989,Bronze,Vincent,2023-07-15
+C00203,Mpho,Cele,M,1958,Bronze,Mitchell's Plain,2025-03-29
+C00204,Marius,Smith,M,2002,Gold,Menlyn,2025-06-12
+C00205,Nokwanda,Coetzee,F,1988,Bronze,Rosebank,2023-03-22
+C00206,David,Sibiya,,1966,Bronze,Stellenbosch Central,2023-12-02
+C00207,Tumelo,Maseko,F,1993,Bronze,Berea,2023-12-26
+C00208,Rachel,Mokoena,M,1977,Bronze,Mthatha Central,2025-03-21
+C00209,Nomvula,Ndlovu,M,1980,Silver,Greenacres,2023-06-13
+C00210,Lerato,Mokwena,M,1998,Bronze,Constantia,2023-08-30
+C00211,Refiloe,Mhlongo,F,,Bronze,Berea,2024-01-15
+C00212,Marius,Jones,M,1991,Bronze,Centurion,2024-10-27
+C00213,Busisiwe,Pillay,,1956,Bronze,Soweto,2024-07-29
+C00214,Bongani,Patel,M,2000,Gold,Alberton,2024-05-17
+C00215,Palesa,Zulu,F,1959,Silver,Berea,2023-03-31
+C00216,Bontle,Tshabalala,M,2000,Bronze,Krugersdorp,2025-05-21
+C00217,Refilwe,van der Merwe,M,1987,Gold,Parow,2024-05-20
+C00218,Lerato,Mhlongo,M,1978,Gold,Parow,2023-03-30
+C00219,Zanele,Mthembu,F,2000,Bronze,Wonderpark,2025-04-23
+C00220,Kgomotso,Ndlovu,F,1975,Bronze,Greenacres,2024-06-13
+C00221,Anika,Mahlangu,M,2004,Bronze,Parow,2024-03-19
+C00222,Aisha,Khumalo,M,1988,Bronze,Centurion,2024-12-27
+C00223,Nokuthula,Cele,M,1988,Silver,Boksburg,2023-07-21
+C00224,Thandiwe,Buthelezi,F,1995,Bronze,Phoenix,2024-10-18
+C00225,Refilwe,Zwane,M,1964,Bronze,Berea,2023-12-12
+C00226,Khanyisile,Mkhize,F,1956,Gold,Richards Bay Central,2023-08-04
+C00227,Refiloe,Mkhize,F,,Silver,PMB Central,2023-10-24
+C00228,Mosa,Mthembu,F,1998,Bronze,Walmer,2023-03-03
+C00229,Refilwe,Jones,F,1984,Bronze,Centurion,2025-06-01
+C00230,Sibusiso,Tshabalala,M,1977,Bronze,Hatfield,2024-06-11
+C00231,Yusuf,Sithole,F,1984,Bronze,Bellville,2023-04-10
+C00232,Nomvula,Maseko,M,1994,Gold,Tygervalley,2024-08-14
+C00233,Vuyo,Tshabalala,F,1965,Bronze,Hayfields,2025-06-19
+C00234,Ayanda,Coetzee,F,1980,Gold,Sandton,2023-02-19
+C00235,Nomvula,Maseko,F,1996,Bronze,Sea Point,2025-05-17
+C00236,Lindiwe,Smith,F,1971,Silver,Hatfield,2023-02-16
+C00237,James,Khumalo,M,1967,Bronze,Soweto,2024-05-31
+C00238,Rachel,Buthelezi,F,1994,Bronze,Paarl Central,2024-02-08
+C00239,Marius,Mabena,M,1978,Bronze,Phoenix,2024-02-16
+C00240,Aisha,Mokoena,F,1963,Silver,Chatsworth,2024-04-12
+C00241,Themba,Sibiya,M,1963,Bronze,Tygervalley,2024-02-07
+C00242,Kabelo,Mthembu,M,1987,Bronze,Richards Bay Central,2023-11-03
+C00243,Priya,Dlamini,F,1998,Bronze,Krugersdorp,2025-03-26
+C00244,Vuyo,Dlamini,M,1971,Silver,Westville,2024-08-14
+C00245,Nokuthula,Khumalo,M,1965,Silver,Soweto,2023-06-01
+C00246,Dineo,Pillay,F,1999,Bronze,Centurion,2024-03-04
+C00247,Themba,Moyo,M,1981,Bronze,Umhlanga,2025-06-12
+C00248,Mandisa,Khumalo,M,1988,Bronze,Beacon Bay,2024-05-04
+C00249,Fatima,Radebe,F,1966,Bronze,PMB Central,2023-12-29
+C00250,Lungile,Patel,M,1967,Bronze,Krugersdorp,2023-08-19
+C00251,Ayanda,Maseko,M,1999,Bronze,Randburg,2024-07-27
+C00252,Karabo,Khan,F,1991,Bronze,Fourways,2025-04-18
+C00253,Anika,Mokwena,F,1973,Bronze,Berea,2024-11-02
+C00254,Kagiso,du Plessis,F,1989,Bronze,Brooklyn,2023-05-21
+C00255,Lindiwe,Ngcobo,M,1970,Bronze,Chatsworth,2023-08-20
+C00256,Thandiwe,Govender,F,1981,Bronze,Greenacres,2025-02-28
+C00257,Naledi,Nkosi,,1965,Gold,Umhlanga,2023-07-24
+C00258,Lehlogonolo,Maseko,F,1996,Silver,Vincent,2024-08-10
+C00259,Nokuthula,Nyathi,M,1957,Bronze,George Central,2023-02-07
+C00260,Khanyisile,Sibanda,M,1966,Gold,Alberton,2023-01-10
+C00261,Ayanda,Mkhize,M,1976,Gold,PMB Central,2023-05-18
+C00262,Mandisa,Joseph,F,1967,Bronze,Pinetown,2024-10-25
+C00263,Kagiso,van der Merwe,F,1976,Bronze,Midrand,2023-06-29
+C00264,Kabelo,Sibanda,M,1987,Bronze,Paarl Central,2023-07-09
+C00265,Naledi,du Plessis,F,,Bronze,Berea,2025-02-10
+C00266,Busisiwe,Mabena,F,2001,Bronze,Hatfield,2024-12-10
+C00267,Andile,Khumalo,M,1984,Bronze,Phoenix,2025-06-28
+C00268,Sibusiso,Mthembu,M,1995,Bronze,Pinetown,2023-08-15
+C00269,Nokuthula,Mahlangu,F,1984,Bronze,Wonderpark,2024-12-19
+C00270,Yusuf,du Plessis,M,1997,Silver,Greenacres,2025-02-11
+C00271,Nthabiseng,Mabaso,M,1988,Bronze,Richards Bay Central,2023-04-25
+C00272,Nomvula,Buthelezi,M,1967,Bronze,Centurion,2025-05-24
+C00273,Fatima,Jones,F,1968,Bronze,Phoenix,2024-04-01
+C00274,Bontle,Khumalo,F,1987,Bronze,Ballito,2024-04-18
+C00275,Lungile,Mthembu,M,1980,Bronze,Sandton,2024-08-15
+C00276,Zanele,Mokoena,F,1999,Gold,Constantia,2025-05-30
+C00277,Sipho,Maseko,F,2004,Bronze,Vincent,2024-03-06
+C00278,Marius,Radebe,F,1979,Bronze,Beacon Bay,2025-06-14
+C00279,Ibrahim,Mahlangu,M,1977,Gold,Fourways,2023-08-17
+C00280,Khanyisile,Nkosi,M,1974,Silver,Rosebank,2024-06-28
+C00281,Sarah,Govender,F,1977,Bronze,Mitchell's Plain,2023-02-02
+C00282,Bontle,Moyo,M,1956,Bronze,Berea,2023-02-04
+C00283,Rachel,Sibiya,M,1958,Bronze,Berea,2023-08-28
+C00284,Ibrahim,Naidoo,M,2004,Bronze,Alberton,2023-08-28
+C00285,Dineo,Mkhize,F,1993,Silver,Roodepoort,2023-11-06
+C00286,Themba,Adams,F,1974,Bronze,Westville,2025-06-19
+C00287,Olwethu,van der Merwe,M,1982,Bronze,Randburg,2024-10-20
+C00288,Tumelo,Radebe,M,1975,Bronze,Krugersdorp,2024-01-21
+C00289,Mandla,Nyathi,F,1969,Silver,Pinetown,2023-03-01
+C00290,Yusuf,Moyo,,1990,Bronze,Boksburg,2023-07-28
+C00291,Pieter,Mabaso,M,1978,Silver,Midrand,2023-02-22
+C00292,Busisiwe,Radebe,M,,Bronze,Westville,2025-01-11
+C00293,Tumelo,Buthelezi,F,1968,Bronze,Sea Point,2023-08-05
+C00294,Palesa,Zulu,M,2003,Bronze,Berea,2024-12-21
+C00295,Sizwe,Sibanda,M,1990,Bronze,Pinetown,2024-06-30
+C00296,Mosa,Cele,F,1978,Bronze,Paarl Central,2025-04-02
+C00297,Vuyo,du Plessis,M,1975,Bronze,Wonderpark,2023-02-16
+C00298,Kgomotso,Govender,M,1956,Gold,Westville,2023-10-30
+C00299,Themba,Pretorius,F,1979,Bronze,Ballito,2024-11-01
+C00300,Lungile,Mabena,F,1986,Bronze,Hayfields,2024-04-16
+C00301,Refilwe,Cele,F,2001,Bronze,PMB Central,2024-10-19
+C00302,Nomvula,Adams,F,1959,Bronze,Sea Point,2024-02-27
+C00303,Naledi,Govender,F,,Bronze,Hatfield,2023-03-03
+C00304,Kabelo,Ngcobo,M,1997,Bronze,Ballito,2024-02-26
+C00305,Thabo,Dlamini,M,1972,Bronze,Phoenix,2025-04-12
+C00306,Nokwanda,Smith,M,1966,Bronze,Bellville,2023-09-04
+C00307,Palesa,Ngcobo,M,1977,Bronze,Hatfield,2024-02-20
+C00308,Michael,Mkhize,F,1999,Bronze,Stellenbosch Central,2024-10-31
+C00309,Mandisa,Mokoena,F,1979,Bronze,Mthatha Central,2023-01-10
+C00310,Nokwanda,Botha,F,1982,Bronze,Paarl Central,2024-06-24
+C00311,Sipho,Govender,F,1999,Bronze,CBD,2023-03-18
+C00312,Lungile,Khan,M,1991,Bronze,Centurion,2023-01-17
+C00313,Sizwe,Zwane,F,2000,Gold,Krugersdorp,2023-09-04
+C00314,Kgomotso,Radebe,M,1989,Silver,Parow,2025-03-20
+C00315,Nokwanda,Mabaso,M,1977,Bronze,Constantia,2023-12-15
+C00316,Nthabiseng,Ngcobo,,1980,Bronze,Mthatha Central,2023-10-07
+C00317,Karabo,Jones,F,1977,Bronze,George Central,2024-11-27
+C00318,Lesedi,Radebe,F,1994,Bronze,Constantia,2023-03-26
+C00319,Busisiwe,Mokwena,F,2005,Silver,Centurion,2024-01-05
+C00320,Lindiwe,Mabaso,F,1974,Silver,Paarl Central,2023-05-16
+C00321,Tshepo,van der Merwe,F,1990,Bronze,Claremont,2023-04-02
+C00322,Anika,Buthelezi,F,1993,Silver,Sea Point,2023-10-26
+C00323,Emma,Radebe,M,2001,Silver,Roodepoort,2024-08-08
+C00324,Fatima,Botha,M,1965,Bronze,Hayfields,2023-05-30
+C00325,Zanele,Botha,F,1981,Silver,Hatfield,2023-09-15
+C00326,Andile,Coetzee,M,1967,Bronze,Sea Point,2024-02-10
+C00327,Pieter,Ngcobo,F,1976,Bronze,Vincent,2024-08-31
+C00328,Naledi,Mthembu,F,1999,Bronze,Fourways,2023-11-23
+C00329,Mpho,Coetzee,,2005,Bronze,Fourways,2024-01-09
+C00330,Bongani,Mkhize,F,1989,Silver,Claremont,2025-01-14
+C00331,Michael,Naidoo,F,1973,Bronze,Wonderpark,2024-11-20
+C00332,Rajesh,Mahlangu,M,1970,Bronze,Rosebank,2025-03-19
+C00333,Sarah,Ndlovu,F,1993,Bronze,Phoenix,2025-06-09
+C00334,Nokwanda,Moyo,M,2005,Silver,PMB Central,2024-08-31
+C00335,Thandiwe,Mabaso,F,1970,Bronze,Vincent,2024-09-19
+C00336,Sipho,Mkhize,,1998,Gold,Menlyn,2025-05-09
+C00337,Lindiwe,Nkosi,F,1969,Bronze,Westville,2024-12-05
+C00338,Kgomotso,Govender,F,1980,Bronze,Walmer,2024-05-27
+C00339,Themba,Cele,,1985,Bronze,Stellenbosch Central,2023-04-29
+C00340,Khanyisile,Mokwena,F,1976,Bronze,Umhlanga,2023-12-23
+C00341,Priya,Sithole,F,1999,Bronze,CBD,2025-04-09
+C00342,Sibusiso,Zulu,F,1976,Bronze,Tygervalley,2025-01-28
+C00343,Andile,Adams,F,1965,Bronze,Pinetown,2023-08-26
+C00344,Bontle,Sibanda,M,1966,Bronze,Claremont,2025-01-25
+C00345,Kabelo,Pretorius,F,1982,Silver,Sandton,2023-10-13
+C00346,Lehlogonolo,Ndlovu,M,1989,Bronze,Pinetown,2023-04-27
+C00347,Kagiso,Coetzee,M,1995,Bronze,Fourways,2024-08-24
+C00348,Bongani,Cele,F,1984,Silver,Krugersdorp,2024-09-21
+C00349,Lesedi,Mabaso,M,1975,Bronze,George Central,2024-01-18
+C00350,Nokwanda,Mokwena,M,1981,Bronze,Rosebank,2023-07-10
+C00351,Rajesh,Nyathi,M,1996,Bronze,Tygervalley,2024-05-16
+C00352,Mpho,Mahlangu,F,1983,Silver,Sea Point,2024-05-11
+C00353,Naledi,Pretorius,M,1990,Bronze,Greenacres,2024-05-18
+C00354,Emma,Jones,F,1960,Silver,Edenvale,2023-10-27
+C00355,Sipho,Khan,F,1973,Bronze,Hayfields,2024-07-16
+C00356,Aisha,Zulu,M,1972,Silver,Hatfield,2024-07-09
+C00357,Dineo,Mokoena,M,1983,Gold,Paarl Central,2023-09-11
+C00358,Ayanda,Mokoena,F,1977,Bronze,Mitchell's Plain,2025-03-05
+C00359,Bontle,Pillay,F,2002,Bronze,Pinetown,2024-10-09
+C00360,David,Botha,M,2005,Bronze,Khayelitsha,2024-08-06
+C00361,Anika,Nyathi,F,1989,Gold,Alberton,2023-10-01
+C00362,Mandisa,Joseph,,1998,Bronze,Wonderpark,2023-03-02
+C00363,Busisiwe,Mahlangu,M,1963,Silver,Roodepoort,2025-02-18
+C00364,Khanyisile,Sibanda,F,1991,Bronze,Soweto,2024-04-07
+C00365,Zanele,Mabaso,F,2002,Gold,Hatfield,2024-05-14
+C00366,Johan,Zwane,F,2004,Bronze,Pinetown,2024-10-12
+C00367,Tumelo,Cele,M,2005,Bronze,Rosebank,2025-04-24
+C00368,Sizwe,Coetzee,F,1973,Bronze,Richards Bay Central,2025-05-22
+C00369,Rajesh,Mabena,M,,Bronze,Pinetown,2023-01-17
+C00370,Bongani,Botha,F,1955,Bronze,Walmer,2023-05-16
+C00371,Mosa,Mthembu,F,1972,Bronze,Stellenbosch Central,2024-01-16
+C00372,Tumelo,Botha,F,1995,Bronze,Edenvale,2024-03-15
+C00373,Mosa,Mabaso,M,1955,Bronze,Westville,2023-08-20
+C00374,Fatima,Jones,F,1999,Bronze,Rosebank,2024-12-11
+C00375,Naledi,du Plessis,F,1979,Silver,Paarl Central,2023-11-17
+C00376,Marius,Mthembu,F,2004,Silver,Vincent,2024-11-24
+C00377,Themba,Ndlovu,M,1955,Bronze,Randburg,2025-01-09
+C00378,Sizwe,Mokwena,M,1994,Silver,Stellenbosch Central,2023-04-13
+C00379,Naledi,Zulu,M,1979,Bronze,Parow,2023-09-11
+C00380,Busisiwe,Mabaso,F,1993,Bronze,Walmer,2023-01-28
+C00381,Mandisa,Mthembu,F,1993,Silver,Alberton,2024-10-23
+C00382,Nomvula,Pillay,F,1962,Bronze,Constantia,2024-06-24
+C00383,Thabo,Mhlongo,M,1963,Silver,Wonderpark,2024-01-10
+C00384,Ibrahim,van der Merwe,M,2004,Bronze,Sea Point,2023-09-26
+C00385,Sizwe,Mokoena,M,2005,Bronze,Phoenix,2025-02-24
+C00386,Emma,Smith,M,1960,Bronze,Bellville,2023-10-12
+C00387,Tshepo,Mthembu,F,1968,Bronze,Centurion,2024-02-05
+C00388,Lesedi,Ndlovu,F,1982,Silver,Khayelitsha,2023-09-08
+C00389,Tshepo,Smith,F,1994,Bronze,Beacon Bay,2025-01-28
+C00390,Mandla,Zulu,F,1963,Bronze,Randburg,2024-06-19
+C00391,Fatima,Patel,F,1963,Silver,Mitchell's Plain,2025-02-28
+C00392,Lerato,Mabena,M,1972,Bronze,Richards Bay Central,2024-10-04
+C00393,Zanele,Coetzee,F,1978,Silver,Tygervalley,2024-01-12
+C00394,Refilwe,Patel,M,1991,Bronze,Phoenix,2023-01-03
+C00395,Sipho,Nkosi,F,1985,Gold,George Central,2024-10-19
+C00396,Yusuf,Moyo,F,1970,Silver,Brooklyn,2025-04-25
+C00397,Zanele,Mkhize,F,1987,Bronze,Edenvale,2025-04-03
+C00398,Fatima,Mokoena,,1959,Silver,Krugersdorp,2023-12-02
+C00399,Tshepo,Buthelezi,F,1978,Bronze,Krugersdorp,2025-01-27
+C00400,Kabelo,Pillay,F,1992,Gold,Midrand,2024-07-13
+C00401,Lehlogonolo,Pillay,F,,Bronze,Mthatha Central,2025-05-09
+C00402,Nokwanda,Nkosi,,1955,Bronze,Krugersdorp,2023-04-17
+C00403,Sizwe,Adams,,1981,Bronze,Bellville,2024-12-29
+C00404,Busisiwe,Mabaso,F,1969,Bronze,Walmer,2024-01-17
+C00405,Michael,Mabaso,M,1987,Silver,Constantia,2024-08-29
+C00406,Kgomotso,Khumalo,F,1963,Bronze,Centurion,2025-03-31
+C00407,James,Tshabalala,F,1972,Gold,Parow,2024-08-21
+C00408,Lindiwe,Mokwena,F,1983,Bronze,PMB Central,2024-01-02
+C00409,Refiloe,Naidoo,F,1984,Bronze,Tygervalley,2025-04-06
+C00410,Lungile,Mthembu,M,1999,Bronze,Centurion,2023-06-01
+C00411,Tshepo,Pillay,,1980,Bronze,Boksburg,2025-04-19
+C00412,Mandla,Dlamini,,1983,Bronze,Paarl Central,2024-04-18
+C00413,Lindiwe,Mahlangu,F,1958,Gold,Parow,2024-02-15
+C00414,Marius,Mabaso,M,1971,Bronze,Constantia,2023-07-22
+C00415,Mosa,Jones,M,1960,Silver,Menlyn,2023-05-06
+C00416,Sipho,van Wyk,F,1991,Silver,Hayfields,2023-01-31
+C00417,Sarah,Smith,F,1968,Bronze,Berea,2025-06-23
+C00418,Themba,Mokoena,M,1994,Bronze,Wonderpark,2025-06-22
+C00419,Yusuf,du Plessis,F,1972,Bronze,Vincent,2025-06-24
+C00420,Bontle,Adams,F,1989,Gold,Randburg,2024-05-11
+C00421,Anika,Mkhize,M,1979,Bronze,Berea,2023-08-13
+C00422,Lerato,Khan,F,1985,Silver,Edenvale,2023-06-13
+C00423,Lindiwe,Pillay,M,1972,Silver,Khayelitsha,2025-02-21
+C00424,Nokuthula,Mkhize,M,1979,Silver,George Central,2023-06-30
+C00425,Andile,Zwane,F,2002,Silver,Claremont,2024-12-21
+C00426,Nokwanda,Cele,M,1991,Gold,Hayfields,2023-06-29
+C00427,Rajesh,Mokoena,F,1969,Bronze,Umhlanga,2023-01-01
+C00428,Pieter,Ngcobo,F,1963,Bronze,Centurion,2023-03-02
+C00429,Lerato,Mokwena,M,1964,Silver,Hatfield,2023-03-16
+C00430,Marius,Sibanda,M,1976,Bronze,Tygervalley,2025-01-19
+C00431,David,Coetzee,M,1966,Bronze,Pinetown,2025-03-16
+C00432,Anika,Govender,M,1966,Silver,Alberton,2023-05-11
+C00433,Mandla,Nkosi,M,1991,Gold,Richards Bay Central,2024-09-08
+C00434,Johan,Ngcobo,F,1991,Bronze,Menlyn,2025-02-02
+C00435,Zanele,Pillay,F,1975,Silver,Stellenbosch Central,2025-04-21
+C00436,Sibusiso,Mabena,F,1971,Bronze,Randburg,2023-09-20
+C00437,Karabo,Sithole,M,1958,Silver,Tygervalley,2025-06-24
+C00438,Emma,Coetzee,M,1977,Bronze,Umhlanga,2025-03-18
+C00439,Nokulunga,Mkhize,M,1998,Bronze,CBD,2023-10-29
+C00440,Lerato,Tshabalala,F,1961,Bronze,Soweto,2023-06-14
+C00441,Vuyo,Ndlovu,M,1960,Gold,Umhlanga,2024-03-17
+C00442,Mosa,Botha,M,1982,Bronze,Sandton,2023-07-14
+C00443,Emma,Buthelezi,M,2001,Bronze,Krugersdorp,2023-09-01
+C00444,Lindiwe,Khumalo,F,1990,Bronze,Hatfield,2023-01-04
+C00445,David,Mabaso,F,1997,Bronze,Paarl Central,2023-01-27
+C00446,Sizwe,Botha,M,1960,Bronze,Fourways,2024-04-27
+C00447,Rajesh,Patel,F,1989,Bronze,Soweto,2024-01-14
+C00448,Mandla,Jones,F,1983,Bronze,Brooklyn,2024-07-31
+C00449,Nomvula,Mokwena,M,1997,Bronze,PMB Central,2024-02-28
+C00450,Lehlogonolo,Zwane,F,1958,Silver,Wonderpark,2024-07-02
+C00451,Lungile,du Plessis,M,1970,Bronze,CBD,2024-05-29
+C00452,Kgomotso,Adams,M,1998,Bronze,Berea,2023-06-27
+C00453,Refilwe,Naidoo,M,,Bronze,Greenacres,2024-03-21
+C00454,Palesa,Mokwena,M,1971,Silver,Constantia,2023-03-31
+C00455,Sarah,Buthelezi,F,1975,Bronze,Sea Point,2025-03-16
+C00456,Nokwanda,Ngcobo,M,2005,Bronze,Bellville,2024-08-03
+C00457,Lesedi,Zwane,M,1961,Bronze,Paarl Central,2025-03-15
+C00458,Mpho,Nyathi,M,1981,Bronze,Richards Bay Central,2024-09-15
+C00459,Priya,Mokoena,F,1980,Bronze,Walmer,2024-02-16
+C00460,Sipho,Sibanda,M,1976,Bronze,Umhlanga,2023-10-03
+C00461,Marius,Dlamini,F,2005,Bronze,Hayfields,2025-05-28
+C00462,Nokwanda,Sithole,,1969,Gold,Berea,2023-11-25
+C00463,Busisiwe,Moyo,M,1960,Bronze,Wonderpark,2025-01-28
+C00464,Rajesh,Adams,M,1958,Bronze,Krugersdorp,2024-12-27
+C00465,Aisha,Sibanda,F,1988,Bronze,Midrand,2025-06-15
+C00466,Khanyisile,Pretorius,M,,Bronze,Hatfield,2024-12-22
+C00467,Palesa,Khan,F,1984,Bronze,Mitchell's Plain,2024-11-28
+C00468,Lerato,Pillay,F,1993,Gold,Umhlanga,2023-12-25
+C00469,Anika,Botha,M,1971,Bronze,Alberton,2023-01-29
+C00470,Sarah,Khumalo,F,1991,Bronze,Edenvale,2024-10-24
+C00471,Nokuthula,Naidoo,F,1981,Silver,Greenacres,2023-01-10
+C00472,Priya,Mahlangu,M,1993,Bronze,Berea,2025-04-04
+C00473,Ayanda,Khan,F,1979,Bronze,Sandton,2024-04-22
+C00474,Ayanda,Adams,M,1980,Bronze,Beacon Bay,2025-05-13
+C00475,Khanyisile,Mhlongo,M,1993,Bronze,Paarl Central,2024-05-08
+C00476,Zanele,Mabena,,1995,Bronze,Vincent,2024-12-29
+C00477,Mosa,Mthembu,F,1988,Silver,Berea,2024-02-18
+C00478,Tumelo,Tshabalala,M,,Bronze,Alberton,2023-09-23
+C00479,Emma,Sibanda,F,1957,Gold,Midrand,2023-08-16
+C00480,Lungile,Nyathi,M,1985,Bronze,Phoenix,2023-11-04
+C00481,Mandisa,Botha,M,1990,Bronze,Parow,2025-01-28
+C00482,Kagiso,Buthelezi,M,1966,Silver,Vincent,2023-04-02
+C00483,Nokuthula,Cele,F,1974,Silver,Hatfield,2023-09-24
+C00484,Lesedi,Maseko,F,1962,Silver,Westville,2024-08-17
+C00485,Kabelo,Ndlovu,F,1967,Silver,Soweto,2024-06-26
+C00486,Ayanda,Moyo,F,1964,Bronze,Wonderpark,2024-08-06
+C00487,Michael,Mokwena,F,2000,Bronze,Menlyn,2024-10-08
+C00488,Mandla,Tshabalala,M,1955,Bronze,Tygervalley,2024-08-13
+C00489,Lehlogonolo,Botha,F,2003,Bronze,Rosebank,2024-10-10
+C00490,David,Sibanda,F,1985,Bronze,Midrand,2025-01-18
+C00491,Marius,Nkosi,M,2003,Bronze,Greenacres,2023-01-05
+C00492,Thandiwe,Pillay,F,1977,Bronze,Phoenix,2024-08-25
+C00493,Ayanda,Botha,F,1957,Bronze,Chatsworth,2024-09-02
+C00494,Fatima,Mabena,F,1998,Bronze,Hayfields,2024-01-03
+C00495,Lehlogonolo,Pretorius,F,,Bronze,Parow,2023-08-05
+C00496,Vuyo,Dlamini,M,1965,Silver,CBD,2024-01-20
+C00497,Thandiwe,Patel,M,,Gold,Beacon Bay,2023-01-21
+C00498,Nomvula,Zulu,F,1979,Bronze,Walmer,2023-06-06
+C00499,Sizwe,Nkosi,F,1997,Bronze,Pinetown,2024-09-12
+C00500,Nokwanda,Mahlangu,F,1961,Bronze,Alberton,2023-04-27
+C00501,Karabo,Sithole,F,1993,Bronze,Chatsworth,2023-07-26
+C00502,Anika,Moyo,F,1957,Silver,Walmer,2024-05-07
+C00503,Pieter,Pillay,F,1997,Bronze,Richards Bay Central,2024-11-16
+C00504,Rajesh,Mokwena,M,2004,Silver,Paarl Central,2023-09-20
+C00505,Mosa,Govender,F,1973,Bronze,George Central,2025-06-14
+C00506,Sipho,Maseko,F,1998,Silver,Paarl Central,2025-05-21
+C00507,Lehlogonolo,Mokoena,F,1963,Bronze,Randburg,2024-03-24
+C00508,Kabelo,Khan,M,1960,Bronze,Mitchell's Plain,2024-02-15
+C00509,James,van Wyk,F,1979,Bronze,Wonderpark,2024-10-26
+C00510,Bontle,Botha,F,1999,Gold,Tygervalley,2024-08-27
+C00511,Priya,Mkhize,M,1966,Silver,Pinetown,2023-01-30
+C00512,Nokulunga,Mahlangu,F,1986,Bronze,CBD,2023-03-06
+C00513,Kagiso,Tshabalala,F,1998,Silver,Richards Bay Central,2023-08-18
+C00514,Tumelo,Mabena,M,1999,Bronze,Beacon Bay,2025-01-14
+C00515,Andile,du Plessis,F,1998,Bronze,Ballito,2024-09-19
+C00516,Nomvula,Nkosi,M,1965,Bronze,Hayfields,2025-06-09
+C00517,Refilwe,Ndlovu,M,1975,Gold,Khayelitsha,2024-07-17
+C00518,Mosa,Radebe,F,1970,Bronze,Richards Bay Central,2024-04-03
+C00519,Tshepo,Coetzee,F,1962,Silver,Claremont,2023-04-16
+C00520,James,Moyo,F,,Bronze,Berea,2024-09-25
+C00521,Thandiwe,Mthembu,M,1990,Bronze,Menlyn,2024-01-08
+C00522,Dineo,Khumalo,M,1984,Silver,Berea,2024-04-29
+C00523,Sibusiso,Mhlongo,M,1962,Bronze,Sea Point,2023-12-16
+C00524,Anika,Maseko,M,1978,Bronze,Tygervalley,2024-05-19
+C00525,Naledi,Moyo,F,1994,Bronze,Fourways,2023-08-09
+C00526,Michael,Pretorius,M,1961,Bronze,Mthatha Central,2025-05-07
+C00527,Lungile,Zwane,F,1983,Bronze,Phoenix,2023-05-18
+C00528,Rajesh,Nkosi,M,1958,Bronze,Westville,2024-05-09
+C00529,Aisha,van der Merwe,M,1966,Bronze,Soweto,2024-11-04
+C00530,Nthabiseng,Sibiya,M,1987,Bronze,Berea,2024-12-10
+C00531,Lehlogonolo,Pillay,F,1976,Bronze,Parow,2023-05-22
+C00532,Emma,Sibiya,M,2002,Silver,Ballito,2025-05-31
+C00533,Johan,Buthelezi,M,1967,Silver,Greenacres,2023-12-20
+C00534,Lungile,Mahlangu,,1996,Bronze,PMB Central,2024-12-11
+C00535,Thandiwe,Tshabalala,M,2003,Bronze,Richards Bay Central,2024-11-14
+C00536,Sibusiso,Moyo,M,1989,Silver,Sea Point,2024-06-19
+C00537,Lindiwe,Dlamini,F,1958,Bronze,Tygervalley,2023-10-21
+C00538,Lungile,Patel,F,1958,Bronze,PMB Central,2023-02-03
+C00539,Anika,Jones,F,1998,Silver,Vincent,2024-07-28
+C00540,Sarah,Pillay,M,2005,Bronze,Beacon Bay,2023-02-18
+C00541,Sarah,Radebe,F,2005,Bronze,Ballito,2023-02-25
+C00542,Thabo,Patel,F,2004,Bronze,Edenvale,2024-10-10
+C00543,Sibusiso,Mhlongo,M,1989,Bronze,Midrand,2023-10-29
+C00544,Rachel,van der Merwe,,1959,Bronze,Phoenix,2023-05-03
+C00545,Sarah,Mokoena,F,1990,Bronze,Boksburg,2023-01-06
+C00546,Pieter,van Wyk,M,,Gold,Berea,2024-09-22
+C00547,Khanyisile,Mthembu,F,1991,Bronze,Centurion,2024-06-22
+C00548,Nokuthula,van der Merwe,M,2005,Bronze,PMB Central,2024-02-18
+C00549,Tshepo,Cele,F,1968,Bronze,Alberton,2023-08-12
+C00550,Lehlogonolo,Ngcobo,M,1990,Gold,Sea Point,2023-12-21
+C00551,Rachel,Pillay,M,1994,Bronze,CBD,2024-11-29
+C00552,Johan,Radebe,M,1962,Bronze,Alberton,2023-01-26
+C00553,Fatima,Mhlongo,M,1987,Bronze,Vincent,2023-07-17
+C00554,Johan,Joseph,F,1961,Gold,PMB Central,2023-03-09
+C00555,Sizwe,Naidoo,M,1982,Bronze,Walmer,2025-06-18
+C00556,Olwethu,Smith,M,1959,Bronze,Pinetown,2025-01-04
+C00557,Pieter,Mokoena,F,1958,Bronze,Constantia,2024-08-11
+C00558,Dineo,Govender,M,1981,Bronze,Rosebank,2023-11-20
+C00559,Lerato,Radebe,M,,Silver,Constantia,2025-02-13
+C00560,Olwethu,Zwane,F,1959,Bronze,Alberton,2025-03-16
+C00561,Lungile,Mthembu,M,1973,Bronze,Fourways,2025-04-21
+C00562,Tumelo,Dlamini,F,1989,Silver,PMB Central,2023-10-30
+C00563,Thandiwe,Mokwena,F,2005,Bronze,Sea Point,2024-07-20
+C00564,Nokulunga,Buthelezi,F,,Bronze,PMB Central,2024-07-14
+C00565,Tshepo,Mthembu,F,2002,Bronze,Wonderpark,2024-10-23
+C00566,Mandisa,Joseph,F,1966,Silver,Midrand,2023-04-28
+C00567,Mandla,Mkhize,M,2003,Gold,Pinetown,2023-03-16
+C00568,Mpho,Ndlovu,F,1967,Bronze,Menlyn,2024-01-01
+C00569,Naledi,Pillay,F,1994,Bronze,Hayfields,2024-04-06
+C00570,Pieter,Ngcobo,M,1999,Bronze,Hatfield,2025-04-07
+C00571,Johan,Smith,F,1975,Bronze,Vincent,2024-03-22
+C00572,Busisiwe,Mhlongo,F,2001,Bronze,Berea,2024-01-03
+C00573,Refiloe,Mthembu,F,1961,Bronze,Brooklyn,2025-05-29
+C00574,Dineo,Mahlangu,M,1967,Silver,Constantia,2025-01-14
+C00575,Zanele,Dlamini,M,,Bronze,Fourways,2025-02-26
+C00576,Lesedi,Naidoo,M,1990,Silver,PMB Central,2024-04-28
+C00577,Mosa,Mokwena,F,1969,Bronze,Alberton,2023-05-18
+C00578,Michael,Joseph,M,1980,Bronze,Roodepoort,2025-05-18
+C00579,Bontle,Ngcobo,M,2003,Bronze,George Central,2024-08-02
+C00580,Kgomotso,Mokwena,M,1985,Bronze,Hayfields,2023-08-26
+C00581,Zanele,Patel,F,1957,Bronze,Hatfield,2024-02-02
+C00582,Priya,van Wyk,M,1957,Bronze,Chatsworth,2024-10-10
+C00583,Khanyisile,Khan,M,1971,Bronze,Soweto,2024-10-31
+C00584,Sarah,Mhlongo,M,1959,Bronze,Edenvale,2024-06-12
+C00585,James,Cele,M,1977,Bronze,Berea,2023-01-07
+C00586,Aisha,Mahlangu,F,1969,Bronze,Sandton,2023-06-03
+C00587,Mandla,Botha,F,2000,Bronze,Wonderpark,2025-04-10
+C00588,Pieter,Zulu,F,1985,Bronze,Vincent,2025-05-03
+C00589,Emma,Dlamini,F,1963,Bronze,Mthatha Central,2024-06-08
+C00590,Sipho,Mkhize,F,1965,Bronze,Fourways,2024-09-05
+C00591,Kgomotso,Dlamini,M,2001,Bronze,Stellenbosch Central,2023-08-10
+C00592,Rachel,Sibiya,,1985,Silver,Berea,2023-05-27
+C00593,Karabo,Zwane,M,1966,Bronze,Tygervalley,2025-01-11
+C00594,Lungile,Mabena,M,1993,Bronze,Soweto,2023-05-16
+C00595,Lindiwe,Dlamini,F,1987,Silver,Berea,2023-04-09
+C00596,Mandla,du Plessis,M,,Silver,Phoenix,2025-02-09
+C00597,Bongani,Mabaso,F,1963,Bronze,Sea Point,2025-03-04
+C00598,Lungile,Smith,M,1978,Bronze,Rosebank,2023-08-23
+C00599,Bontle,du Plessis,M,1979,Silver,Walmer,2024-08-12
+C00600,Lindiwe,Smith,F,1985,Silver,Stellenbosch Central,2023-10-18
+C00601,Nthabiseng,Nyathi,F,,Silver,Sea Point,2024-08-14
+C00602,Fatima,Zulu,M,1979,Bronze,Centurion,2024-02-23
+C00603,Marius,Sithole,F,1996,Bronze,PMB Central,2024-03-09
+C00604,Kgomotso,Mhlongo,M,1998,Bronze,Ballito,2025-03-13
+C00605,Yusuf,du Plessis,F,1990,Bronze,Krugersdorp,2024-08-14
+C00606,Anika,Sibanda,M,1997,Bronze,Walmer,2023-06-15
+C00607,Lindiwe,Naidoo,M,2005,Bronze,Walmer,2024-12-01
+C00608,Sibusiso,Khumalo,F,,Bronze,Bellville,2024-04-27
+C00609,Nthabiseng,Smith,F,1971,Bronze,CBD,2025-01-11
+C00610,Sarah,Sibanda,M,1988,Gold,Khayelitsha,2024-12-29
+C00611,Thandiwe,Coetzee,F,1967,Gold,Chatsworth,2023-02-04
+C00612,Karabo,Sibiya,M,1999,Bronze,CBD,2024-01-04
+C00613,Andile,Nkosi,,1960,Silver,Randburg,2024-11-16
+C00614,James,Sibanda,M,,Silver,Stellenbosch Central,2024-07-16
+C00615,Mpho,Buthelezi,M,1977,Silver,Edenvale,2024-09-12
+C00616,Palesa,van Wyk,M,,Bronze,Phoenix,2023-04-20
+C00617,Yusuf,Ndlovu,M,1976,Silver,Boksburg,2025-06-16
+C00618,Ibrahim,Mkhize,F,1983,Bronze,Roodepoort,2025-02-14
+C00619,Pieter,van Wyk,M,1992,Bronze,Boksburg,2023-03-11
+C00620,Sarah,Govender,M,1969,Bronze,Randburg,2024-06-12
+C00621,Ibrahim,Nkosi,M,1971,Bronze,Greenacres,2025-02-05
+C00622,Dineo,Mabena,F,1966,Bronze,Richards Bay Central,2023-10-03
+C00623,Mandla,Pretorius,F,1967,Bronze,Boksburg,2023-07-31
+C00624,Nokuthula,Pretorius,M,1994,Silver,Mitchell's Plain,2023-03-22
+C00625,Lungile,Coetzee,M,2003,Gold,Umhlanga,2023-11-19
+C00626,Rajesh,Mkhize,M,1986,Silver,Phoenix,2023-10-14
+C00627,James,Govender,M,1963,Silver,Umhlanga,2024-07-07
+C00628,Sipho,Joseph,F,1998,Bronze,Mitchell's Plain,2024-12-16
+C00629,Fatima,van Wyk,F,,Bronze,Westville,2023-04-14
+C00630,Johan,Mhlongo,M,1971,Bronze,Brooklyn,2024-04-27
+C00631,Kabelo,Mabena,F,1986,Bronze,Hatfield,2024-01-09
+C00632,Mandisa,Sibanda,F,1966,Gold,Greenacres,2023-04-13
+C00633,Vuyo,Khan,M,1990,Bronze,Bellville,2025-03-30
+C00634,Olwethu,Mokwena,F,1955,Bronze,Mthatha Central,2024-06-13
+C00635,Ibrahim,Tshabalala,M,1974,Silver,Khayelitsha,2024-02-12
+C00636,Lindiwe,Botha,F,1971,Bronze,Berea,2025-02-01
+C00637,Pieter,Patel,F,1990,Silver,Randburg,2023-01-21
+C00638,Emma,Zulu,F,1998,Bronze,Richards Bay Central,2024-10-27
+C00639,Mosa,Nyathi,F,2004,Bronze,Phoenix,2024-05-14
+C00640,Refiloe,Jones,M,1979,Bronze,Bellville,2025-06-08
+C00641,Refilwe,Mabena,F,1994,Silver,Constantia,2023-03-23
+C00642,Refilwe,Mabena,F,1975,Silver,Berea,2024-10-22
+C00643,James,Khan,M,2004,Bronze,Westville,2024-06-17
+C00644,Rachel,Moyo,F,1956,Bronze,Boksburg,2025-01-31
+C00645,Nokwanda,Mabaso,F,1980,Bronze,Umhlanga,2024-07-15
+C00646,Nomvula,Dlamini,M,1988,Bronze,Boksburg,2024-09-24
+C00647,Themba,Mabaso,M,1979,Bronze,Alberton,2024-03-29
+C00648,Thandiwe,Mahlangu,F,,Bronze,Centurion,2025-06-03
+C00649,Priya,van Wyk,,1989,Bronze,Parow,2024-12-15
+C00650,Ibrahim,van der Merwe,M,1984,Bronze,Richards Bay Central,2024-03-21
+C00651,Fatima,Nyathi,F,1977,Bronze,Stellenbosch Central,2024-03-28
+C00652,Ayanda,Mhlongo,F,1964,Bronze,Parow,2023-12-19
+C00653,Mpho,du Plessis,M,1999,Gold,Umhlanga,2024-03-16
+C00654,Bontle,Maseko,M,,Bronze,Wonderpark,2025-06-22
+C00655,Yusuf,Smith,F,1965,Bronze,Soweto,2023-08-14
+C00656,Kagiso,Mabaso,F,1970,Silver,Pinetown,2025-04-06
+C00657,Nokwanda,Khan,F,2002,Bronze,Midrand,2025-05-23
+C00658,Zanele,van der Merwe,F,1962,Bronze,Brooklyn,2024-12-18
+C00659,Kabelo,Coetzee,F,1956,Gold,Claremont,2023-04-15
+C00660,Mpho,Khan,F,1983,Bronze,Bellville,2023-01-16
+C00661,Rajesh,Naidoo,F,1974,Bronze,Hatfield,2024-04-19
+C00662,Nokwanda,Mokoena,F,2003,Bronze,Fourways,2023-03-15
+C00663,Ibrahim,du Plessis,F,1971,Silver,Mitchell's Plain,2025-02-25
+C00664,Sibusiso,Pillay,F,1983,Gold,Midrand,2023-04-07
+C00665,Fatima,Naidoo,F,1998,Gold,Tygervalley,2023-02-13
+C00666,Olwethu,Buthelezi,M,1971,Bronze,Hatfield,2025-06-27
+C00667,Nomvula,Naidoo,,1970,Bronze,Tygervalley,2025-03-24
+C00668,Busisiwe,Zwane,F,2005,Gold,Westville,2024-05-01
+C00669,Nokwanda,Sibiya,F,2004,Bronze,Stellenbosch Central,2024-12-03
+C00670,Kabelo,Mabena,M,2003,Bronze,Vincent,2023-06-07
+C00671,Nokwanda,Nyathi,M,1963,Bronze,Ballito,2025-03-18
+C00672,Mosa,Cele,M,1983,Bronze,Soweto,2024-01-02
+C00673,Vuyo,Mahlangu,F,1957,Bronze,Alberton,2024-07-09
+C00674,Nokwanda,Coetzee,F,1966,Bronze,Pinetown,2023-10-09
+C00675,Nokulunga,Sibiya,M,1990,Bronze,Berea,2023-10-30
+C00676,Dineo,Patel,M,,Bronze,Soweto,2025-01-21
+C00677,Mandla,Dlamini,M,1978,Bronze,Constantia,2024-11-05
+C00678,Ibrahim,Radebe,F,1998,Bronze,Pinetown,2023-10-17
+C00679,Johan,Moyo,M,1962,Bronze,CBD,2025-05-05
+C00680,Naledi,van der Merwe,M,1967,Bronze,CBD,2024-08-07
+C00681,Mosa,Radebe,M,1988,Bronze,Khayelitsha,2024-01-11
+C00682,Nokuthula,Sibiya,M,1955,Bronze,Hayfields,2025-06-30
+C00683,Khanyisile,Mabaso,F,1995,Bronze,Wonderpark,2025-04-21
+C00684,Marius,Khumalo,M,1972,Silver,Krugersdorp,2023-03-21
+C00685,Sizwe,Adams,F,2001,Bronze,Midrand,2024-06-22
+C00686,Tumelo,Pillay,M,1966,Bronze,Paarl Central,2025-02-23
+C00687,Thandiwe,Mkhize,F,1984,Bronze,Paarl Central,2023-06-20
+C00688,Karabo,van der Merwe,M,1987,Bronze,Berea,2024-03-29
+C00689,Anika,Tshabalala,M,1975,Bronze,Mthatha Central,2024-03-16
+C00690,Dineo,Tshabalala,M,1991,Bronze,Ballito,2025-02-01
+C00691,Kagiso,Mhlongo,,1983,Bronze,CBD,2023-10-19
+C00692,Nthabiseng,Dlamini,M,,Gold,Sandton,2023-01-23
+C00693,Refiloe,Khan,M,1987,Gold,Bellville,2024-04-16
+C00694,Anika,Mokwena,F,1978,Bronze,Boksburg,2025-04-10
+C00695,Ayanda,Mabaso,M,1991,Silver,Centurion,2025-03-22
+C00696,Priya,van der Merwe,F,1999,Silver,Paarl Central,2024-09-01
+C00697,Mosa,Mthembu,F,1991,Silver,Menlyn,2023-12-23
+C00698,Dineo,Smith,F,1962,Bronze,Vincent,2025-05-19
+C00699,Nthabiseng,Nkosi,M,1995,Bronze,CBD,2023-11-23
+C00700,Ibrahim,Mkhize,F,1987,Bronze,Greenacres,2025-01-19
+C00701,James,Jones,M,1991,Bronze,Alberton,2025-03-16
+C00702,James,Mokwena,F,1960,Silver,Ballito,2024-02-13
+C00703,Kagiso,Mabaso,F,1982,Bronze,Parow,2024-05-07
+C00704,Yusuf,Pretorius,F,1996,Bronze,Chatsworth,2023-09-10
+C00705,Andile,Ndlovu,F,1982,Gold,Stellenbosch Central,2024-02-28
+C00706,David,Mhlongo,F,1975,Bronze,Krugersdorp,2023-06-23
+C00707,Anika,Ngcobo,M,1983,Bronze,Edenvale,2023-07-24
+C00708,Lungile,Mhlongo,F,2001,Bronze,Khayelitsha,2023-09-06
+C00709,Kabelo,Mokwena,M,,Bronze,Mitchell's Plain,2023-11-09
+C00710,Rachel,du Plessis,F,1968,Bronze,PMB Central,2024-06-19
+C00711,Lehlogonolo,Patel,M,1994,Bronze,Walmer,2024-11-15
+C00712,Lerato,Radebe,M,1997,Bronze,Khayelitsha,2023-10-18
+C00713,Palesa,Ngcobo,F,1984,Bronze,Soweto,2024-11-07
+C00714,Busisiwe,Mhlongo,M,1956,Silver,Soweto,2023-08-25
+C00715,Sarah,Joseph,,1961,Bronze,Berea,2024-06-28
+C00716,Tshepo,van der Merwe,F,1984,Silver,CBD,2023-09-11
+C00717,Fatima,Mthembu,F,1980,Bronze,Greenacres,2023-12-27
+C00718,Anika,Mthembu,F,1987,Bronze,Boksburg,2025-06-18
+C00719,Sarah,Dlamini,M,1972,Bronze,Fourways,2024-11-03
+C00720,Naledi,Mabaso,M,1988,Bronze,Mthatha Central,2024-12-03
+C00721,Nokuthula,Moyo,F,1964,Bronze,Berea,2023-12-04
+C00722,Rachel,Nyathi,F,1996,Bronze,Midrand,2025-06-02
+C00723,Naledi,Mthembu,M,1988,Bronze,Bellville,2024-11-02
+C00724,Kgomotso,Botha,F,1990,Silver,George Central,2023-11-22
+C00725,Khanyisile,Mokwena,M,2003,Gold,Wonderpark,2023-10-08
+C00726,Themba,Pretorius,F,,Gold,Pinetown,2024-08-03
+C00727,Kabelo,Govender,M,1969,Bronze,Walmer,2025-03-09
+C00728,Priya,Mahlangu,M,1993,Bronze,George Central,2025-05-22
+C00729,Sarah,Coetzee,F,1965,Bronze,Sea Point,2023-10-04
+C00730,Emma,Govender,M,1967,Bronze,Berea,2025-06-06
+C00731,Kabelo,Coetzee,M,1984,Bronze,CBD,2024-09-14
+C00732,Olwethu,Radebe,M,1980,Silver,Berea,2024-07-03
+C00733,Fatima,Mokoena,M,1983,Silver,Roodepoort,2024-06-15
+C00734,Ibrahim,Sibanda,,1957,Bronze,Mthatha Central,2023-02-20
+C00735,Palesa,Maseko,F,1974,Bronze,Tygervalley,2024-03-08
+C00736,Mpho,Ngcobo,M,1999,Bronze,Vincent,2024-04-07
+C00737,Tshepo,Joseph,F,2004,Silver,PMB Central,2023-05-19
+C00738,James,Moyo,F,1956,Bronze,Midrand,2025-06-22
+C00739,Michael,Mabaso,F,1999,Silver,Tygervalley,2025-01-05
+C00740,Vuyo,Zulu,F,2000,Bronze,Chatsworth,2024-12-25
+C00741,Sarah,Joseph,M,1965,Bronze,Tygervalley,2023-12-10
+C00742,Kgomotso,Mokwena,F,1964,Silver,Wonderpark,2023-11-12
+C00743,Ayanda,Jones,F,1966,Bronze,Midrand,2023-01-04
+C00744,Kabelo,Patel,F,1986,Bronze,Sea Point,2024-09-14
+C00745,Rajesh,Pillay,F,1997,Bronze,Stellenbosch Central,2024-09-07
+C00746,Nthabiseng,Nkosi,F,1990,Bronze,Sandton,2023-02-20
+C00747,Mandla,Mokwena,F,,Silver,Beacon Bay,2024-08-14
+C00748,Khanyisile,Sibiya,F,,Bronze,George Central,2023-06-15
+C00749,Lungile,Maseko,M,1999,Bronze,Ballito,2023-07-01
+C00750,Michael,Zwane,F,1957,Bronze,Hatfield,2024-01-24
+C00751,Dineo,Ndlovu,M,1990,Bronze,Mitchell's Plain,2024-12-12
+C00752,Nokulunga,Khan,F,1981,Bronze,Pinetown,2023-03-01
+C00753,Lindiwe,Mkhize,M,1995,Bronze,Walmer,2024-09-11
+C00754,Karabo,Maseko,F,1975,Bronze,Pinetown,2023-12-29
+C00755,Naledi,Ngcobo,M,1988,Bronze,George Central,2025-06-23
+C00756,Kabelo,Govender,M,,Bronze,Mthatha Central,2025-03-26
+C00757,Bongani,Naidoo,M,1981,Bronze,Ballito,2025-04-05
+C00758,Thandiwe,Naidoo,F,1967,Bronze,Constantia,2023-11-12
+C00759,Ayanda,Joseph,M,,Bronze,Menlyn,2024-02-10
+C00760,Vuyo,Mkhize,M,1956,Bronze,Menlyn,2024-11-19
+C00761,Priya,du Plessis,M,1996,Bronze,Pinetown,2025-06-04
+C00762,Ibrahim,Mabena,F,1981,Bronze,Chatsworth,2023-11-03
+C00763,Kgomotso,Tshabalala,M,1956,Bronze,Randburg,2023-03-09
+C00764,Themba,Khan,M,1976,Bronze,Tygervalley,2024-08-07
+C00765,Nthabiseng,Radebe,F,1962,Silver,Centurion,2024-12-27
+C00766,Sipho,Khan,F,1986,Bronze,Krugersdorp,2023-08-10
+C00767,Fatima,Mthembu,F,1978,Silver,Stellenbosch Central,2024-03-30
+C00768,Aisha,Dlamini,M,1987,Bronze,Umhlanga,2025-01-20
+C00769,Nokulunga,Adams,F,1975,Silver,Chatsworth,2024-11-23
+C00770,Naledi,Naidoo,M,1984,Silver,Mitchell's Plain,2023-01-05
+C00771,Ayanda,Mokoena,M,1993,Bronze,CBD,2023-04-16
+C00772,Fatima,Mthembu,F,2003,Silver,Centurion,2023-07-25
+C00773,Palesa,Maseko,F,1975,Bronze,Brooklyn,2023-06-02
+C00774,Refilwe,Khan,F,1994,Bronze,PMB Central,2023-12-25
+C00775,Yusuf,Tshabalala,F,2000,Bronze,Tygervalley,2023-03-14
+C00776,Ayanda,Ngcobo,M,1989,Bronze,Umhlanga,2024-11-22
+C00777,Nomvula,Sithole,F,1960,Bronze,Berea,2024-08-29
+C00778,Thandiwe,Jones,M,1974,Bronze,Beacon Bay,2025-04-08
+C00779,Ibrahim,Mabaso,,2003,Bronze,Stellenbosch Central,2025-04-12
+C00780,Bontle,van Wyk,F,1974,Silver,Pinetown,2024-04-26
+C00781,Nokuthula,Govender,F,1994,Bronze,George Central,2024-12-17
+C00782,Tumelo,Mabena,M,1975,Bronze,Umhlanga,2023-04-26
+C00783,Anika,du Plessis,F,1965,Bronze,Richards Bay Central,2023-05-11
+C00784,Aisha,Sithole,F,2000,Bronze,Vincent,2023-03-14
+C00785,Karabo,Mthembu,M,1980,Bronze,Roodepoort,2024-07-15
+C00786,Refilwe,du Plessis,F,1976,Bronze,Rosebank,2025-03-14
+C00787,David,Mkhize,M,1989,Bronze,Beacon Bay,2023-03-21
+C00788,Olwethu,Mkhize,M,1962,Bronze,Ballito,2023-04-10
+C00789,Dineo,Jones,F,1980,Bronze,Berea,2025-02-28
+C00790,Dineo,Radebe,F,1996,Bronze,Parow,2025-06-27
+C00791,Lesedi,Nkosi,M,1997,Bronze,Soweto,2024-09-22
+C00792,Kgomotso,Jones,F,1998,Bronze,Greenacres,2023-11-08
+C00793,David,Cele,,,Gold,Fourways,2023-10-29
+C00794,Nomvula,Mhlongo,M,,Bronze,Randburg,2023-04-23
+C00795,Nokulunga,Maseko,M,1970,Bronze,Mthatha Central,2023-11-22
+C00796,Sibusiso,Radebe,F,1982,Bronze,Umhlanga,2023-05-23
+C00797,Palesa,Buthelezi,F,1978,Bronze,Beacon Bay,2023-05-09
+C00798,Naledi,Nkosi,F,1956,Silver,Beacon Bay,2024-03-23
+C00799,Naledi,Mabaso,F,1981,Silver,Walmer,2024-09-10
+C00800,David,Ngcobo,F,1987,Silver,Soweto,2023-12-30
+C00801,Nokuthula,van der Merwe,F,1955,Silver,Roodepoort,2024-12-30
+C00802,Aisha,Khan,F,1989,Bronze,CBD,2024-08-04
+C00803,Priya,Mhlongo,F,1985,Bronze,Chatsworth,2025-05-29
+C00804,Lehlogonolo,Khan,F,1960,Bronze,Roodepoort,2024-04-28
+C00805,Thandiwe,Ndlovu,M,1989,Bronze,Khayelitsha,2023-12-18
+C00806,Ibrahim,Nkosi,F,1987,Bronze,Menlyn,2024-03-07
+C00807,Anika,Maseko,F,1957,Bronze,Krugersdorp,2025-01-14
+C00808,Karabo,Mkhize,F,1995,Bronze,Khayelitsha,2024-11-03
+C00809,Mpho,Ngcobo,F,1986,Bronze,Brooklyn,2023-09-16
+C00810,Naledi,Ngcobo,F,,Bronze,George Central,2024-08-28
+C00811,Olwethu,Mokwena,M,1978,Bronze,Walmer,2023-08-30
+C00812,Rajesh,van der Merwe,M,1957,Bronze,Bellville,2024-09-01
+C00813,Dineo,Mokwena,M,2003,Silver,Roodepoort,2024-11-07
+C00814,Rachel,Botha,F,2001,Bronze,Boksburg,2025-02-12
+C00815,Dineo,Zulu,F,1984,Bronze,PMB Central,2023-08-28
+C00816,Sarah,Radebe,F,1964,Bronze,Alberton,2025-03-27
+C00817,Rachel,Radebe,M,1988,Bronze,PMB Central,2024-10-14
+C00818,Anika,Smith,M,1996,Bronze,Brooklyn,2025-04-01
+C00819,Lindiwe,Patel,M,1980,Bronze,Roodepoort,2025-01-21
+C00820,Lungile,Zwane,M,1988,Bronze,George Central,2023-11-17
+C00821,Yusuf,Nkosi,M,,Bronze,Paarl Central,2024-12-02
+C00822,Rachel,Cele,F,1973,Bronze,Pinetown,2023-04-05
+C00823,Nomvula,Sibiya,M,1968,Bronze,Mitchell's Plain,2023-03-30
+C00824,Mandisa,Sibiya,F,1997,Bronze,George Central,2023-04-24
+C00825,Nokwanda,van der Merwe,F,1984,Bronze,Pinetown,2023-10-11
+C00826,Refiloe,Smith,M,1997,Bronze,Tygervalley,2025-03-10
+C00827,Zanele,Khan,M,1979,Gold,Boksburg,2025-02-13
+C00828,Mandla,Jones,F,1967,Bronze,Hayfields,2023-04-22
+C00829,Themba,Nyathi,M,1968,Bronze,Berea,2025-01-02
+C00830,Kagiso,Sithole,F,1959,Bronze,Berea,2023-01-20
+C00831,Rajesh,Mokwena,M,1955,Bronze,Brooklyn,2023-06-05
+C00832,Nokwanda,Mabena,M,,Silver,Hayfields,2024-05-04
+C00833,David,Sibanda,M,2004,Bronze,Edenvale,2023-01-04
+C00834,Sarah,du Plessis,F,1989,Bronze,Greenacres,2023-11-07
+C00835,James,Khumalo,M,1996,Bronze,Menlyn,2023-03-24
+C00836,Khanyisile,van Wyk,M,1973,Bronze,CBD,2024-01-29
+C00837,Tumelo,Pretorius,F,1979,Bronze,Randburg,2024-05-13
+C00838,Tshepo,Jones,M,,Bronze,Westville,2023-09-02
+C00839,Rajesh,Radebe,F,1989,Bronze,Berea,2023-01-17
+C00840,Sipho,Mabena,F,2005,Bronze,Sandton,2025-04-06
+C00841,Mosa,Adams,F,1998,Bronze,Westville,2023-08-27
+C00842,Zanele,Mokoena,M,1986,Bronze,Pinetown,2023-02-16
+C00843,Andile,Mahlangu,F,,Bronze,Paarl Central,2024-04-12
+C00844,Kabelo,Botha,M,1959,Bronze,Hayfields,2024-09-01
+C00845,Bontle,Ngcobo,F,1967,Silver,Greenacres,2024-02-16
+C00846,Johan,Zulu,,1991,Bronze,Sandton,2025-02-21
+C00847,Sipho,Zwane,F,1959,Bronze,Wonderpark,2023-06-22
+C00848,Nokwanda,Mhlongo,M,1983,Bronze,Parow,2023-04-13
+C00849,Karabo,Ngcobo,F,,Bronze,Sea Point,2023-01-08
+C00850,Mandla,Mabaso,M,1992,Bronze,Umhlanga,2024-12-09
+C00851,Naledi,Naidoo,F,1972,Bronze,George Central,2024-09-17
+C00852,Nokwanda,Mokoena,M,2000,Gold,Mthatha Central,2023-11-05
+C00853,Anika,Moyo,F,1970,Gold,Paarl Central,2024-07-06
+C00854,Aisha,Govender,F,1995,Bronze,Midrand,2023-04-26
+C00855,Karabo,Mokwena,M,1985,Bronze,CBD,2023-02-25
+C00856,Mosa,Mhlongo,F,1982,Bronze,Pinetown,2023-02-14
+C00857,Lindiwe,Khumalo,M,1966,Bronze,Phoenix,2023-04-29
+C00858,Zanele,Pillay,M,1992,Bronze,Greenacres,2023-11-30
+C00859,Nokuthula,Zulu,F,1961,Bronze,Midrand,2024-01-20
+C00860,Nokuthula,Ndlovu,F,1986,Bronze,Sandton,2024-09-16
+C00861,Michael,van der Merwe,F,1963,Bronze,Randburg,2023-10-04
+C00862,Palesa,Mabena,F,1999,Bronze,Mitchell's Plain,2025-05-22
+C00863,Michael,van Wyk,F,2003,Silver,Berea,2023-06-10
+C00864,Karabo,Ngcobo,M,1991,Silver,Stellenbosch Central,2024-02-26
+C00865,Mandisa,Adams,F,1968,Silver,Brooklyn,2023-01-15
+C00866,Vuyo,Smith,M,1970,Bronze,Edenvale,2024-08-28
+C00867,Themba,Mkhize,M,1981,Bronze,Umhlanga,2025-01-21
+C00868,Refiloe,Joseph,F,1988,Silver,Walmer,2025-04-21
+C00869,Lindiwe,Jones,F,1960,Bronze,Wonderpark,2023-08-12
+C00870,Naledi,Cele,F,1996,Bronze,Beacon Bay,2023-11-09
+C00871,Refilwe,van Wyk,M,2002,Gold,Pinetown,2024-02-20
+C00872,Mandla,Mhlongo,M,2000,Silver,Constantia,2024-01-30
+C00873,Nokwanda,Mabena,M,1973,Bronze,Pinetown,2024-07-09
+C00874,Kgomotso,Naidoo,M,1960,Bronze,Khayelitsha,2024-06-11
+C00875,Lungile,Mhlongo,M,1962,Bronze,CBD,2024-01-10
+C00876,Marius,van der Merwe,M,2000,Silver,Sandton,2023-05-22
+C00877,Pieter,Pillay,M,1996,Gold,Westville,2023-08-03
+C00878,Lehlogonolo,Govender,F,1972,Bronze,Khayelitsha,2023-03-06
+C00879,Marius,Cele,F,1987,Bronze,PMB Central,2024-11-25
+C00880,Dineo,Nyathi,M,1983,Silver,Walmer,2025-04-08
+C00881,Zanele,Pretorius,M,1984,Bronze,George Central,2023-10-23
+C00882,Zanele,Sithole,F,1962,Bronze,Sandton,2024-06-17
+C00883,Thandiwe,Dlamini,F,1998,Bronze,Randburg,2024-03-06
+C00884,Rachel,Dlamini,F,,Silver,Chatsworth,2024-10-22
+C00885,Pieter,Moyo,M,1996,Bronze,Westville,2024-11-12
+C00886,Nokwanda,Adams,M,1983,Bronze,Krugersdorp,2023-06-25
+C00887,Karabo,Patel,F,1978,Silver,Khayelitsha,2023-06-01
+C00888,Anika,Maseko,F,1965,Bronze,PMB Central,2023-10-20
+C00889,Mandla,van der Merwe,M,1999,Silver,Tygervalley,2023-09-01
+C00890,Bongani,Mokoena,,1991,Bronze,George Central,2023-07-30
+C00891,Yusuf,Mokoena,M,1977,Bronze,Tygervalley,2024-06-30
+C00892,Ayanda,Zulu,M,1980,Silver,Pinetown,2023-11-24
+C00893,Themba,Nkosi,,1989,Bronze,Alberton,2024-04-30
+C00894,Mpho,Mkhize,M,1991,Gold,Menlyn,2024-05-05
+C00895,Sipho,Mahlangu,M,1962,Bronze,Edenvale,2024-04-01
+C00896,Anika,Mabaso,F,1993,Bronze,Edenvale,2025-03-11
+C00897,Refiloe,Khan,F,1960,Bronze,Beacon Bay,2023-03-31
+C00898,Aisha,Sibanda,F,1975,Bronze,Khayelitsha,2024-11-13
+C00899,Marius,Sibanda,F,1982,Bronze,Alberton,2023-12-20
+C00900,Anika,Mthembu,,1990,Silver,Berea,2025-01-29
+C00901,Emma,Jones,F,2001,Bronze,Wonderpark,2023-05-23
+C00902,Khanyisile,Zwane,M,1964,Bronze,Chatsworth,2023-12-10
+C00903,Zanele,Zwane,M,,Bronze,Brooklyn,2024-02-29
+C00904,Mandla,Buthelezi,F,1991,Bronze,George Central,2025-05-02
+C00905,Sarah,Maseko,M,1957,Bronze,Westville,2023-11-08
+C00906,Rajesh,Buthelezi,M,,Bronze,Boksburg,2023-11-04
+C00907,Thandiwe,du Plessis,F,1997,Bronze,Hayfields,2024-12-05
+C00908,Mosa,Pillay,F,2003,Gold,Constantia,2024-01-06
+C00909,Lesedi,du Plessis,M,1971,Bronze,Walmer,2025-04-17
+C00910,Bongani,Mhlongo,M,,Bronze,Westville,2023-03-01
+C00911,Themba,Tshabalala,F,1999,Bronze,Brooklyn,2024-01-05
+C00912,Emma,Cele,F,1973,Gold,Phoenix,2023-07-07
+C00913,Lehlogonolo,Sithole,M,1965,Silver,Greenacres,2025-03-30
+C00914,Ayanda,Khan,M,1999,Bronze,Randburg,2025-04-23
+C00915,Themba,Nkosi,F,1973,Bronze,Menlyn,2023-06-16
+C00916,Lindiwe,Naidoo,F,1969,Silver,Ballito,2024-09-20
+C00917,Nokwanda,Adams,M,2000,Silver,Mitchell's Plain,2024-03-03
+C00918,Michael,Ndlovu,F,1963,Bronze,Krugersdorp,2024-12-08
+C00919,Marius,Mahlangu,M,1993,Gold,George Central,2023-01-30
+C00920,Olwethu,Zulu,F,1999,Bronze,Parow,2023-08-03
+C00921,Naledi,Mabaso,F,2003,Bronze,Umhlanga,2025-02-14
+C00922,David,Mokoena,F,1957,Bronze,Khayelitsha,2024-04-25
+C00923,Bongani,Patel,F,1974,Silver,Mitchell's Plain,2024-09-08
+C00924,Sizwe,Zwane,M,1966,Bronze,Bellville,2025-05-16
+C00925,Olwethu,Khan,M,1977,Silver,Pinetown,2023-09-05
+C00926,Aisha,Mkhize,F,1992,Bronze,Midrand,2023-10-16
+C00927,Refilwe,Nyathi,F,2001,Bronze,Phoenix,2025-05-21
+C00928,Sibusiso,du Plessis,F,1992,Bronze,Paarl Central,2023-07-05
+C00929,Khanyisile,Cele,,1982,Bronze,Mitchell's Plain,2025-02-18
+C00930,Johan,Zulu,F,1988,Silver,Alberton,2024-07-24
+C00931,Vuyo,Mokoena,F,1986,Bronze,Berea,2025-01-23
+C00932,Ayanda,Jones,F,1981,Silver,Midrand,2025-05-27
+C00933,Zanele,du Plessis,M,1978,Gold,Hayfields,2024-02-10
+C00934,Rachel,Adams,M,1960,Bronze,Walmer,2024-08-27
+C00935,Lindiwe,Botha,F,1967,Bronze,Fourways,2023-05-06
+C00936,Nokuthula,Smith,M,1972,Silver,Westville,2023-10-07
+C00937,Lehlogonolo,Sibanda,F,1997,Bronze,Hayfields,2024-06-07
+C00938,Busisiwe,Mokwena,M,1961,Bronze,Edenvale,2024-10-05
+C00939,Naledi,Dlamini,F,1958,Bronze,Claremont,2023-07-03
+C00940,Sarah,Sibiya,M,1964,Bronze,Constantia,2024-11-07
+C00941,Lehlogonolo,Adams,M,2005,Bronze,Hayfields,2024-05-17
+C00942,Aisha,Patel,M,1989,Gold,CBD,2024-11-30
+C00943,Sarah,Jones,F,1979,Bronze,George Central,2024-07-24
+C00944,Tumelo,Mthembu,M,1965,Bronze,Soweto,2024-05-14
+C00945,Lehlogonolo,Zulu,M,1986,Bronze,Richards Bay Central,2024-04-26
+C00946,Priya,Buthelezi,M,1987,Bronze,Westville,2024-01-22
+C00947,Kabelo,Cele,M,1973,Bronze,CBD,2023-05-12
+C00948,Khanyisile,Mhlongo,F,2002,Silver,Mthatha Central,2023-12-16
+C00949,Sarah,Sithole,F,1977,Bronze,Roodepoort,2023-09-11
+C00950,Andile,Mthembu,M,1999,Bronze,Menlyn,2023-06-23
+C00951,Lerato,Nyathi,F,1984,Bronze,Phoenix,2024-03-07
+C00952,Busisiwe,Dlamini,M,,Bronze,Richards Bay Central,2024-02-04
+C00953,Johan,Mkhize,F,1986,Bronze,Menlyn,2024-05-23
+C00954,Aisha,Mabena,F,1974,Bronze,Hayfields,2024-10-12
+C00955,Mandisa,Ndlovu,M,1989,Bronze,Krugersdorp,2024-08-10
+C00956,James,Govender,M,1960,Bronze,Westville,2023-12-11
+C00957,Busisiwe,Ndlovu,M,1988,Bronze,Constantia,2024-10-29
+C00958,Dineo,Mthembu,M,1974,Bronze,Midrand,2024-02-29
+C00959,James,Patel,M,1984,Bronze,Claremont,2024-10-04
+C00960,Sibusiso,Adams,M,1991,Bronze,Pinetown,2023-10-02
+C00961,Thandiwe,Nyathi,M,2004,Gold,Mthatha Central,2023-07-25
+C00962,Marius,van Wyk,F,1964,Silver,Rosebank,2024-02-25
+C00963,Johan,Ndlovu,M,1981,Bronze,Tygervalley,2023-09-20
+C00964,Lungile,Sibiya,F,1970,Bronze,Roodepoort,2025-03-27
+C00965,Dineo,Mthembu,F,1990,Bronze,CBD,2023-07-26
+C00966,Refilwe,Khan,F,1971,Bronze,Ballito,2023-06-30
+C00967,Mosa,Mokoena,,1986,Bronze,Stellenbosch Central,2023-11-18
+C00968,Nthabiseng,Mthembu,M,1981,Bronze,Stellenbosch Central,2024-02-11
+C00969,Khanyisile,Mahlangu,F,1991,Gold,Chatsworth,2024-08-17
+C00970,Refiloe,Adams,F,1960,Bronze,Centurion,2023-12-04
+C00971,Khanyisile,Zwane,M,2002,Gold,Sandton,2023-06-29
+C00972,Sizwe,Khan,F,1971,Bronze,PMB Central,2024-01-19
+C00973,Nokwanda,Zulu,F,1982,Bronze,Brooklyn,2025-06-19
+C00974,Karabo,Mokwena,F,2000,Bronze,Vincent,2024-09-12
+C00975,Sipho,Khumalo,M,2005,Bronze,Soweto,2023-11-13
+C00976,Thandiwe,Mhlongo,M,1998,Silver,Berea,2024-02-02
+C00977,Thabo,Sibanda,M,1971,Gold,Roodepoort,2023-06-14
+C00978,Rachel,Tshabalala,M,2004,Silver,Brooklyn,2025-06-06
+C00979,Tshepo,Coetzee,F,1981,Bronze,Rosebank,2025-06-16
+C00980,Dineo,Sithole,M,1999,Bronze,Wonderpark,2024-09-08
+C00981,Vuyo,Buthelezi,M,1984,Silver,Vincent,2024-10-18
+C00982,Mandla,Jones,M,,Bronze,Krugersdorp,2023-11-18
+C00983,Kgomotso,Mabaso,F,1970,Gold,Vincent,2024-08-31
+C00984,Lungile,Moyo,M,1975,Silver,Parow,2023-09-24
+C00985,Mandla,Zwane,M,1973,Bronze,George Central,2024-02-07
+C00986,Sarah,Mkhize,F,1956,Bronze,Mthatha Central,2023-08-23
+C00987,Tshepo,van Wyk,F,1999,Bronze,Pinetown,2024-03-15
+C00988,Nthabiseng,Patel,F,1978,Bronze,Sea Point,2025-01-05
+C00989,Fatima,Smith,M,1984,Bronze,Edenvale,2024-12-31
+C00990,Sizwe,Pretorius,M,2005,Silver,Soweto,2023-05-14
+C00991,David,Naidoo,M,1973,Bronze,George Central,2024-02-23
+C00992,Karabo,Mokwena,F,1971,Bronze,Roodepoort,2024-01-14
+C00993,Lesedi,van Wyk,F,1985,Bronze,Walmer,2024-02-12
+C00994,Lungile,Naidoo,M,2000,Bronze,Constantia,2023-04-08
+C00995,Yusuf,Khumalo,F,1970,Bronze,Berea,2024-11-17
+C00996,Bontle,Sibiya,M,,Bronze,Soweto,2023-11-06
+C00997,James,Mhlongo,F,,Bronze,Tygervalley,2024-05-30
+C00998,Rajesh,Mabena,M,1963,Silver,Rosebank,2023-05-26
+C00999,Kagiso,Zulu,F,1963,Gold,Brooklyn,2024-03-16
+C01000,Mpho,Patel,M,2003,Bronze,Rosebank,2023-06-18
+C01001,Johan,Coetzee,M,1964,Gold,Mthatha Central,2023-02-24
+C01002,Palesa,Mokwena,F,,Bronze,Pinetown,2024-03-22
+C01003,Bongani,Coetzee,F,1977,Bronze,Pinetown,2024-05-19
+C01004,Bongani,Mokwena,F,1960,Bronze,Tygervalley,2025-02-06
+C01005,Aisha,Khan,M,1997,Bronze,Sea Point,2024-06-22
+C01006,Refiloe,Mkhize,F,1959,Bronze,Paarl Central,2025-06-27
+C01007,Pieter,Dlamini,F,1998,Bronze,Paarl Central,2025-05-07
+C01008,Johan,Mokwena,F,1984,Bronze,Pinetown,2024-10-05
+C01009,Busisiwe,Sibiya,M,1976,Bronze,Berea,2023-11-29
+C01010,Vuyo,Mkhize,F,1958,Bronze,Khayelitsha,2025-01-31
+C01011,Zanele,Buthelezi,,1979,Bronze,Roodepoort,2025-02-28
+C01012,Nokulunga,Sibanda,F,1968,Silver,Alberton,2024-10-24
+C01013,Lehlogonolo,Mokwena,F,1986,Silver,Krugersdorp,2024-12-02
+C01014,Nthabiseng,Mahlangu,F,1961,Bronze,Hayfields,2024-04-01
+C01015,Sarah,du Plessis,F,1993,Silver,Hatfield,2024-09-20
+C01016,Mandla,Smith,M,,Bronze,Pinetown,2024-11-23
+C01017,Nokuthula,Mokwena,M,1988,Bronze,Alberton,2024-04-24
+C01018,David,Mabaso,M,1985,Gold,Greenacres,2025-02-05
+C01019,Fatima,Smith,F,1958,Silver,Phoenix,2023-04-21
+C01020,Aisha,Smith,F,1984,Bronze,Boksburg,2023-12-30
+C01021,Kagiso,Zwane,F,,Silver,Pinetown,2023-07-03
+C01022,Karabo,van der Merwe,M,1957,Silver,Krugersdorp,2023-11-18
+C01023,Lesedi,van Wyk,M,1983,Bronze,George Central,2023-08-05
+C01024,Mandla,Mabaso,M,1993,Bronze,Rosebank,2024-07-01
+C01025,Lerato,Nkosi,F,1955,Bronze,Walmer,2024-02-19
+C01026,Nokulunga,Sibiya,M,1974,Gold,Hatfield,2024-02-09
+C01027,Bontle,Mthembu,F,,Bronze,Claremont,2024-12-13
+C01028,Palesa,Dlamini,F,1996,Bronze,Mthatha Central,2025-05-28
+C01029,Karabo,Nyathi,F,1974,Bronze,Rosebank,2023-01-23
+C01030,Bongani,Botha,M,2002,Gold,Umhlanga,2024-04-05
+C01031,Lesedi,Pillay,F,1991,Bronze,Menlyn,2023-01-09
+C01032,Lindiwe,Smith,,1986,Bronze,Ballito,2023-10-25
+C01033,Sipho,Coetzee,F,1987,Bronze,Greenacres,2025-04-16
+C01034,Nokulunga,Coetzee,F,1958,Bronze,Centurion,2024-07-20
+C01035,Zanele,Khan,M,1981,Bronze,Pinetown,2024-10-23
+C01036,Anika,Jones,M,1956,Silver,Umhlanga,2023-12-19
+C01037,Rachel,Govender,M,1992,Bronze,Berea,2025-05-23
+C01038,Khanyisile,van Wyk,F,1973,Bronze,Wonderpark,2025-05-03
+C01039,Lungile,Mhlongo,M,1965,Bronze,Stellenbosch Central,2024-11-14
+C01040,Priya,Mahlangu,F,1965,Bronze,Wonderpark,2024-05-20
+C01041,Ayanda,Pillay,F,1958,Bronze,Boksburg,2024-01-01
+C01042,Lungile,Botha,F,,Bronze,Rosebank,2023-04-27
+C01043,Kabelo,Govender,F,1969,Gold,Randburg,2024-07-24
+C01044,Busisiwe,Mokwena,M,1987,Bronze,Khayelitsha,2024-03-24
+C01045,Bontle,van Wyk,,2003,Bronze,Pinetown,2024-09-16
+C01046,Karabo,Sithole,M,1957,Bronze,Mitchell's Plain,2025-06-10
+C01047,Sizwe,Mhlongo,F,1973,Silver,Hayfields,2025-01-20
+C01048,Nokulunga,Sithole,F,1978,Bronze,Midrand,2024-03-25
+C01049,Emma,Nkosi,F,1985,Bronze,Stellenbosch Central,2023-09-30
+C01050,Marius,Moyo,F,1997,Silver,Chatsworth,2024-03-07
+C01051,Karabo,Govender,F,1982,Bronze,Pinetown,2025-05-22
+C01052,Fatima,Mhlongo,M,1983,Bronze,Chatsworth,2023-03-13
+C01053,Tshepo,Mabena,F,2004,Bronze,CBD,2024-11-07
+C01054,Mosa,Mokwena,M,1958,Gold,Beacon Bay,2023-10-30
+C01055,Emma,Sibanda,M,1999,Bronze,Centurion,2023-12-19
+C01056,Thabo,Khan,M,1994,Silver,Berea,2024-10-21
+C01057,Sizwe,Nyathi,M,1994,Bronze,Vincent,2024-02-19
+C01058,Refiloe,Pretorius,M,,Bronze,Parow,2024-06-16
+C01059,Ibrahim,Maseko,F,1987,Bronze,Mthatha Central,2023-06-13
+C01060,Lerato,Dlamini,M,1989,Bronze,Krugersdorp,2025-01-13
+C01061,David,Joseph,F,1958,Bronze,Phoenix,2023-12-29
+C01062,Bongani,Khumalo,M,1962,Bronze,Sea Point,2024-04-09
+C01063,Pieter,Pillay,M,1992,Silver,Mthatha Central,2024-11-12
+C01064,Ibrahim,Sibiya,F,1974,Silver,Richards Bay Central,2024-11-19
+C01065,Naledi,Radebe,M,1970,Bronze,Midrand,2025-04-22
+C01066,Refiloe,Mhlongo,F,1964,Silver,Stellenbosch Central,2023-04-05
+C01067,Nomvula,Smith,M,1985,Bronze,Greenacres,2024-06-22
+C01068,James,Zwane,M,2004,Bronze,Hayfields,2024-10-13
+C01069,David,Jones,M,1986,Bronze,Tygervalley,2023-05-28
+C01070,Aisha,Mahlangu,F,1984,Silver,Chatsworth,2023-05-01
+C01071,Nokwanda,Naidoo,F,1957,Gold,Hatfield,2024-11-30
+C01072,Nthabiseng,Moyo,F,1978,Bronze,Bellville,2023-05-01
+C01073,Marius,Mthembu,,1974,Bronze,Bellville,2023-05-26
+C01074,Karabo,Zwane,F,1974,Bronze,Hayfields,2023-01-03
+C01075,Bongani,Buthelezi,F,1957,Bronze,Richards Bay Central,2024-04-08
+C01076,Pieter,Radebe,F,2001,Bronze,Parow,2024-05-31
+C01077,Thandiwe,van Wyk,M,1997,Silver,Centurion,2023-04-02
+C01078,Bontle,Ngcobo,M,1981,Silver,Menlyn,2024-07-07
+C01079,Sipho,Jones,M,1996,Bronze,Claremont,2024-08-08
+C01080,Thandiwe,Mthembu,M,1962,Bronze,Pinetown,2024-07-08
+C01081,Kgomotso,Khumalo,,1988,Bronze,Claremont,2023-05-04
+C01082,Tumelo,Nyathi,F,1956,Bronze,Westville,2024-03-30
+C01083,Tshepo,Nyathi,M,1980,Bronze,Claremont,2023-12-15
+C01084,David,van der Merwe,F,1988,Bronze,Mitchell's Plain,2023-04-12
+C01085,Ibrahim,Botha,F,1966,Bronze,Krugersdorp,2024-02-22
+C01086,Lungile,Botha,F,1975,Silver,Krugersdorp,2024-02-04
+C01087,Lindiwe,Tshabalala,F,1975,Gold,Mitchell's Plain,2023-09-03
+C01088,Lehlogonolo,Sibiya,M,1986,Bronze,Mitchell's Plain,2023-10-03
+C01089,Nomvula,Tshabalala,F,1981,Bronze,Mthatha Central,2023-08-28
+C01090,Lerato,Khan,M,1992,Bronze,Ballito,2024-10-29
+C01091,Karabo,Mahlangu,F,1981,Silver,Phoenix,2023-07-28
+C01092,Karabo,Mokwena,F,1965,Bronze,Rosebank,2024-07-22
+C01093,Rachel,Mokoena,F,1984,Bronze,Vincent,2023-06-21
+C01094,Thabo,Khumalo,M,1985,Bronze,Greenacres,2024-01-25
+C01095,Anika,Naidoo,M,1987,Bronze,PMB Central,2024-07-30
+C01096,Zanele,Mthembu,F,1999,Bronze,Ballito,2023-10-14
+C01097,David,Naidoo,M,1975,Gold,Mthatha Central,2024-04-08
+C01098,Busisiwe,Pillay,M,1975,Bronze,Berea,2023-12-03
+C01099,Lerato,Mahlangu,M,1955,Bronze,Sea Point,2024-11-19
+C01100,Mandla,Moyo,M,1999,Silver,PMB Central,2023-03-25
+C01101,Karabo,Ndlovu,M,1997,Bronze,Soweto,2025-04-27
+C01102,Nthabiseng,Cele,F,2004,Gold,Mitchell's Plain,2023-07-17
+C01103,Rachel,Nkosi,F,1956,Bronze,Randburg,2023-07-16
+C01104,Tshepo,Ngcobo,M,2000,Gold,Hatfield,2024-05-19
+C01105,Sibusiso,Sibiya,F,1967,Bronze,Mitchell's Plain,2025-06-09
+C01106,Busisiwe,Mkhize,M,1965,Bronze,Richards Bay Central,2024-11-19
+C01107,Lungile,Sibiya,M,1959,Silver,Parow,2023-09-23
+C01108,Kgomotso,Govender,M,2001,Bronze,Greenacres,2023-01-24
+C01109,Nokwanda,Nyathi,M,1998,Bronze,Rosebank,2024-10-18
+C01110,Lungile,Khumalo,M,1975,Gold,Brooklyn,2024-06-14
+C01111,Michael,Coetzee,F,,Silver,Khayelitsha,2023-10-12
+C01112,Emma,Nyathi,F,1955,Bronze,Richards Bay Central,2025-04-07
+C01113,Lerato,Govender,,1982,Silver,Midrand,2023-06-18
+C01114,Pieter,Mthembu,F,1995,Bronze,Claremont,2024-08-29
+C01115,Bontle,Mabena,M,1970,Bronze,Menlyn,2025-05-02
+C01116,Nomvula,Mabena,M,1970,Silver,Pinetown,2024-03-25
+C01117,Lehlogonolo,Sithole,M,1992,Gold,CBD,2023-03-08
+C01118,Karabo,Mahlangu,F,1983,Bronze,Rosebank,2023-03-09
+C01119,Lindiwe,Khumalo,M,1973,Bronze,Pinetown,2025-02-09
+C01120,Emma,Govender,M,2005,Bronze,Soweto,2024-04-20
+C01121,Karabo,Smith,M,1994,Bronze,Greenacres,2025-03-12
+C01122,Lerato,van Wyk,M,1992,Bronze,Berea,2024-12-31
+C01123,Zanele,Zwane,M,1967,Bronze,Phoenix,2023-09-20
+C01124,Anika,Moyo,F,1994,Bronze,CBD,2023-03-03
+C01125,Naledi,Mthembu,M,1987,Silver,Krugersdorp,2024-08-20
+C01126,Ibrahim,Mokwena,F,1974,Bronze,Sea Point,2024-06-14
+C01127,Lesedi,Mokwena,F,1987,Bronze,Khayelitsha,2024-03-08
+C01128,Anika,Pretorius,,1995,Silver,Menlyn,2023-07-13
+C01129,Tumelo,du Plessis,M,1984,Bronze,Westville,2024-08-02
+C01130,Pieter,Ngcobo,F,1976,Bronze,CBD,2024-05-22
+C01131,Nokuthula,Nkosi,M,1999,Bronze,Roodepoort,2024-05-07
+C01132,Olwethu,Mabena,M,1979,Bronze,Sea Point,2024-01-07
+C01133,Thabo,Ndlovu,F,1990,Bronze,Midrand,2024-10-08
+C01134,Lesedi,Mhlongo,F,1956,Bronze,Edenvale,2025-06-25
+C01135,Kagiso,van der Merwe,F,1990,Bronze,George Central,2025-05-13
+C01136,Kagiso,Sithole,F,1998,Bronze,Mitchell's Plain,2023-12-13
+C01137,Sizwe,Mthembu,F,1978,Bronze,Chatsworth,2025-03-29
+C01138,Kabelo,Smith,M,1959,Silver,Parow,2025-03-24
+C01139,Palesa,Pretorius,M,1999,Bronze,Mthatha Central,2023-09-08
+C01140,Sipho,Ngcobo,M,1989,Bronze,Roodepoort,2023-02-24
+C01141,Thandiwe,Khan,M,1987,Silver,Sandton,2025-01-14
+C01142,Tshepo,du Plessis,M,1994,Bronze,Vincent,2025-02-08
+C01143,Aisha,Mhlongo,F,1984,Silver,Chatsworth,2024-12-12
+C01144,Priya,Coetzee,F,1992,Gold,Westville,2023-08-01
+C01145,Nokuthula,Pretorius,F,1970,Bronze,Soweto,2024-08-08
+C01146,Refilwe,Mhlongo,F,1960,Bronze,Berea,2024-06-15
+C01147,Anika,Govender,M,1984,Bronze,Berea,2024-04-23
+C01148,David,Moyo,F,1986,Bronze,George Central,2024-03-28
+C01149,Nokuthula,Patel,M,1977,Bronze,Phoenix,2024-06-09
+C01150,Ibrahim,Mabaso,M,1969,Bronze,CBD,2024-07-13
+C01151,Palesa,Mabena,F,1976,Silver,Greenacres,2025-05-15
+C01152,Busisiwe,Pretorius,M,1963,Silver,PMB Central,2023-09-25
+C01153,Thabo,Mthembu,F,1977,Bronze,Fourways,2025-04-21
+C01154,Lesedi,Nkosi,F,1987,Gold,Fourways,2023-08-03
+C01155,Priya,Govender,M,2005,Bronze,Pinetown,2023-12-15
+C01156,Karabo,Mabaso,F,1967,Gold,Wonderpark,2024-04-05
+C01157,Mandisa,Buthelezi,F,1963,Bronze,Sea Point,2024-05-26
+C01158,Bontle,Cele,F,1981,Silver,Walmer,2024-07-04
+C01159,Ayanda,Tshabalala,M,1991,Gold,Bellville,2025-03-19
+C01160,Kgomotso,Sibiya,M,1991,Gold,Sandton,2024-11-02
+C01161,Ibrahim,Radebe,F,1961,Gold,Mthatha Central,2023-04-06
+C01162,Refilwe,Sithole,M,,Bronze,Hayfields,2023-01-28
+C01163,Mandla,Pretorius,F,1979,Bronze,Beacon Bay,2024-06-20
+C01164,Zanele,van Wyk,F,,Bronze,Wonderpark,2024-02-05
+C01165,Refilwe,Zulu,F,1981,Bronze,Sandton,2023-05-14
+C01166,Nokulunga,Naidoo,F,2000,Bronze,Richards Bay Central,2023-11-14
+C01167,Lesedi,Pretorius,M,1998,Bronze,Bellville,2024-04-01
+C01168,Zanele,Sibanda,M,1970,Silver,Hayfields,2024-04-16
+C01169,Michael,Mkhize,F,1960,Silver,Pinetown,2023-12-22
+C01170,Nokwanda,Mthembu,F,1966,Bronze,Pinetown,2025-01-20
+C01171,David,van Wyk,F,1997,Bronze,Fourways,2024-12-16
+C01172,Sipho,Pillay,M,1965,Bronze,Alberton,2024-11-13
+C01173,Zanele,Naidoo,M,1981,Bronze,Hatfield,2023-03-20
+C01174,Lehlogonolo,Sithole,M,2004,Bronze,Boksburg,2023-08-01
+C01175,Aisha,Mokoena,F,1959,Bronze,Pinetown,2024-01-26
+C01176,Pieter,Sibanda,M,,Bronze,Parow,2023-12-01
+C01177,Tumelo,van Wyk,F,1959,Bronze,Berea,2023-05-24
+C01178,Priya,Khan,M,1965,Bronze,George Central,2023-10-29
+C01179,Bongani,Nyathi,M,1965,Silver,Greenacres,2023-10-07
+C01180,Themba,Jones,F,1968,Silver,PMB Central,2023-08-10
+C01181,Rachel,Khumalo,M,1988,Silver,Paarl Central,2024-02-04
+C01182,Nokwanda,Mthembu,F,,Silver,Midrand,2023-09-13
+C01183,Marius,Pillay,F,1956,Gold,Menlyn,2023-03-06
+C01184,Nokuthula,Sithole,M,1997,Bronze,Wonderpark,2024-06-08
+C01185,Lindiwe,Tshabalala,F,1995,Bronze,PMB Central,2024-02-09
+C01186,David,Zulu,F,1961,Bronze,Fourways,2024-10-31
+C01187,Johan,Nkosi,F,1984,Bronze,Brooklyn,2024-10-27
+C01188,Kabelo,Mhlongo,F,1968,Silver,Hayfields,2023-04-15
+C01189,Sibusiso,Nyathi,M,1991,Gold,Berea,2024-02-02
+C01190,Lungile,Mahlangu,F,1995,Bronze,Beacon Bay,2024-05-08
+C01191,Zanele,Mabena,F,1992,Bronze,Edenvale,2024-05-30
+C01192,Lesedi,Nkosi,F,1994,Bronze,Roodepoort,2025-01-25
+C01193,David,Pillay,M,1958,Bronze,Midrand,2023-06-05
+C01194,Sarah,Naidoo,M,1970,Bronze,Berea,2025-01-26
+C01195,Pieter,Mahlangu,F,1996,Bronze,Wonderpark,2024-10-25
+C01196,Dineo,Maseko,M,1969,Bronze,Roodepoort,2023-07-30
+C01197,Ibrahim,Khumalo,M,1997,Silver,Walmer,2025-01-06
+C01198,Nokuthula,Sibiya,M,1988,Bronze,Sea Point,2023-03-08
+C01199,Nokulunga,Coetzee,F,1967,Gold,Sandton,2023-06-27
+C01200,Lesedi,Buthelezi,M,1968,Bronze,Pinetown,2023-11-15
+C01201,Refilwe,Pretorius,F,1966,Bronze,Richards Bay Central,2024-04-04
+C01202,Thandiwe,Pretorius,F,2005,Gold,Hatfield,2023-06-21
+C01203,Priya,Jones,F,1994,Silver,Umhlanga,2023-01-21
+C01204,Lehlogonolo,Radebe,F,1960,Gold,Berea,2024-07-20
+C01205,Vuyo,van der Merwe,F,1984,Bronze,Ballito,2024-09-12
+C01206,Priya,Ndlovu,F,2000,Bronze,Midrand,2023-01-05
+C01207,Thabo,Joseph,M,1978,Gold,Fourways,2025-04-10
+C01208,Sarah,Coetzee,F,1992,Silver,Mitchell's Plain,2024-01-30
+C01209,Kgomotso,Botha,F,1982,Silver,Randburg,2024-06-05
+C01210,Sibusiso,Coetzee,M,1978,Bronze,Rosebank,2025-01-23
+C01211,Andile,Pillay,F,1978,Bronze,Walmer,2024-11-12
+C01212,Mosa,Mokwena,F,1984,Bronze,Roodepoort,2024-09-08
+C01213,Lesedi,Botha,F,2004,Silver,Soweto,2024-02-12
+C01214,Sibusiso,Zwane,,1960,Bronze,Rosebank,2023-06-19
+C01215,Khanyisile,Smith,F,1974,Bronze,Soweto,2024-08-23
+C01216,Ayanda,Moyo,M,2001,Bronze,Richards Bay Central,2025-03-06
+C01217,Bontle,Cele,M,1972,Gold,Fourways,2023-01-07
+C01218,Refilwe,Coetzee,F,1959,Bronze,Wonderpark,2024-11-01
+C01219,Mpho,Smith,F,1978,Bronze,Hayfields,2023-07-06
+C01220,Aisha,Zulu,F,1968,Bronze,George Central,2025-04-08
+C01221,Lehlogonolo,Pretorius,F,1981,Silver,Paarl Central,2025-06-08
+C01222,Thandiwe,Botha,F,1960,Bronze,Menlyn,2023-01-31
+C01223,Lesedi,Pillay,F,1998,Bronze,Brooklyn,2025-02-08
+C01224,Thabo,Zwane,M,1957,Bronze,Sea Point,2024-01-20
+C01225,Nthabiseng,Adams,,2003,Bronze,Menlyn,2024-09-10
+C01226,David,Mabena,F,1976,Silver,Hatfield,2024-11-12
+C01227,James,Radebe,M,1977,Silver,Sea Point,2024-04-12
+C01228,Nokulunga,Sibanda,M,,Bronze,Chatsworth,2023-10-14
+C01229,Nokwanda,Pillay,F,1994,Silver,Phoenix,2024-02-28
+C01230,Tumelo,Pretorius,F,1995,Silver,Claremont,2024-10-10
+C01231,Marius,Mokoena,,2002,Bronze,Berea,2024-05-11
+C01232,James,Ngcobo,M,1977,Gold,Umhlanga,2024-11-21
+C01233,Vuyo,Radebe,F,1967,Silver,Richards Bay Central,2025-03-14
+C01234,Mandisa,Joseph,F,1986,Bronze,Greenacres,2024-07-15
+C01235,Nokulunga,van Wyk,F,1983,Bronze,PMB Central,2023-09-04
+C01236,Andile,Naidoo,F,1997,Bronze,Claremont,2023-06-14
+C01237,Johan,Radebe,M,1969,Bronze,Beacon Bay,2023-05-07
+C01238,Tumelo,Mahlangu,M,1995,Bronze,Walmer,2023-12-07
+C01239,Nokulunga,Govender,M,2004,Bronze,Menlyn,2024-01-22
+C01240,Sibusiso,Radebe,M,2005,Silver,Edenvale,2023-08-17
+C01241,Kagiso,Zulu,F,1962,Silver,Midrand,2025-02-01
+C01242,Bongani,Mkhize,F,1975,Bronze,Sea Point,2023-11-15
+C01243,Nomvula,Zwane,M,1979,Bronze,Hatfield,2025-03-27
+C01244,Lungile,Mahlangu,M,1993,Bronze,Sea Point,2024-07-05
+C01245,Mandisa,van Wyk,F,1973,Bronze,Pinetown,2023-05-31
+C01246,Nthabiseng,Maseko,F,1997,Silver,CBD,2024-09-05
+C01247,Johan,Mthembu,M,1999,Gold,Richards Bay Central,2023-08-09
+C01248,Rajesh,Maseko,M,1979,Silver,Bellville,2025-04-27
+C01249,Sibusiso,Naidoo,M,1969,Bronze,George Central,2025-05-27
+C01250,Rajesh,Sibanda,F,1997,Bronze,Claremont,2024-07-15
+C01251,James,Mabena,F,1985,Silver,Fourways,2023-03-15
+C01252,Fatima,Maseko,F,1967,Bronze,Paarl Central,2023-05-15
+C01253,Johan,Zwane,M,1958,Silver,Pinetown,2024-11-01
+C01254,Refilwe,Mkhize,F,1999,Silver,Sandton,2023-08-12
+C01255,Bontle,Pretorius,M,1955,Silver,Paarl Central,2024-11-25
+C01256,Karabo,Mokwena,F,1982,Bronze,Khayelitsha,2023-04-09
+C01257,Anika,du Plessis,F,1958,Bronze,Menlyn,2024-08-30
+C01258,David,Mokwena,M,1980,Bronze,Fourways,2024-05-15
+C01259,Ayanda,Sibiya,,1996,Silver,Beacon Bay,2024-11-05
+C01260,Tshepo,van Wyk,M,1996,Bronze,Berea,2024-01-12
+C01261,Thabo,Zulu,F,1962,Bronze,Phoenix,2023-08-19
+C01262,Lerato,Zwane,M,1991,Bronze,Paarl Central,2025-03-24
+C01263,Lesedi,van der Merwe,F,1996,Bronze,Parow,2023-04-12
+C01264,Johan,Ndlovu,M,2005,Bronze,Walmer,2023-01-21
+C01265,James,Buthelezi,M,2005,Bronze,Chatsworth,2025-05-07
+C01266,Lesedi,Nyathi,M,2005,Silver,Sandton,2024-11-05
+C01267,Bongani,van der Merwe,M,1999,Bronze,Centurion,2023-05-06
+C01268,Sipho,Mahlangu,M,1996,Bronze,CBD,2023-03-28
+C01269,Bongani,Joseph,F,1989,Gold,Beacon Bay,2023-11-04
+C01270,Sipho,Adams,M,1973,Bronze,Richards Bay Central,2024-05-17
+C01271,Nokwanda,Tshabalala,M,1977,Bronze,Walmer,2023-04-12
+C01272,Tumelo,Mokoena,F,1967,Silver,Sandton,2023-05-18
+C01273,Nthabiseng,Buthelezi,F,1977,Silver,Rosebank,2023-03-18
+C01274,Yusuf,Patel,F,1996,Bronze,Stellenbosch Central,2023-09-18
+C01275,Lungile,Smith,M,1964,Bronze,Brooklyn,2024-10-10
+C01276,Nokwanda,Pretorius,M,1991,Silver,Berea,2023-06-17
+C01277,Emma,Mokwena,F,2005,Bronze,Berea,2023-09-11
+C01278,Zanele,Khan,F,1962,Bronze,Menlyn,2024-10-17
+C01279,Tshepo,Mhlongo,M,2004,Silver,Edenvale,2023-10-08
+C01280,Thabo,Sithole,F,1969,Bronze,Mitchell's Plain,2023-06-29
+C01281,Fatima,Mthembu,M,1986,Bronze,Richards Bay Central,2025-06-05
+C01282,Mpho,Buthelezi,F,1961,Bronze,Soweto,2023-07-05
+C01283,Anika,Nyathi,M,1980,Bronze,Sea Point,2024-12-04
+C01284,Aisha,Mokwena,M,1964,Silver,Khayelitsha,2025-01-12
+C01285,Thandiwe,Mhlongo,M,1970,Bronze,Pinetown,2023-07-07
+C01286,Rachel,Cele,M,1987,Gold,Chatsworth,2025-01-26
+C01287,Ayanda,Mabaso,M,1981,Silver,Mthatha Central,2023-03-23
+C01288,Zanele,Pillay,M,1965,Bronze,Alberton,2024-07-21
+C01289,Rajesh,Nkosi,,1982,Gold,Parow,2024-06-11
+C01290,Lungile,Nyathi,M,,Bronze,Sea Point,2025-01-01
+C01291,David,Nyathi,M,1970,Bronze,Chatsworth,2024-12-01
+C01292,Nthabiseng,Mokoena,M,1965,Silver,Chatsworth,2023-08-19
+C01293,Mandla,Ndlovu,F,1963,Gold,Rosebank,2023-06-24
+C01294,Marius,Zulu,F,1998,Bronze,Mitchell's Plain,2023-10-25
+C01295,Ayanda,du Plessis,F,,Bronze,Fourways,2023-08-11
+C01296,Ayanda,Joseph,M,1957,Silver,Hayfields,2023-02-28
+C01297,Anika,Nkosi,M,1976,Bronze,Randburg,2025-06-30
+C01298,Vuyo,van der Merwe,F,1955,Bronze,Stellenbosch Central,2024-06-25
+C01299,Aisha,Mokwena,F,,Silver,Boksburg,2023-08-20
+C01300,Priya,Sibanda,F,1978,Bronze,Brooklyn,2023-04-22
+C01301,Rachel,Jones,F,1977,Bronze,Midrand,2023-04-24
+C01302,Palesa,Maseko,F,1980,Bronze,CBD,2023-06-14
+C01303,Tumelo,Pretorius,M,1997,Bronze,Hayfields,2024-07-17
+C01304,Rajesh,Mahlangu,F,2003,Bronze,Soweto,2023-05-15
+C01305,Bongani,Sithole,M,1963,Bronze,Greenacres,2023-08-31
+C01306,Nomvula,Mabena,F,1993,Bronze,Alberton,2023-10-16
+C01307,Rajesh,Mabaso,M,1970,Silver,George Central,2023-09-13
+C01308,Busisiwe,Zulu,M,1999,Silver,Midrand,2024-04-30
+C01309,Sibusiso,Sithole,M,1987,Bronze,Westville,2024-10-06
+C01310,Thandiwe,Mokwena,F,1963,Bronze,Midrand,2023-05-30
+C01311,David,Dlamini,M,1960,Bronze,Chatsworth,2023-11-10
+C01312,Nokwanda,Govender,F,1982,Bronze,Vincent,2023-02-22
+C01313,Ayanda,Zulu,F,1972,Silver,Roodepoort,2023-11-24
+C01314,Nomvula,van der Merwe,F,1958,Bronze,Alberton,2024-04-28
+C01315,Busisiwe,Sibiya,F,1966,Bronze,Menlyn,2023-11-08
+C01316,Bongani,Sithole,M,1998,Silver,Menlyn,2024-01-05
+C01317,Olwethu,Mhlongo,M,1992,Bronze,Vincent,2023-10-10
+C01318,Sizwe,Zwane,F,1961,Silver,Mitchell's Plain,2023-02-12
+C01319,Lesedi,Pretorius,F,1983,Bronze,PMB Central,2024-09-25
+C01320,Pieter,Mthembu,M,2003,Silver,CBD,2023-05-11
+C01321,Palesa,Moyo,M,1971,Silver,Ballito,2023-12-22
+C01322,Marius,Jones,M,1962,Bronze,Wonderpark,2024-06-20
+C01323,Aisha,Dlamini,F,1972,Bronze,CBD,2024-08-02
+C01324,Nomvula,Pretorius,M,1980,Bronze,Phoenix,2023-03-18
+C01325,Refilwe,Jones,M,1979,Bronze,Berea,2023-10-06
+C01326,Sizwe,van der Merwe,F,1991,Bronze,Phoenix,2024-04-11
+C01327,Aisha,Adams,F,1969,Bronze,Mitchell's Plain,2023-06-25
+C01328,Nokuthula,Mokoena,M,,Bronze,Brooklyn,2023-05-17
+C01329,Busisiwe,Khumalo,M,1970,Bronze,Mitchell's Plain,2023-01-02
+C01330,Mosa,Cele,M,1978,Gold,Ballito,2023-05-17
+C01331,Emma,Ngcobo,F,1958,Bronze,Randburg,2023-08-13
+C01332,Vuyo,Khan,F,1956,Gold,Westville,2024-01-27
+C01333,Mosa,Patel,M,1995,Bronze,Berea,2023-08-14
+C01334,Johan,Khan,F,1995,Silver,Bellville,2024-04-01
+C01335,Nokuthula,Smith,F,1985,Bronze,George Central,2025-04-15
+C01336,Nokulunga,van der Merwe,F,1986,Bronze,Alberton,2023-01-22
+C01337,Ayanda,Botha,M,1980,Bronze,Bellville,2023-03-15
+C01338,David,Pillay,F,1996,Bronze,Chatsworth,2023-05-21
+C01339,Vuyo,Nkosi,M,1979,Bronze,Sea Point,2025-02-20
+C01340,Khanyisile,Mokoena,F,2004,Bronze,Mthatha Central,2024-09-06
+C01341,Thabo,Nkosi,,1961,Silver,Stellenbosch Central,2023-07-27
+C01342,Naledi,du Plessis,M,1983,Bronze,Umhlanga,2023-06-08
+C01343,Andile,Khumalo,M,1972,Bronze,CBD,2023-04-16
+C01344,Ibrahim,Maseko,F,1981,Silver,Claremont,2023-08-21
+C01345,David,Radebe,F,1996,Gold,Greenacres,2023-04-26
+C01346,Rajesh,Botha,,1969,Gold,Randburg,2023-12-08
+C01347,Bongani,Mhlongo,M,1960,Bronze,George Central,2024-03-14
+C01348,Fatima,Mabena,M,1998,Silver,Greenacres,2023-11-05
+C01349,Kabelo,Maseko,F,1961,Bronze,Hatfield,2023-09-29
+C01350,Bontle,Ndlovu,M,1964,Bronze,Bellville,2024-02-04
+C01351,Rachel,du Plessis,M,1962,Gold,Brooklyn,2023-11-27
+C01352,Naledi,van der Merwe,M,1977,Bronze,Walmer,2024-02-28
+C01353,Nthabiseng,Mabena,F,1996,Bronze,Ballito,2024-05-24
+C01354,Ibrahim,Nyathi,F,1989,Bronze,Westville,2025-01-02
+C01355,Emma,Adams,M,1999,Bronze,Stellenbosch Central,2023-08-29
+C01356,Marius,Nkosi,F,1956,Bronze,Parow,2023-04-23
+C01357,Nomvula,Cele,F,2004,Bronze,Bellville,2025-05-05
+C01358,Mandisa,Buthelezi,,1981,Silver,Khayelitsha,2025-02-03
+C01359,Naledi,Zulu,,2000,Silver,Walmer,2024-03-10
+C01360,Marius,Khumalo,M,1997,Bronze,Berea,2025-06-10
+C01361,Refilwe,Dlamini,F,1964,Bronze,Richards Bay Central,2025-05-01
+C01362,Dineo,Moyo,F,1966,Bronze,Chatsworth,2024-12-16
+C01363,Ayanda,du Plessis,F,1976,Bronze,Sea Point,2023-10-21
+C01364,Bongani,Mokwena,F,,Silver,Phoenix,2023-06-14
+C01365,Thabo,Sibanda,M,1998,Bronze,Boksburg,2024-08-08
+C01366,Aisha,Mthembu,M,1982,Bronze,Stellenbosch Central,2024-06-18
+C01367,Sarah,Mahlangu,M,1980,Bronze,George Central,2025-04-22
+C01368,Olwethu,Buthelezi,M,1959,Bronze,Centurion,2024-10-30
+C01369,Mosa,Sibanda,M,1965,Bronze,Rosebank,2023-07-19
+C01370,Busisiwe,Sithole,F,1978,Silver,Claremont,2023-09-03
+C01371,Mpho,Botha,M,1959,Bronze,Krugersdorp,2023-07-12
+C01372,Yusuf,Pretorius,M,1957,Bronze,Richards Bay Central,2024-08-01
+C01373,Sipho,Mkhize,,,Bronze,Krugersdorp,2023-01-09
+C01374,Anika,Maseko,,1987,Silver,Randburg,2023-05-13
+C01375,Nokwanda,Sithole,F,2002,Bronze,Bellville,2023-01-25
+C01376,Lesedi,Radebe,F,1957,Bronze,Pinetown,2023-03-22
+C01377,Thandiwe,Mabaso,,1969,Silver,Vincent,2023-05-25
+C01378,Refiloe,Botha,,1987,Silver,Vincent,2024-06-19
+C01379,Refiloe,Mabena,F,1963,Bronze,Rosebank,2023-02-10
+C01380,Sibusiso,Radebe,F,1994,Gold,Richards Bay Central,2024-05-24
+C01381,Lindiwe,Nkosi,F,1974,Gold,Stellenbosch Central,2024-04-10
+C01382,Johan,Botha,M,1965,Bronze,Randburg,2023-04-02
+C01383,Zanele,van der Merwe,M,1984,Bronze,Boksburg,2025-02-20
+C01384,Rachel,Mahlangu,M,1991,Bronze,Alberton,2024-02-15
+C01385,Emma,Ngcobo,M,1963,Bronze,Pinetown,2023-11-18
+C01386,Marius,Mabaso,M,1987,Silver,Greenacres,2023-02-13
+C01387,Kabelo,Khumalo,M,1970,Bronze,Bellville,2025-05-23
+C01388,Lindiwe,Maseko,F,1991,Bronze,Soweto,2025-06-14
+C01389,Michael,Mabaso,F,1984,Silver,Pinetown,2023-04-22
+C01390,Tshepo,van der Merwe,M,1980,Bronze,Menlyn,2023-03-08
+C01391,Johan,Mabena,,1986,Silver,Mitchell's Plain,2023-10-13
+C01392,Michael,Mokoena,M,1985,Bronze,Richards Bay Central,2023-02-02
+C01393,Nthabiseng,Radebe,F,1978,Gold,Sandton,2023-01-24
+C01394,Lehlogonolo,Smith,F,1995,Bronze,Brooklyn,2024-02-19
+C01395,Tshepo,Mthembu,M,1983,Bronze,Beacon Bay,2023-09-23
+C01396,Mandla,Khumalo,F,1982,Silver,Tygervalley,2023-07-23
+C01397,Anika,Moyo,F,1989,Bronze,Walmer,2024-03-23
+C01398,Anika,Mkhize,F,1955,Silver,Midrand,2023-03-21
+C01399,Vuyo,Zwane,M,1975,Silver,Centurion,2023-01-15
+C01400,Themba,van Wyk,M,1986,Bronze,Greenacres,2024-02-21
+C01401,Kagiso,Adams,M,1983,Silver,Mthatha Central,2024-04-05
+C01402,Thandiwe,Zwane,F,1968,Bronze,Walmer,2024-07-13
+C01403,Refiloe,Botha,M,1968,Gold,Greenacres,2023-01-15
+C01404,Marius,Mhlongo,F,1974,Silver,Walmer,2024-05-26
+C01405,Mosa,van Wyk,F,1977,Bronze,Chatsworth,2025-02-22
+C01406,Pieter,Zulu,M,1984,Bronze,Berea,2023-06-16
+C01407,Ibrahim,Smith,F,1997,Bronze,Alberton,2024-12-19
+C01408,Kabelo,Sithole,,1961,Bronze,Wonderpark,2023-04-17
+C01409,Rajesh,Ngcobo,M,1961,Bronze,CBD,2024-11-14
+C01410,Mpho,Moyo,F,2004,Bronze,Midrand,2025-05-26
+C01411,Priya,Zulu,F,2005,Bronze,Vincent,2024-12-21
+C01412,Karabo,Sibanda,F,1978,Bronze,Brooklyn,2025-06-19
+C01413,Tumelo,Patel,F,2005,Bronze,Sea Point,2024-02-29
+C01414,Sipho,Nkosi,F,2005,Silver,Berea,2023-11-22
+C01415,Pieter,Botha,,1982,Gold,Midrand,2024-02-07
+C01416,Khanyisile,Khumalo,M,1991,Gold,Soweto,2024-12-28
+C01417,James,Tshabalala,M,1982,Silver,Parow,2024-05-31
+C01418,Bongani,Mkhize,M,2003,Bronze,Ballito,2023-06-12
+C01419,Johan,Naidoo,F,1956,Bronze,Westville,2023-06-06
+C01420,Lerato,Ngcobo,M,1960,Bronze,Parow,2024-04-09
+C01421,Thandiwe,Cele,F,1996,Bronze,PMB Central,2025-05-10
+C01422,Andile,Radebe,M,1997,Bronze,Bellville,2024-10-04
+C01423,Lerato,Zwane,M,1962,Bronze,Paarl Central,2023-05-26
+C01424,Mpho,Patel,M,1960,Silver,Sandton,2024-02-05
+C01425,Lindiwe,Coetzee,M,1981,Gold,Constantia,2024-03-05
+C01426,Sarah,Tshabalala,M,1983,Bronze,Sea Point,2023-07-02
+C01427,Tumelo,Mkhize,M,1957,Bronze,Randburg,2024-05-10
+C01428,Kabelo,Sibiya,M,1965,Bronze,Mitchell's Plain,2023-07-17
+C01429,Nthabiseng,Dlamini,M,1988,Bronze,Hatfield,2023-04-28
+C01430,Sizwe,Dlamini,F,1969,Bronze,Parow,2023-10-02
+C01431,Busisiwe,du Plessis,F,1960,Bronze,Alberton,2024-04-23
+C01432,Olwethu,Coetzee,F,1980,Bronze,Midrand,2024-12-04
+C01433,Mandisa,Khan,,1961,Silver,Krugersdorp,2023-06-19
+C01434,Karabo,Naidoo,,1986,Bronze,Berea,2025-02-04
+C01435,Busisiwe,Tshabalala,M,1993,Bronze,Randburg,2024-01-18
+C01436,Thandiwe,Ndlovu,F,1957,Bronze,Wonderpark,2023-10-28
+C01437,Nthabiseng,Adams,F,1956,Silver,Rosebank,2025-03-20
+C01438,Mandla,Cele,F,1968,Bronze,Centurion,2023-05-06
+C01439,Thabo,Tshabalala,M,2000,Bronze,Centurion,2023-08-27
+C01440,Yusuf,Ndlovu,F,1993,Bronze,Ballito,2023-10-12
+C01441,Sibusiso,Sibiya,M,1997,Silver,Wonderpark,2024-11-29
+C01442,Lehlogonolo,Smith,F,1975,Bronze,Hayfields,2024-05-25
+C01443,Sipho,Khan,F,1962,Bronze,Westville,2024-01-28
+C01444,Andile,Mkhize,F,1956,Silver,Sea Point,2024-04-17
+C01445,Mpho,Mahlangu,M,,Bronze,Chatsworth,2023-02-10
+C01446,Pieter,Dlamini,F,1961,Bronze,Krugersdorp,2023-10-09
+C01447,Johan,Cele,F,1990,Bronze,Khayelitsha,2024-02-07
+C01448,Ayanda,van Wyk,F,1996,Bronze,Hatfield,2024-09-24
+C01449,Lindiwe,Dlamini,F,1955,Gold,Walmer,2023-08-20
+C01450,Refilwe,Mabaso,F,1978,Bronze,Sea Point,2024-12-05
+C01451,Nokulunga,Khumalo,F,,Bronze,Krugersdorp,2023-03-18
+C01452,Kagiso,Mabena,M,2005,Bronze,Tygervalley,2023-05-22
+C01453,Lesedi,van Wyk,F,1975,Silver,Wonderpark,2024-10-14
+C01454,Rachel,Zulu,M,1970,Bronze,Brooklyn,2023-11-26
+C01455,Refiloe,du Plessis,F,1971,Silver,Randburg,2024-07-25
+C01456,Khanyisile,Pillay,M,2002,Bronze,Constantia,2024-05-21
+C01457,Nomvula,Naidoo,F,1968,Bronze,Hayfields,2023-04-18
+C01458,Pieter,Naidoo,M,2003,Silver,Krugersdorp,2024-12-26
+C01459,Michael,Mokwena,M,1961,Bronze,Hatfield,2024-01-30
+C01460,Rachel,Ngcobo,M,2004,Bronze,Rosebank,2023-06-18
+C01461,Lungile,Mthembu,,1991,Bronze,Paarl Central,2025-02-01
+C01462,Bongani,Pillay,F,1984,Bronze,Beacon Bay,2024-06-27
+C01463,Rachel,Cele,F,1990,Bronze,Bellville,2024-02-11
+C01464,Aisha,Smith,M,1958,Bronze,Khayelitsha,2024-10-26
+C01465,Sarah,Smith,F,1967,Bronze,Chatsworth,2024-09-14
+C01466,Rajesh,Adams,F,,Bronze,Mitchell's Plain,2023-08-13
+C01467,Bongani,Khumalo,M,1991,Bronze,Paarl Central,2023-10-10
+C01468,Nokuthula,Ngcobo,M,1980,Bronze,Walmer,2023-10-02
+C01469,Rajesh,Naidoo,F,1968,Bronze,Berea,2023-10-22
+C01470,Vuyo,Nkosi,F,1987,Bronze,Krugersdorp,2025-05-23
+C01471,Nokwanda,Pillay,F,1998,Bronze,Pinetown,2023-05-26
+C01472,Thabo,du Plessis,F,1956,Bronze,Constantia,2023-06-24
+C01473,Lungile,Nkosi,M,1985,Bronze,Roodepoort,2024-04-28
+C01474,Bongani,Mokoena,M,1991,Bronze,Edenvale,2024-06-21
+C01475,Aisha,Botha,M,2004,Bronze,Menlyn,2024-04-08
+C01476,Rajesh,Cele,,1971,Bronze,Pinetown,2023-01-14
+C01477,Dineo,Cele,F,1976,Silver,Berea,2024-05-10
+C01478,Bongani,Khan,M,2001,Bronze,Wonderpark,2025-05-26
+C01479,Nokuthula,Mokwena,F,1956,Silver,Rosebank,2024-01-04
+C01480,Sizwe,Mabaso,F,1979,Gold,Mthatha Central,2024-04-05
+C01481,Fatima,van der Merwe,F,1998,Bronze,Westville,2024-03-03
+C01482,Busisiwe,Mthembu,F,1992,Bronze,Pinetown,2023-05-06
+C01483,David,van Wyk,M,2005,Bronze,Sea Point,2024-05-25
+C01484,Lungile,Mokwena,F,1964,Bronze,Ballito,2024-11-11
+C01485,Refilwe,Mthembu,F,1959,Bronze,CBD,2023-08-11
+C01486,Mpho,Zwane,F,1986,Bronze,Beacon Bay,2025-05-04
+C01487,Thabo,Khumalo,F,1977,Silver,Phoenix,2024-11-12
+C01488,Refiloe,Buthelezi,F,1960,Bronze,Midrand,2024-03-18
+C01489,Lesedi,Mabaso,F,1957,Bronze,Greenacres,2024-10-14
+C01490,Sarah,Smith,F,1961,Gold,Berea,2024-07-31
+C01491,David,Tshabalala,M,1963,Bronze,Parow,2024-03-02
+C01492,Yusuf,Pretorius,F,1960,Gold,Pinetown,2024-01-20
+C01493,Karabo,Smith,F,1988,Bronze,Greenacres,2024-12-30
+C01494,Anika,van Wyk,F,1984,Bronze,Claremont,2024-07-26
+C01495,Lerato,Moyo,F,1963,Bronze,Roodepoort,2024-08-17
+C01496,Aisha,Mhlongo,F,1989,Silver,Khayelitsha,2025-02-12
+C01497,Mandisa,Sibanda,F,,Silver,Chatsworth,2024-04-16
+C01498,Khanyisile,Khumalo,F,1972,Bronze,Menlyn,2024-08-31
+C01499,Lindiwe,Maseko,M,1999,Bronze,Westville,2024-11-21
+C01500,Aisha,Khumalo,M,1988,Silver,Hayfields,2023-05-20
+C01501,Nokuthula,Mokwena,F,1974,Gold,Hayfields,2023-07-25
+C01502,Bongani,Ndlovu,F,1993,Bronze,Roodepoort,2023-07-29
+C01503,Lindiwe,du Plessis,F,1987,Bronze,Mitchell's Plain,2023-11-04
+C01504,James,du Plessis,,1970,Bronze,Pinetown,2024-11-28
+C01505,Rachel,Ngcobo,F,1964,Bronze,Beacon Bay,2023-09-04
+C01506,Refilwe,Joseph,M,1989,Bronze,Alberton,2024-11-14
+C01507,Lindiwe,Zwane,F,1997,Bronze,Paarl Central,2024-04-20
+C01508,Emma,Smith,F,1973,Bronze,Sea Point,2024-08-17
+C01509,Ayanda,Mokoena,M,1997,Bronze,Randburg,2023-05-23
+C01510,Michael,van Wyk,F,1965,Silver,Phoenix,2023-08-04
+C01511,Anika,Adams,F,1959,Bronze,Vincent,2025-01-06
+C01512,Kgomotso,Mabena,F,2005,Silver,Beacon Bay,2023-11-07
+C01513,James,Ndlovu,M,1996,Gold,Berea,2024-08-12
+C01514,Sibusiso,Joseph,M,1988,Bronze,Westville,2024-08-17
+C01515,Anika,Zwane,M,1980,Bronze,Tygervalley,2023-08-26
+C01516,Lindiwe,Sithole,F,1998,Silver,Roodepoort,2023-04-18
+C01517,Mandla,Radebe,M,1981,Bronze,Boksburg,2023-04-28
+C01518,Sipho,Ndlovu,F,1978,Silver,George Central,2023-11-25
+C01519,Lindiwe,Jones,F,1995,Bronze,Boksburg,2024-05-17
+C01520,Rachel,Maseko,F,2002,Silver,Midrand,2023-03-30
+C01521,Lesedi,Dlamini,M,1997,Bronze,Parow,2023-01-06
+C01522,Marius,Moyo,M,1959,Bronze,Vincent,2024-06-24
+C01523,Rajesh,Pretorius,M,1991,Bronze,Randburg,2024-09-25
+C01524,Yusuf,Mahlangu,M,1983,Bronze,Constantia,2024-08-05
+C01525,Tshepo,Mahlangu,M,1974,Bronze,Khayelitsha,2024-09-07
+C01526,Ibrahim,Mabena,F,1973,Bronze,Randburg,2023-03-11
+C01527,Nokulunga,Botha,,1959,Bronze,Chatsworth,2024-09-17
+C01528,Aisha,Mthembu,F,1958,Silver,Westville,2024-04-27
+C01529,Kagiso,Dlamini,F,1981,Bronze,Khayelitsha,2023-05-23
+C01530,Sizwe,Buthelezi,M,1976,Bronze,Khayelitsha,2023-08-30
+C01531,Rajesh,Ndlovu,M,1991,Silver,CBD,2023-12-21
+C01532,Zanele,Moyo,M,1994,Silver,Umhlanga,2023-05-13
+C01533,Busisiwe,Mokoena,F,1986,Bronze,Rosebank,2024-05-04
+C01534,Ayanda,Govender,F,,Silver,Midrand,2024-07-01
+C01535,Nthabiseng,Radebe,M,,Bronze,Soweto,2025-02-23
+C01536,Sarah,Mahlangu,F,1982,Bronze,Mitchell's Plain,2024-09-22
+C01537,Marius,Cele,F,1982,Bronze,Stellenbosch Central,2024-08-25
+C01538,Thabo,Govender,F,2003,Silver,Richards Bay Central,2023-02-16
+C01539,Bontle,Nkosi,M,1970,Bronze,Parow,2024-03-25
+C01540,Mandla,Maseko,F,1977,Silver,Alberton,2023-05-13
+C01541,Nthabiseng,Sibanda,F,1962,Bronze,PMB Central,2023-07-30
+C01542,Rajesh,Cele,M,1969,Bronze,Hatfield,2025-03-09
+C01543,Yusuf,Maseko,M,1970,Bronze,Walmer,2024-07-08
+C01544,Aisha,Sithole,F,1981,Bronze,Brooklyn,2023-03-22
+C01545,Sizwe,Mahlangu,M,1988,Silver,Sandton,2023-05-06
+C01546,Marius,Mokwena,F,1970,Bronze,Pinetown,2023-04-27
+C01547,Lerato,Coetzee,M,1972,Bronze,Stellenbosch Central,2023-03-03
+C01548,Busisiwe,Ngcobo,F,1956,Bronze,CBD,2023-08-18
+C01549,Sizwe,Radebe,F,1982,Bronze,CBD,2024-07-08
+C01550,Lehlogonolo,Cele,M,1993,Bronze,Boksburg,2025-04-09
+C01551,Lehlogonolo,Zwane,F,1956,Silver,Rosebank,2025-06-05
+C01552,David,Khumalo,M,1990,Silver,Greenacres,2023-10-22
+C01553,Mandisa,Nyathi,F,1991,Silver,Boksburg,2023-06-16
+C01554,Sarah,van Wyk,M,1970,Bronze,Greenacres,2023-10-08
+C01555,Tshepo,Pillay,M,1973,Bronze,Pinetown,2023-10-08
+C01556,Marius,Khan,M,2005,Silver,Sea Point,2023-05-08
+C01557,Ayanda,Mkhize,M,1971,Bronze,Claremont,2024-03-26
+C01558,Thabo,van Wyk,F,1977,Silver,Sandton,2024-02-23
+C01559,Nomvula,Zwane,M,1972,Bronze,Constantia,2024-03-27
+C01560,Mandla,Patel,M,1972,Bronze,Edenvale,2024-10-07
+C01561,Mandla,Mokwena,M,,Bronze,CBD,2023-07-08
+C01562,Lungile,Joseph,M,1992,Bronze,Edenvale,2023-03-04
+C01563,Sibusiso,Patel,,1956,Silver,Randburg,2024-07-07
+C01564,Sibusiso,Mokoena,M,1977,Bronze,Mitchell's Plain,2024-06-07
+C01565,Zanele,Pillay,F,1991,Silver,Wonderpark,2023-03-15
+C01566,Mosa,Smith,M,,Bronze,Hatfield,2023-12-10
+C01567,Emma,Mhlongo,F,1973,Bronze,CBD,2023-10-25
+C01568,Themba,Zwane,F,1993,Bronze,Phoenix,2025-03-13
+C01569,Lesedi,Cele,M,1979,Bronze,Bellville,2024-01-26
+C01570,Lehlogonolo,Mabaso,,1969,Gold,Mthatha Central,2024-03-04
+C01571,Ibrahim,Zulu,M,1988,Bronze,Beacon Bay,2024-06-21
+C01572,Fatima,Jones,F,1967,Bronze,Roodepoort,2023-12-03
+C01573,Andile,Mhlongo,F,1975,Bronze,Roodepoort,2024-03-31
+C01574,Vuyo,Moyo,F,1977,Bronze,Hatfield,2024-10-31
+C01575,Priya,Sibiya,F,2005,Bronze,Parow,2024-07-04
+C01576,Andile,Moyo,M,1997,Bronze,Alberton,2023-12-16
+C01577,Johan,Zulu,F,1981,Bronze,Hayfields,2024-10-09
+C01578,Refiloe,Pretorius,M,,Bronze,Boksburg,2025-02-22
+C01579,Yusuf,du Plessis,M,1963,Silver,Claremont,2024-12-07
+C01580,Refilwe,Ndlovu,F,1988,Silver,Randburg,2023-05-11
+C01581,James,Buthelezi,F,1973,Silver,Menlyn,2024-08-28
+C01582,Nthabiseng,Ngcobo,F,,Silver,Randburg,2024-04-04
+C01583,Emma,Jones,M,1982,Bronze,Parow,2025-01-21
+C01584,Mandla,Zwane,M,1987,Silver,Westville,2024-08-30
+C01585,Marius,van Wyk,F,1983,Silver,Brooklyn,2025-03-02
+C01586,Lindiwe,Govender,F,,Bronze,Chatsworth,2024-08-16
+C01587,Aisha,Smith,F,1979,Bronze,Bellville,2023-02-12
+C01588,Dineo,Naidoo,F,1972,Bronze,Paarl Central,2023-12-22
+C01589,Mpho,Botha,F,1972,Bronze,Tygervalley,2023-10-23
+C01590,Kagiso,Sibiya,M,1969,Bronze,Sandton,2024-07-19
+C01591,Khanyisile,Joseph,M,1956,Bronze,PMB Central,2024-07-04
+C01592,Bontle,Pretorius,F,1956,Bronze,Richards Bay Central,2024-03-12
+C01593,Vuyo,Jones,M,1984,Bronze,Mitchell's Plain,2024-03-31
+C01594,David,Coetzee,F,1963,Silver,Mitchell's Plain,2023-12-29
+C01595,Bontle,Mabaso,M,1969,Bronze,Phoenix,2023-12-10
+C01596,Busisiwe,van Wyk,M,1987,Bronze,Walmer,2023-11-19
+C01597,Sipho,Smith,F,2000,Bronze,Ballito,2024-11-07
+C01598,Khanyisile,Mokoena,M,,Bronze,Soweto,2025-06-12
+C01599,Nokuthula,Pretorius,F,1964,Bronze,Hayfields,2023-10-17
+C01600,Naledi,Pretorius,M,1960,Silver,Sandton,2023-01-04
+C01601,David,Ndlovu,F,1994,Bronze,Wonderpark,2024-12-05
+C01602,Kagiso,Ngcobo,F,1992,Bronze,Chatsworth,2024-11-03
+C01603,Mandla,Mthembu,M,1973,Bronze,Mthatha Central,2024-02-06
+C01604,Nthabiseng,Cele,M,1973,Bronze,Alberton,2024-03-05
+C01605,Rachel,Tshabalala,F,1982,Bronze,Centurion,2024-11-07
+C01606,Bongani,Cele,M,2000,Silver,Hayfields,2024-09-07
+C01607,Emma,Pillay,F,1972,Silver,Wonderpark,2023-03-04
+C01608,Yusuf,Tshabalala,F,1975,Silver,Rosebank,2024-02-13
+C01609,Kagiso,Khumalo,F,2001,Bronze,CBD,2023-11-12
+C01610,Rachel,Moyo,F,1965,Silver,Mitchell's Plain,2024-09-20
+C01611,Kabelo,Mabena,F,,Silver,Soweto,2023-04-03
+C01612,Refiloe,Mabena,M,2004,Bronze,Khayelitsha,2024-06-15
+C01613,Sizwe,Mhlongo,M,1965,Bronze,Edenvale,2023-10-25
+C01614,Bontle,Botha,M,1976,Bronze,Roodepoort,2023-01-14
+C01615,Sipho,Dlamini,M,1988,Bronze,Hayfields,2023-02-13
+C01616,Refilwe,Maseko,F,1969,Bronze,CBD,2023-10-06
+C01617,Olwethu,Zulu,M,1979,Bronze,Brooklyn,2025-06-01
+C01618,Tshepo,Ndlovu,F,2001,Silver,Claremont,2023-01-16
+C01619,Olwethu,Nyathi,M,1964,Bronze,Fourways,2023-07-18
+C01620,Khanyisile,Sibiya,M,2005,Bronze,Claremont,2023-11-06
+C01621,Busisiwe,van Wyk,F,1971,Bronze,Soweto,2023-10-26
+C01622,David,Mabaso,F,1981,Bronze,Walmer,2024-06-30
+C01623,Aisha,Pillay,F,1986,Gold,PMB Central,2024-04-08
+C01624,Nokuthula,Mkhize,,1980,Bronze,Umhlanga,2024-07-30
+C01625,Lindiwe,Mthembu,F,1995,Bronze,Tygervalley,2023-08-01
+C01626,Nokulunga,Coetzee,M,1960,Bronze,Umhlanga,2024-06-19
+C01627,Vuyo,Mkhize,M,1958,Bronze,Krugersdorp,2025-01-28
+C01628,Pieter,Mokwena,F,1999,Bronze,Sea Point,2023-10-02
+C01629,Nokwanda,Naidoo,M,2005,Bronze,Vincent,2023-08-30
+C01630,Johan,van Wyk,M,1987,Silver,Stellenbosch Central,2023-04-18
+C01631,David,Ndlovu,F,,Bronze,Mitchell's Plain,2023-06-20
+C01632,Palesa,Jones,M,,Bronze,Tygervalley,2024-10-03
+C01633,Bontle,Adams,F,2002,Bronze,Sea Point,2023-10-31
+C01634,Bongani,Smith,,2001,Bronze,Chatsworth,2023-11-27
+C01635,Kabelo,Mhlongo,M,1965,Bronze,Sandton,2025-04-02
+C01636,Kabelo,Mhlongo,M,1971,Bronze,Menlyn,2025-02-03
+C01637,Vuyo,Mahlangu,F,2000,Bronze,Wonderpark,2023-07-03
+C01638,Themba,du Plessis,F,1955,Bronze,Walmer,2023-04-07
+C01639,Ibrahim,van Wyk,F,1958,Bronze,Constantia,2023-12-25
+C01640,Thandiwe,Buthelezi,M,1977,Gold,Brooklyn,2024-03-12
+C01641,Lesedi,Mthembu,F,2004,Bronze,PMB Central,2024-10-18
+C01642,Tumelo,Pretorius,F,1964,Bronze,George Central,2023-09-27
+C01643,Kgomotso,Sithole,F,1988,Silver,Menlyn,2024-08-12
+C01644,Refiloe,Zwane,M,2002,Bronze,Umhlanga,2023-08-03
+C01645,Refilwe,Nkosi,M,1968,Silver,Bellville,2023-05-27
+C01646,Refilwe,du Plessis,M,1975,Gold,Parow,2024-03-26
+C01647,David,du Plessis,F,1987,Bronze,Fourways,2024-01-22
+C01648,Refiloe,Radebe,M,1977,Bronze,Chatsworth,2023-03-22
+C01649,Nthabiseng,Naidoo,,1995,Silver,Rosebank,2024-07-27
+C01650,Rachel,Coetzee,M,1971,Bronze,Rosebank,2024-10-29
+C01651,Anika,van der Merwe,F,1978,Silver,Randburg,2025-01-15
+C01652,David,Naidoo,M,1967,Bronze,Sea Point,2023-07-20
+C01653,Rachel,Mhlongo,M,1955,Bronze,Hatfield,2023-09-17
+C01654,Aisha,Nkosi,M,1957,Bronze,Fourways,2023-02-14
+C01655,Nokwanda,Patel,F,1958,Silver,Umhlanga,2024-09-14
+C01656,Thandiwe,van Wyk,F,1985,Bronze,PMB Central,2025-04-06
+C01657,Lindiwe,Mokoena,F,1994,Bronze,George Central,2025-06-10
+C01658,Mandisa,Mahlangu,F,1962,Bronze,Khayelitsha,2023-11-18
+C01659,Lindiwe,Nyathi,F,1967,Silver,Menlyn,2025-05-07
+C01660,Lungile,Tshabalala,M,1965,Bronze,Hatfield,2024-06-12
+C01661,Thabo,Sibanda,F,1997,Bronze,Phoenix,2023-06-01
+C01662,Vuyo,Khan,F,,Bronze,Walmer,2024-06-01
+C01663,Emma,van der Merwe,M,1955,Bronze,Mitchell's Plain,2023-12-16
+C01664,Michael,Mkhize,M,1960,Bronze,Mitchell's Plain,2023-04-03
+C01665,Mandla,Mabaso,F,1992,Bronze,Tygervalley,2025-03-18
+C01666,Thabo,Naidoo,M,1984,Silver,Roodepoort,2023-11-12
+C01667,Khanyisile,Pretorius,M,2002,Bronze,Alberton,2023-07-02
+C01668,Busisiwe,Mahlangu,M,1981,Bronze,Midrand,2023-07-01
+C01669,Mpho,Patel,M,1971,Bronze,Hatfield,2023-12-24
+C01670,Refiloe,Adams,F,1995,Bronze,Westville,2024-01-30
+C01671,Themba,Nyathi,M,1999,Bronze,Greenacres,2025-03-26
+C01672,Mpho,Naidoo,F,1987,Silver,Brooklyn,2023-04-03
+C01673,Aisha,Naidoo,F,1984,Gold,Chatsworth,2023-07-10
+C01674,Priya,Mahlangu,F,1975,Bronze,Westville,2023-02-04
+C01675,Johan,Sithole,M,1955,Bronze,Menlyn,2024-10-25
+C01676,Lindiwe,van der Merwe,M,1974,Bronze,Claremont,2024-03-25
+C01677,Bontle,Ngcobo,F,1991,Silver,Umhlanga,2025-05-04
+C01678,Andile,Patel,M,1993,Bronze,Krugersdorp,2023-02-11
+C01679,Nokuthula,Joseph,F,1982,Gold,Fourways,2023-06-17
+C01680,Aisha,Botha,M,1993,Gold,Midrand,2024-12-11
+C01681,Naledi,Mabena,M,1958,Bronze,Bellville,2025-03-31
+C01682,Anika,van Wyk,F,,Bronze,George Central,2023-11-05
+C01683,Ayanda,Mabaso,F,1968,Silver,Bellville,2024-12-02
+C01684,Yusuf,Mhlongo,F,1965,Bronze,Greenacres,2024-02-08
+C01685,Nokwanda,Naidoo,M,1997,Bronze,Roodepoort,2025-02-20
+C01686,Lindiwe,Radebe,F,2003,Bronze,Centurion,2023-10-17
+C01687,Dineo,Smith,M,1989,Bronze,Westville,2023-01-28
+C01688,Nokuthula,Sibiya,F,1970,Bronze,Sea Point,2024-09-17
+C01689,Nthabiseng,Sibanda,M,1996,Bronze,CBD,2023-08-05
+C01690,Ayanda,Smith,F,1979,Bronze,Alberton,2023-11-15
+C01691,Sarah,du Plessis,F,1981,Bronze,Chatsworth,2025-05-04
+C01692,Lindiwe,van Wyk,M,1977,Bronze,Fourways,2025-04-02
+C01693,Bontle,Nkosi,F,1963,Bronze,Pinetown,2023-01-12
+C01694,Rajesh,Sibanda,F,1958,Bronze,Mthatha Central,2023-04-29
+C01695,Nthabiseng,Jones,M,2004,Bronze,PMB Central,2024-01-09
+C01696,Bongani,van der Merwe,,1989,Silver,Stellenbosch Central,2023-06-03
+C01697,Thabo,Mabena,M,2000,Bronze,Pinetown,2025-01-15
+C01698,Nokulunga,van Wyk,F,1984,Bronze,Hayfields,2024-04-16
+C01699,Marius,Khumalo,M,1998,Bronze,Greenacres,2023-10-31
+C01700,Refiloe,Dlamini,M,1966,Bronze,Berea,2023-11-29
+C01701,Ayanda,Mokoena,M,1977,Bronze,Fourways,2023-09-12
+C01702,Mandla,Mabaso,M,1963,Bronze,Rosebank,2023-10-09
+C01703,Anika,van Wyk,M,1970,Silver,Chatsworth,2024-08-05
+C01704,Michael,Mokoena,F,,Bronze,Mthatha Central,2025-04-11
+C01705,Lindiwe,Radebe,M,2001,Gold,Krugersdorp,2023-01-23
+C01706,Mandla,Patel,M,2002,Silver,Rosebank,2023-04-30
+C01707,Karabo,Pretorius,M,1974,Bronze,Roodepoort,2024-12-11
+C01708,Bontle,Khumalo,F,1985,Gold,Brooklyn,2023-07-10
+C01709,Busisiwe,Joseph,M,1993,Bronze,Alberton,2023-10-07
+C01710,Thabo,Moyo,F,2005,Bronze,Brooklyn,2024-04-18
+C01711,Nthabiseng,Tshabalala,F,,Bronze,Constantia,2024-09-18
+C01712,Mpho,Sibiya,M,1992,Bronze,PMB Central,2024-02-03
+C01713,Priya,Buthelezi,F,1976,Silver,Bellville,2024-04-18
+C01714,Mandisa,Coetzee,F,1999,Bronze,Fourways,2023-02-03
+C01715,Tumelo,Mkhize,,1995,Gold,Stellenbosch Central,2024-06-26
+C01716,Marius,Mthembu,F,1975,Bronze,Bellville,2024-10-01
+C01717,Lesedi,Botha,M,1991,Gold,Claremont,2023-10-18
+C01718,Yusuf,Coetzee,,1979,Bronze,Berea,2025-05-20
+C01719,Bongani,Sithole,F,1968,Bronze,George Central,2025-06-04
+C01720,Refilwe,Sibanda,M,1977,Bronze,Berea,2023-10-13
+C01721,Johan,Mhlongo,M,1997,Gold,Mthatha Central,2024-07-02
+C01722,Ibrahim,Sibanda,F,1980,Bronze,Berea,2023-06-10
+C01723,Nokulunga,van der Merwe,F,1955,Bronze,Pinetown,2024-11-02
+C01724,Mandla,Sithole,F,1996,Bronze,Midrand,2024-10-13
+C01725,Lerato,Ngcobo,F,1994,Gold,Berea,2024-02-23
+C01726,Lerato,Tshabalala,M,1965,Bronze,Stellenbosch Central,2024-01-15
+C01727,Lerato,Sibiya,M,1996,Bronze,Midrand,2025-05-20
+C01728,Refilwe,van Wyk,F,1970,Gold,Midrand,2023-10-28
+C01729,Zanele,Dlamini,F,1984,Bronze,Berea,2023-09-05
+C01730,Karabo,van der Merwe,,1987,Silver,Menlyn,2025-06-12
+C01731,Refilwe,Pillay,F,,Bronze,Greenacres,2024-02-21
+C01732,Nokulunga,Adams,,1979,Bronze,Boksburg,2025-06-23
+C01733,Sibusiso,Nyathi,F,2004,Gold,Claremont,2023-03-03
+C01734,Mpho,Sibanda,M,2001,Bronze,Phoenix,2024-10-06
+C01735,Mosa,Jones,F,1962,Silver,Westville,2025-02-10
+C01736,Karabo,Zulu,M,1978,Bronze,Roodepoort,2025-03-25
+C01737,Priya,Naidoo,F,1976,Bronze,Hayfields,2025-02-09
+C01738,Andile,Patel,F,1999,Silver,Walmer,2023-09-22
+C01739,Kgomotso,Khan,M,2003,Bronze,Claremont,2023-08-15
+C01740,Marius,Mkhize,F,1973,Silver,Richards Bay Central,2024-10-11
+C01741,Ayanda,du Plessis,M,1998,Silver,Walmer,2023-05-12
+C01742,Themba,Sibiya,F,1979,Bronze,Sandton,2024-08-20
+C01743,Ayanda,Mokwena,M,1971,Bronze,Chatsworth,2024-02-20
+C01744,Priya,Ngcobo,M,1977,Bronze,Phoenix,2023-11-18
+C01745,Fatima,Mhlongo,F,1986,Silver,Umhlanga,2023-06-29
+C01746,Priya,Radebe,F,1959,Bronze,Edenvale,2023-06-03
+C01747,Busisiwe,Sibiya,M,2005,Bronze,Hayfields,2024-04-15
+C01748,Kgomotso,Nkosi,M,2005,Silver,Midrand,2024-01-08
+C01749,Tumelo,Mokoena,F,1961,Bronze,Brooklyn,2024-07-20
+C01750,Ibrahim,Nyathi,M,1958,Bronze,Roodepoort,2023-09-20
+C01751,Bontle,van der Merwe,M,1996,Bronze,Pinetown,2023-07-01
+C01752,Sipho,Sibiya,F,1972,Bronze,Constantia,2023-05-16
+C01753,Fatima,Mthembu,F,1969,Silver,Umhlanga,2024-04-20
+C01754,Lindiwe,Nyathi,M,1958,Bronze,Midrand,2024-05-04
+C01755,Bongani,Jones,F,1967,Bronze,Berea,2024-05-13
+C01756,Ayanda,Mkhize,F,1982,Bronze,Berea,2025-03-07
+C01757,Mosa,Pretorius,M,1995,Bronze,Sea Point,2023-09-15
+C01758,Lehlogonolo,Moyo,M,1986,Bronze,Umhlanga,2024-06-10
+C01759,Mpho,Mthembu,F,1989,Bronze,Ballito,2024-05-30
+C01760,Ayanda,Jones,F,2003,Bronze,Centurion,2024-06-05
+C01761,Priya,Coetzee,F,1959,Bronze,Paarl Central,2025-06-01
+C01762,Rachel,Mabena,M,1989,Bronze,Paarl Central,2025-02-20
+C01763,Nokuthula,Naidoo,F,1974,Bronze,Paarl Central,2024-12-02
+C01764,Ayanda,Ngcobo,F,1998,Bronze,Fourways,2025-03-15
+C01765,Refilwe,Botha,M,1965,Bronze,Umhlanga,2024-10-31
+C01766,Nthabiseng,Moyo,M,1972,Bronze,Krugersdorp,2024-01-15
+C01767,Themba,Mthembu,F,1977,Bronze,Krugersdorp,2024-03-11
+C01768,Kgomotso,Sibanda,M,1955,Bronze,Wonderpark,2023-12-29
+C01769,Mosa,Mahlangu,,2004,Silver,Midrand,2023-08-02
+C01770,Tumelo,Patel,F,,Bronze,Soweto,2023-11-30
+C01771,Yusuf,Buthelezi,M,1968,Bronze,Brooklyn,2023-04-20
+C01772,Zanele,Pillay,F,2001,Silver,Umhlanga,2023-02-17
+C01773,Refiloe,Radebe,M,2000,Bronze,Berea,2024-08-23
+C01774,Sarah,Khumalo,F,1995,Bronze,Berea,2023-10-19
+C01775,Bongani,du Plessis,F,2002,Gold,Wonderpark,2023-06-04
+C01776,Lesedi,Mthembu,M,1990,Bronze,Richards Bay Central,2024-07-13
+C01777,Lehlogonolo,Patel,M,1973,Bronze,Constantia,2025-06-10
+C01778,Karabo,Tshabalala,,1978,Bronze,Sandton,2023-07-08
+C01779,Johan,van Wyk,F,1978,Bronze,Boksburg,2023-09-19
+C01780,Nthabiseng,Dlamini,F,1996,Bronze,Hayfields,2025-03-28
+C01781,Nomvula,Adams,F,1987,Bronze,CBD,2024-05-31
+C01782,Nokulunga,Tshabalala,M,1986,Bronze,Constantia,2025-01-22
+C01783,Zanele,Mkhize,F,1990,Bronze,Phoenix,2025-05-16
+C01784,Mandisa,Mabaso,M,1984,Gold,Constantia,2024-03-17
+C01785,Dineo,Khan,F,2002,Bronze,George Central,2024-10-25
+C01786,Kgomotso,Mabena,F,2004,Silver,Rosebank,2025-06-29
+C01787,Lerato,Sibanda,M,1955,Bronze,Sea Point,2023-08-19
+C01788,Johan,Smith,F,1969,Silver,PMB Central,2024-04-13
+C01789,Mosa,Pretorius,M,1991,Silver,Richards Bay Central,2023-06-06
+C01790,Palesa,Mokwena,F,1966,Bronze,CBD,2025-03-09
+C01791,Naledi,Nyathi,F,1959,Bronze,Edenvale,2024-11-04
+C01792,Sizwe,Pretorius,F,1982,Bronze,Sandton,2025-03-01
+C01793,Anika,Dlamini,F,1983,Gold,Claremont,2023-08-02
+C01794,Sarah,Khumalo,F,1980,Silver,Westville,2025-04-14
+C01795,Bongani,Mabaso,,1987,Silver,Mitchell's Plain,2023-06-16
+C01796,Lehlogonolo,Naidoo,F,1986,Bronze,Centurion,2024-03-01
+C01797,Palesa,Naidoo,,1987,Bronze,Mitchell's Plain,2024-04-12
+C01798,Lerato,Nkosi,F,1981,Silver,Randburg,2024-01-05
+C01799,Ayanda,Ndlovu,F,1996,Gold,Stellenbosch Central,2024-02-04
+C01800,Priya,Dlamini,,1972,Silver,CBD,2023-05-25
+C01801,Mandisa,Pillay,F,1955,Bronze,Walmer,2024-04-26
+C01802,Lehlogonolo,Mokoena,F,1968,Bronze,Hatfield,2024-09-24
+C01803,Emma,Botha,F,1966,Gold,Beacon Bay,2023-04-23
+C01804,Karabo,Botha,F,1968,Bronze,Boksburg,2024-09-28
+C01805,Johan,Dlamini,M,,Bronze,Bellville,2024-02-22
+C01806,Sipho,Nyathi,F,1993,Bronze,Paarl Central,2023-01-16
+C01807,Anika,Govender,F,1959,Bronze,Wonderpark,2025-05-26
+C01808,Ibrahim,Jones,F,1993,Bronze,Umhlanga,2024-04-25
+C01809,Kagiso,Mahlangu,F,1989,Bronze,Paarl Central,2024-05-04
+C01810,Rajesh,Mkhize,F,1969,Silver,Bellville,2023-08-19
+C01811,Tumelo,Mabaso,M,2000,Silver,Paarl Central,2023-09-13
+C01812,Nokuthula,Patel,F,1997,Silver,Pinetown,2024-11-15
+C01813,Lesedi,Adams,M,1972,Bronze,Rosebank,2024-01-19
+C01814,Tumelo,Mokwena,M,1957,Silver,Mthatha Central,2023-02-19
+C01815,Karabo,Pretorius,,1955,Bronze,Roodepoort,2023-06-15
+C01816,James,Tshabalala,F,1985,Bronze,Mthatha Central,2025-06-09
+C01817,Dineo,Mkhize,F,1968,Bronze,Berea,2023-05-01
+C01818,Olwethu,Khan,M,1987,Bronze,George Central,2023-09-19
+C01819,Pieter,Coetzee,M,1984,Bronze,Menlyn,2025-02-20
+C01820,Fatima,Patel,F,1978,Bronze,PMB Central,2023-05-10
+C01821,Lindiwe,Govender,,1962,Silver,Parow,2025-06-13
+C01822,Anika,Mthembu,F,1990,Bronze,Phoenix,2023-07-06
+C01823,James,Joseph,F,1998,Bronze,Randburg,2024-06-22
+C01824,Nthabiseng,Mokwena,M,1988,Silver,Hatfield,2024-07-06
+C01825,Nokuthula,Adams,F,1965,Bronze,Mthatha Central,2025-05-29
+C01826,Kabelo,Govender,M,2003,Bronze,Pinetown,2024-03-10
+C01827,Mandisa,Pretorius,F,1980,Silver,Wonderpark,2024-05-02
+C01828,Michael,Tshabalala,F,,Bronze,Ballito,2024-11-15
+C01829,Ayanda,Naidoo,M,1994,Bronze,Wonderpark,2023-05-24
+C01830,Themba,du Plessis,M,2003,Gold,Roodepoort,2023-06-13
+C01831,Mosa,Moyo,F,1967,Bronze,Edenvale,2023-10-10
+C01832,Naledi,Sibanda,F,2002,Bronze,Sandton,2024-03-30
+C01833,Themba,Khan,M,1955,Bronze,Chatsworth,2023-04-16
+C01834,Refiloe,Sibiya,F,1997,Silver,PMB Central,2025-01-30
+C01835,Kabelo,van Wyk,F,2003,Bronze,Brooklyn,2023-02-11
+C01836,Sarah,Patel,F,1984,Bronze,Walmer,2025-06-05
+C01837,Karabo,Coetzee,M,1969,Bronze,Berea,2024-09-05
+C01838,Nokulunga,Mhlongo,F,1997,Silver,Rosebank,2024-03-07
+C01839,Nomvula,Sithole,M,1972,Silver,Boksburg,2024-10-17
+C01840,Aisha,Mabena,F,1971,Bronze,Paarl Central,2024-12-31
+C01841,Bontle,Coetzee,F,1986,Bronze,Brooklyn,2023-04-17
+C01842,Refiloe,Coetzee,M,1991,Bronze,Beacon Bay,2024-01-27
+C01843,Sipho,Sibiya,F,2005,Bronze,Paarl Central,2023-05-01
+C01844,Lehlogonolo,Pillay,F,1998,Bronze,Fourways,2025-01-05
+C01845,Olwethu,Mokoena,F,2005,Bronze,Chatsworth,2023-02-08
+C01846,James,Smith,M,1956,Bronze,Mthatha Central,2023-12-03
+C01847,Lindiwe,Maseko,M,1956,Silver,Boksburg,2024-01-03
+C01848,Dineo,Cele,F,1970,Silver,Centurion,2024-04-14
+C01849,Nokwanda,Patel,M,1965,Silver,Ballito,2024-10-25
+C01850,Johan,Sibanda,M,2004,Silver,Stellenbosch Central,2023-12-08
+C01851,Anika,Ngcobo,M,1969,Bronze,Stellenbosch Central,2024-10-16
+C01852,James,Tshabalala,M,1995,Bronze,Boksburg,2025-05-26
+C01853,Sibusiso,Coetzee,F,1983,Silver,Tygervalley,2023-11-27
+C01854,Lerato,Zulu,F,1974,Silver,Ballito,2023-10-31
+C01855,Lehlogonolo,Buthelezi,M,1980,Bronze,Stellenbosch Central,2023-04-03
+C01856,Sibusiso,Sibiya,M,1997,Bronze,Menlyn,2024-06-29
+C01857,Anika,Sibanda,F,1979,Gold,Alberton,2023-03-26
+C01858,Johan,Govender,F,1957,Bronze,Brooklyn,2023-01-27
+C01859,Rajesh,Govender,M,1969,Bronze,Vincent,2025-04-11
+C01860,Sizwe,Mokwena,F,1970,Silver,Umhlanga,2025-05-08
+C01861,Rachel,Moyo,M,1991,Bronze,Chatsworth,2024-08-17
+C01862,James,Mkhize,M,1979,Silver,Hatfield,2025-04-02
+C01863,Bontle,Patel,F,1978,Gold,Centurion,2023-03-20
+C01864,Nokwanda,Mahlangu,F,1999,Bronze,Parow,2023-04-09
+C01865,Karabo,Joseph,M,1989,Silver,Berea,2023-08-22
+C01866,Vuyo,Cele,M,1996,Silver,Edenvale,2024-04-21
+C01867,Busisiwe,Mkhize,M,1984,Bronze,Rosebank,2023-03-08
+C01868,Refilwe,Dlamini,M,1990,Silver,Umhlanga,2025-06-07
+C01869,Sibusiso,Mokwena,F,1977,Silver,Richards Bay Central,2023-09-16
+C01870,Vuyo,Dlamini,M,1986,Silver,Parow,2024-02-10
+C01871,Sizwe,Jones,F,1999,Bronze,Richards Bay Central,2025-03-28
+C01872,Aisha,Moyo,F,1989,Bronze,Sea Point,2024-09-16
+C01873,Nomvula,Cele,M,2004,Bronze,Chatsworth,2024-02-28
+C01874,Vuyo,Botha,M,1970,Silver,George Central,2025-05-05
+C01875,Mandla,Dlamini,M,1986,Bronze,Paarl Central,2024-02-18
+C01876,Kgomotso,Radebe,M,1979,Bronze,Menlyn,2023-07-07
+C01877,Lindiwe,Mthembu,F,2000,Bronze,Stellenbosch Central,2023-07-08
+C01878,Kagiso,Sibanda,F,1977,Bronze,Menlyn,2024-04-07
+C01879,Lehlogonolo,Sithole,M,1956,Bronze,Ballito,2023-03-02
+C01880,Lungile,Mhlongo,F,1955,Bronze,Sea Point,2023-12-01
+C01881,Sarah,Mthembu,F,1991,Silver,George Central,2023-07-13
+C01882,Thandiwe,Ngcobo,F,1989,Bronze,Greenacres,2023-06-08
+C01883,Nthabiseng,Mhlongo,M,1983,Silver,George Central,2024-06-03
+C01884,Themba,Jones,F,1957,Silver,Mitchell's Plain,2025-04-06
+C01885,Ayanda,Maseko,F,1998,Bronze,Paarl Central,2024-05-24
+C01886,Palesa,Sibiya,F,1994,Gold,Beacon Bay,2024-02-03
+C01887,Karabo,Jones,M,1997,Bronze,Hatfield,2023-05-25
+C01888,Andile,Coetzee,F,,Bronze,Umhlanga,2025-04-10
+C01889,Khanyisile,Zwane,F,1988,Bronze,Chatsworth,2024-07-30
+C01890,Kgomotso,Nyathi,M,2003,Bronze,Centurion,2023-05-19
+C01891,Rachel,Pretorius,F,1995,Bronze,Stellenbosch Central,2024-05-17
+C01892,Lerato,Coetzee,F,1990,Bronze,Hayfields,2025-03-16
+C01893,Refiloe,Maseko,M,1999,Silver,Midrand,2023-04-02
+C01894,Ayanda,Zwane,M,1991,Bronze,Khayelitsha,2024-07-01
+C01895,Lerato,Khumalo,,1979,Gold,Khayelitsha,2024-03-20
+C01896,Olwethu,Joseph,M,1966,Bronze,CBD,2023-08-08
+C01897,Lindiwe,van Wyk,M,1969,Bronze,Sandton,2024-05-22
+C01898,Sizwe,Mkhize,M,,Bronze,Walmer,2023-04-30
+C01899,Mpho,Nkosi,M,1997,Silver,George Central,2024-02-04
+C01900,Dineo,Govender,F,,Bronze,Roodepoort,2024-09-28
+C01901,Tumelo,Patel,M,1982,Silver,Mthatha Central,2023-11-14
+C01902,Sizwe,Khan,F,1955,Bronze,Brooklyn,2025-05-12
+C01903,Palesa,Coetzee,F,1955,Bronze,Walmer,2025-02-24
+C01904,Rachel,Mahlangu,M,1969,Bronze,Tygervalley,2025-03-21
+C01905,Rajesh,Ndlovu,F,1975,Silver,Greenacres,2025-01-02
+C01906,Nokwanda,Sibanda,F,1973,Bronze,Paarl Central,2025-02-18
+C01907,Bongani,Sibanda,M,1967,Bronze,Hayfields,2023-07-25
+C01908,Naledi,Adams,,1985,Bronze,CBD,2025-05-03
+C01909,Sarah,van der Merwe,F,1999,Bronze,Pinetown,2024-01-15
+C01910,Rachel,Mokwena,F,,Gold,Midrand,2023-11-22
+C01911,Sipho,Mkhize,F,1964,Gold,George Central,2023-07-25
+C01912,Mosa,Khumalo,F,1964,Bronze,Edenvale,2023-07-08
+C01913,Thandiwe,Pretorius,F,2001,Silver,Constantia,2025-05-13
+C01914,Andile,Sibiya,M,1990,Bronze,Centurion,2023-02-28
+C01915,Bongani,Ndlovu,F,,Silver,Centurion,2024-01-15
+C01916,Sipho,Mokwena,M,1998,Bronze,Richards Bay Central,2023-03-01
+C01917,Dineo,Radebe,M,1962,Silver,CBD,2024-07-31
+C01918,Ibrahim,Ndlovu,F,1985,Bronze,Alberton,2024-12-03
+C01919,Kabelo,Radebe,F,2002,Bronze,Boksburg,2023-12-20
+C01920,Thandiwe,van Wyk,F,1964,Silver,Edenvale,2023-05-28
+C01921,Mpho,van der Merwe,,1979,Silver,Hatfield,2025-01-27
+C01922,Lerato,Smith,M,,Bronze,PMB Central,2025-05-22
+C01923,Nokuthula,Sibanda,F,1995,Gold,Wonderpark,2024-04-16
+C01924,Vuyo,Jones,F,1979,Bronze,Beacon Bay,2024-02-13
+C01925,Naledi,Adams,F,1968,Bronze,Beacon Bay,2025-03-13
+C01926,Kabelo,Mhlongo,M,1990,Silver,Hatfield,2024-10-21
+C01927,Ayanda,Naidoo,F,1985,Bronze,Krugersdorp,2025-05-02
+C01928,Refiloe,Ngcobo,F,1967,Bronze,Tygervalley,2024-11-06
+C01929,Sarah,Adams,F,,Bronze,Richards Bay Central,2024-11-14
+C01930,Mandla,Khan,,1998,Bronze,Fourways,2024-08-11
+C01931,Karabo,Pretorius,F,1975,Silver,Parow,2025-02-19
+C01932,Rajesh,Tshabalala,M,2003,Silver,CBD,2024-11-23
+C01933,Lindiwe,Ndlovu,F,1955,Silver,Menlyn,2025-05-23
+C01934,Tshepo,Tshabalala,M,1977,Bronze,Sandton,2023-11-11
+C01935,Khanyisile,Ndlovu,F,1975,Silver,Umhlanga,2023-12-13
+C01936,Sibusiso,van der Merwe,F,1961,Bronze,Bellville,2023-06-17
+C01937,Emma,Zulu,M,1994,Bronze,Mthatha Central,2024-04-25
+C01938,Nokwanda,Khan,M,1970,Bronze,Bellville,2024-03-31
+C01939,Lindiwe,Mokoena,F,1979,Bronze,Claremont,2024-08-23
+C01940,Nokwanda,Mhlongo,M,1992,Bronze,Claremont,2024-05-18
+C01941,Tumelo,Mkhize,F,1976,Silver,Constantia,2023-07-01
+C01942,Naledi,Ngcobo,F,1980,Bronze,Beacon Bay,2023-07-21
+C01943,Thandiwe,Tshabalala,F,2005,Bronze,Berea,2025-03-29
+C01944,Rajesh,Dlamini,M,1992,Bronze,Boksburg,2023-07-16
+C01945,Aisha,Khan,,1956,Silver,Khayelitsha,2024-10-26
+C01946,Andile,Mthembu,F,1982,Bronze,Beacon Bay,2024-04-14
+C01947,Tumelo,Mabaso,F,1957,Gold,Pinetown,2024-08-10
+C01948,Lerato,Mthembu,F,1985,Bronze,Greenacres,2023-10-04
+C01949,Nokwanda,Radebe,F,1987,Silver,Wonderpark,2024-12-25
+C01950,Pieter,Mahlangu,M,2001,Bronze,Alberton,2023-10-01
+C01951,Tshepo,Jones,M,1960,Silver,Phoenix,2023-04-27
+C01952,Lerato,Mahlangu,M,1961,Bronze,Constantia,2023-06-07
+C01953,Kgomotso,Pillay,M,,Bronze,Menlyn,2025-06-10
+C01954,Kabelo,Ndlovu,F,1995,Gold,Mthatha Central,2023-04-19
+C01955,Kabelo,Zulu,F,1963,Silver,Stellenbosch Central,2023-07-10
+C01956,Tshepo,Mabaso,F,2005,Bronze,Stellenbosch Central,2024-02-01
+C01957,Johan,Adams,F,1967,Bronze,George Central,2024-04-25
+C01958,Mpho,Zwane,M,1958,Bronze,Stellenbosch Central,2023-06-30
+C01959,Palesa,Patel,F,1989,Bronze,Mitchell's Plain,2024-12-20
+C01960,Lehlogonolo,Ndlovu,F,1975,Bronze,Fourways,2024-10-12
+C01961,Khanyisile,Zwane,F,1981,Bronze,Rosebank,2023-09-14
+C01962,Dineo,Cele,M,,Silver,Greenacres,2023-09-15
+C01963,Mpho,Botha,F,1959,Silver,Khayelitsha,2024-09-26
+C01964,Lehlogonolo,Smith,F,2003,Bronze,Greenacres,2023-04-01
+C01965,Johan,Zwane,M,1978,Bronze,Constantia,2024-08-05
+C01966,Kagiso,Tshabalala,F,2002,Bronze,Krugersdorp,2025-02-20
+C01967,Rajesh,Tshabalala,M,2002,Bronze,CBD,2024-12-08
+C01968,Anika,Moyo,F,1984,Silver,Fourways,2024-04-19
+C01969,Nokulunga,van Wyk,F,1964,Bronze,Claremont,2025-06-13
+C01970,Naledi,Tshabalala,F,1995,Bronze,Rosebank,2025-03-21
+C01971,Dineo,van der Merwe,F,1966,Bronze,Umhlanga,2023-06-03
+C01972,Busisiwe,Mabena,F,1986,Bronze,Ballito,2023-10-12
+C01973,Nokuthula,Pretorius,F,2001,Bronze,Tygervalley,2024-05-14
+C01974,Tumelo,Khumalo,F,1961,Bronze,Umhlanga,2024-09-14
+C01975,Mpho,Mokwena,F,1986,Bronze,Sea Point,2023-11-12
+C01976,Thandiwe,Botha,F,1974,Bronze,Mitchell's Plain,2024-09-05
+C01977,Naledi,Adams,F,2001,Bronze,Parow,2024-01-14
+C01978,Kgomotso,du Plessis,F,1983,Bronze,Centurion,2024-12-05
+C01979,Nokuthula,Tshabalala,M,1985,Bronze,Richards Bay Central,2025-03-23
+C01980,Pieter,Pretorius,M,1975,Bronze,Edenvale,2024-12-26
+C01981,Lesedi,Ngcobo,F,1970,Bronze,Claremont,2023-11-17
+C01982,Aisha,Sithole,F,1964,Bronze,Hayfields,2024-04-18
+C01983,Nthabiseng,Khan,F,1979,Silver,Brooklyn,2024-12-29
+C01984,Themba,Mhlongo,M,1958,Bronze,Sea Point,2023-12-02
+C01985,Anika,Ngcobo,F,1964,Gold,Hayfields,2025-01-11
+C01986,Dineo,Pretorius,,1993,Bronze,Khayelitsha,2025-01-23
+C01987,Palesa,Adams,M,1973,Bronze,Walmer,2025-04-18
+C01988,Mandisa,Nkosi,F,1968,Bronze,Vincent,2024-10-21
+C01989,Lehlogonolo,Moyo,F,1984,Gold,Berea,2024-07-22
+C01990,Refilwe,Sibiya,F,1975,Bronze,Brooklyn,2023-07-22
+C01991,Sibusiso,Sibiya,F,1965,Bronze,Claremont,2023-05-07
+C01992,Nomvula,Tshabalala,M,1978,Silver,Soweto,2024-07-17
+C01993,Lerato,Smith,M,1980,Bronze,CBD,2024-10-21
+C01994,Mpho,Tshabalala,M,,Bronze,Parow,2024-05-23
+C01995,Zanele,Ndlovu,F,1961,Gold,Roodepoort,2024-01-04
+C01996,Anika,Mabena,F,1976,Bronze,PMB Central,2023-03-05
+C01997,Fatima,Moyo,M,1980,Bronze,Stellenbosch Central,2025-04-13
+C01998,Sizwe,Jones,F,2003,Bronze,Roodepoort,2023-02-27
+C01999,Mosa,Buthelezi,F,1996,Bronze,CBD,2023-02-13
+C02000,Nokuthula,Govender,M,1963,Bronze,Mthatha Central,2024-11-17
+C02001,James,Dlamini,M,1973,Bronze,Walmer,2024-02-29
+C02002,Yusuf,Ndlovu,F,,Bronze,Hayfields,2023-01-08
+C02003,Anika,Mabaso,M,1978,Silver,Fourways,2023-08-06
+C02004,Themba,Nyathi,F,1995,Bronze,Ballito,2024-01-19
+C02005,Aisha,Radebe,F,1967,Bronze,Midrand,2023-12-01
+C02006,Kagiso,Sibanda,F,1973,Bronze,Vincent,2024-11-18
+C02007,Aisha,Sibanda,F,,Silver,Sandton,2023-07-24
+C02008,Lehlogonolo,Mkhize,M,1974,Bronze,Westville,2025-04-17
+C02009,Ayanda,Mhlongo,F,1996,Bronze,Boksburg,2023-08-11
+C02010,Aisha,Dlamini,F,1968,Silver,Sandton,2024-05-26
+C02011,Vuyo,Radebe,M,1984,Bronze,Tygervalley,2024-05-18
+C02012,Priya,Buthelezi,M,2005,Silver,Roodepoort,2023-03-21
+C02013,Kabelo,Sithole,M,1956,Silver,Brooklyn,2023-01-01
+C02014,Ayanda,Jones,F,1991,Bronze,Hatfield,2023-08-09
+C02015,Mosa,Pretorius,,2002,Bronze,Wonderpark,2024-10-31
+C02016,Lerato,Mthembu,M,1962,Bronze,Sandton,2023-05-04
+C02017,Thandiwe,Dlamini,M,1985,Bronze,Roodepoort,2024-04-11
+C02018,Nokulunga,Zwane,M,1972,Silver,Umhlanga,2023-03-06
+C02019,Vuyo,Mokwena,F,1980,Bronze,Hayfields,2024-03-18
+C02020,Khanyisile,van Wyk,F,1955,Bronze,Constantia,2025-02-27
+C02021,Busisiwe,Maseko,M,1967,Bronze,Brooklyn,2025-06-11
+C02022,Palesa,Pillay,M,1955,Bronze,Richards Bay Central,2025-05-05
+C02023,Mandisa,Smith,M,1999,Bronze,Khayelitsha,2023-10-21
+C02024,Marius,Mabaso,M,1984,Bronze,Hatfield,2024-11-05
+C02025,Marius,Buthelezi,M,1975,Bronze,George Central,2024-08-17
+C02026,James,Mhlongo,F,1977,Bronze,Greenacres,2025-02-08
+C02027,Rajesh,Nyathi,F,1982,Bronze,Parow,2023-12-07
+C02028,Anika,van Wyk,F,1989,Bronze,CBD,2023-12-18
+C02029,Aisha,Mokwena,M,1989,Silver,Richards Bay Central,2023-05-23
+C02030,Dineo,Naidoo,M,1980,Bronze,Mitchell's Plain,2024-05-28
+C02031,Ibrahim,Mokoena,M,,Gold,Beacon Bay,2025-01-25
+C02032,Lungile,Mabena,F,1975,Silver,Ballito,2024-02-09
+C02033,Fatima,Sibanda,F,1977,Bronze,Paarl Central,2023-08-20
+C02034,Thandiwe,van Wyk,F,1999,Bronze,Sea Point,2025-03-23
+C02035,Aisha,Sithole,F,1959,Bronze,Fourways,2023-11-07
+C02036,Dineo,Naidoo,M,1961,Bronze,Claremont,2023-02-01
+C02037,Mpho,Zulu,F,2004,Bronze,Berea,2023-05-02
+C02038,David,Cele,M,1955,Bronze,Soweto,2024-01-19
+C02039,Sizwe,Mthembu,F,1992,Bronze,Westville,2023-02-12
+C02040,Lungile,Coetzee,,1986,Bronze,Walmer,2024-04-29
+C02041,Nokulunga,Radebe,M,2004,Bronze,Pinetown,2025-06-20
+C02042,Anika,Coetzee,,,Bronze,Stellenbosch Central,2024-05-01
+C02043,Kagiso,Nyathi,F,1970,Silver,Paarl Central,2024-04-10
+C02044,Sarah,Mabena,F,,Bronze,Berea,2023-08-10
+C02045,Kabelo,Moyo,F,1998,Silver,Claremont,2024-06-02
+C02046,Rachel,Ndlovu,M,1984,Bronze,PMB Central,2024-10-31
+C02047,Vuyo,Khumalo,F,1962,Bronze,Berea,2023-10-28
+C02048,Mandisa,Botha,F,1993,Bronze,Bellville,2025-05-07
+C02049,Zanele,Pretorius,F,,Silver,Vincent,2023-06-30
+C02050,Refiloe,Radebe,F,1966,Silver,Westville,2025-05-15
+C02051,Rajesh,Govender,M,1999,Bronze,Tygervalley,2023-05-23
+C02052,Naledi,Sibiya,M,1983,Silver,Rosebank,2023-01-22
+C02053,Sibusiso,Adams,M,1978,Bronze,Umhlanga,2023-02-04
+C02054,Busisiwe,Smith,M,1982,Bronze,Beacon Bay,2024-01-02
+C02055,Priya,Sibanda,M,1970,Silver,Mitchell's Plain,2023-01-25
+C02056,Refilwe,Mabaso,M,1997,Bronze,PMB Central,2024-01-18
+C02057,Yusuf,Patel,F,2005,Bronze,Mitchell's Plain,2024-07-27
+C02058,Sipho,Govender,F,1974,Silver,Sea Point,2024-01-16
+C02059,Nomvula,Joseph,M,1962,Bronze,Chatsworth,2023-01-10
+C02060,Ayanda,Mahlangu,F,1970,Silver,Midrand,2024-11-10
+C02061,Priya,du Plessis,F,1961,Bronze,Mthatha Central,2024-07-08
+C02062,Mandisa,Ndlovu,F,1963,Bronze,Constantia,2024-05-04
+C02063,Aisha,Ndlovu,M,1970,Bronze,Mthatha Central,2024-01-06
+C02064,Nokuthula,Patel,F,2003,Silver,Fourways,2023-01-29
+C02065,Palesa,Mhlongo,F,1993,Bronze,Parow,2024-05-05
+C02066,Kabelo,Joseph,M,1996,Bronze,Roodepoort,2024-09-05
+C02067,Fatima,Maseko,F,1959,Bronze,Constantia,2024-07-29
+C02068,Tshepo,Mokwena,M,1957,Bronze,Pinetown,2024-10-27
+C02069,Bontle,Mabena,F,1989,Silver,Umhlanga,2024-06-07
+C02070,Rajesh,Radebe,M,1999,Bronze,Greenacres,2024-09-11
+C02071,Nthabiseng,Mkhize,F,1976,Bronze,Menlyn,2024-06-29
+C02072,Fatima,Ngcobo,M,1971,Gold,Alberton,2023-08-22
+C02073,Johan,Tshabalala,M,1991,Gold,Midrand,2024-06-14
+C02074,Lungile,Moyo,F,1993,Bronze,Pinetown,2025-06-30
+C02075,Karabo,Mahlangu,M,1999,Bronze,Hatfield,2024-12-30
+C02076,Ibrahim,Buthelezi,F,1984,Bronze,Alberton,2024-10-15
+C02077,Andile,Naidoo,M,1995,Bronze,Vincent,2025-04-09
+C02078,Rajesh,Mhlongo,F,1985,Gold,Pinetown,2023-05-30
+C02079,Kagiso,Sibiya,F,1962,Silver,Fourways,2023-01-04
+C02080,Zanele,Pretorius,M,1971,Bronze,Ballito,2024-08-20
+C02081,Dineo,Khan,M,1981,Bronze,Rosebank,2024-10-05
+C02082,Rajesh,Sibiya,F,1982,Bronze,George Central,2023-05-06
+C02083,Marius,Khumalo,F,1959,Bronze,Brooklyn,2023-05-11
+C02084,Karabo,Sithole,M,1998,Bronze,Beacon Bay,2024-08-03
+C02085,Nomvula,Nkosi,F,1994,Bronze,Roodepoort,2023-08-25
+C02086,Nokuthula,Ngcobo,M,2003,Bronze,Roodepoort,2023-06-05
+C02087,Lerato,Buthelezi,M,2003,Silver,Soweto,2023-07-28
+C02088,Ibrahim,Ngcobo,F,1965,Silver,Brooklyn,2025-04-08
+C02089,Rajesh,Zulu,F,1981,Bronze,Tygervalley,2023-06-27
+C02090,Nokuthula,Khan,F,1970,Bronze,Berea,2025-05-19
+C02091,Sarah,Jones,F,1961,Bronze,Berea,2024-03-29
+C02092,Themba,Radebe,M,2003,Bronze,Brooklyn,2023-07-30
+C02093,Lungile,Coetzee,F,1988,Bronze,Phoenix,2024-09-22
+C02094,Sarah,Jones,M,1978,Bronze,Walmer,2024-11-30
+C02095,Sarah,Botha,M,1968,Bronze,Brooklyn,2023-09-12
+C02096,Sibusiso,Maseko,M,1979,Bronze,Claremont,2024-12-03
+C02097,Kgomotso,Pillay,M,1959,Silver,Soweto,2024-08-08
+C02098,Anika,Mhlongo,F,1986,Bronze,Rosebank,2023-04-02
+C02099,David,Patel,F,1972,Gold,Umhlanga,2023-08-13
+C02100,Mandisa,Zwane,M,1993,Bronze,CBD,2024-01-26
+C02101,Marius,Khumalo,M,1960,Bronze,Pinetown,2024-12-13
+C02102,Yusuf,Khumalo,F,1988,Bronze,Alberton,2023-05-26
+C02103,Mandisa,Smith,F,1966,Bronze,Chatsworth,2023-03-10
+C02104,Nokuthula,Mabaso,M,1991,Silver,George Central,2023-10-23
+C02105,Yusuf,du Plessis,M,1965,Silver,Midrand,2024-09-09
+C02106,Sibusiso,Ndlovu,F,1961,Silver,PMB Central,2023-05-08
+C02107,Refiloe,van Wyk,M,1978,Bronze,George Central,2023-09-09
+C02108,Karabo,Nkosi,F,1965,Bronze,Claremont,2024-05-27
+C02109,Aisha,Khumalo,F,,Bronze,Parow,2023-09-05
+C02110,Nokulunga,Sibiya,M,1991,Bronze,Pinetown,2023-06-29
+C02111,Sibusiso,Zulu,M,1965,Silver,Constantia,2024-01-22
+C02112,Naledi,Nkosi,F,1988,Bronze,Fourways,2024-07-17
+C02113,Ibrahim,Sibanda,M,1984,Gold,Randburg,2024-08-14
+C02114,Sibusiso,Sibanda,M,1988,Bronze,Hayfields,2023-05-10
+C02115,Bontle,Mokoena,F,1993,Silver,Mitchell's Plain,2024-09-10
+C02116,Emma,Radebe,F,,Bronze,Claremont,2023-08-09
+C02117,David,Mokwena,F,1992,Silver,Vincent,2025-03-23
+C02118,Ayanda,Sibanda,F,1956,Silver,Boksburg,2024-05-13
+C02119,James,van Wyk,M,1978,Bronze,Wonderpark,2023-02-22
+C02120,Andile,Mokwena,M,1961,Bronze,Pinetown,2024-01-31
+C02121,Mosa,Smith,F,1973,Bronze,Umhlanga,2023-02-11
+C02122,Nokulunga,du Plessis,F,1976,Gold,Tygervalley,2023-04-14
+C02123,Themba,Buthelezi,F,1956,Bronze,Hatfield,2023-01-25
+C02124,Rachel,Sibanda,F,1994,Bronze,Alberton,2024-01-12
+C02125,Nomvula,Adams,M,1983,Bronze,Phoenix,2023-02-07
+C02126,Tumelo,Buthelezi,M,1991,Gold,Bellville,2025-04-12
+C02127,Pieter,Jones,M,1995,Bronze,Midrand,2023-04-06
+C02128,Kabelo,Radebe,F,,Bronze,Parow,2023-07-19
+C02129,Emma,Mkhize,F,1964,Bronze,Sandton,2023-01-01
+C02130,Zanele,Botha,M,1971,Silver,Edenvale,2024-04-24
+C02131,Refilwe,Coetzee,F,1997,Silver,Pinetown,2025-01-15
+C02132,Marius,du Plessis,,1971,Bronze,Menlyn,2024-10-08
+C02133,Tumelo,Tshabalala,M,1997,Silver,Chatsworth,2024-11-29
+C02134,Busisiwe,Sibiya,M,1970,Bronze,Umhlanga,2023-10-06
+C02135,Pieter,Joseph,F,2001,Bronze,Westville,2023-11-04
+C02136,Bontle,Patel,F,1964,Silver,Edenvale,2025-06-20
+C02137,Andile,van Wyk,M,1961,Bronze,Wonderpark,2025-01-30
+C02138,James,Moyo,M,1974,Bronze,Umhlanga,2024-11-09
+C02139,Zanele,Tshabalala,M,1958,Silver,Bellville,2024-02-29
+C02140,Priya,Dlamini,F,1978,Bronze,Hayfields,2024-02-10
+C02141,Lesedi,Naidoo,F,1970,Bronze,Tygervalley,2023-12-11
+C02142,Refilwe,Sibiya,F,1979,Bronze,Stellenbosch Central,2025-03-26
+C02143,Olwethu,Nkosi,F,1982,Bronze,Walmer,2024-10-25
+C02144,Themba,Khumalo,F,,Bronze,Hatfield,2024-11-26
+C02145,Lungile,Cele,M,,Silver,Menlyn,2023-04-13
+C02146,Sipho,Zwane,F,1957,Silver,Midrand,2025-03-19
+C02147,Refilwe,Sibanda,M,1986,Bronze,Pinetown,2025-05-06
+C02148,Fatima,Ndlovu,M,1973,Bronze,Boksburg,2023-06-11
+C02149,Mosa,Joseph,F,1993,Bronze,Fourways,2025-05-22
+C02150,Pieter,Botha,M,1983,Bronze,Alberton,2024-10-31
+C02151,Sibusiso,Sibanda,F,1970,Silver,Beacon Bay,2023-12-01
+C02152,Sizwe,Pillay,F,2000,Bronze,Westville,2025-06-15
+C02153,Bongani,Mokwena,F,1983,Silver,Alberton,2025-02-27
+C02154,Pieter,Tshabalala,M,2000,Bronze,Vincent,2024-11-15
+C02155,Tumelo,Buthelezi,M,1974,Bronze,Umhlanga,2024-11-02
+C02156,Sipho,Mhlongo,F,1967,Bronze,Boksburg,2024-02-03
+C02157,Mandla,Coetzee,F,1980,Silver,Berea,2023-05-17
+C02158,Dineo,Tshabalala,M,2000,Bronze,Richards Bay Central,2025-06-07
+C02159,Nokwanda,van der Merwe,F,2005,Bronze,Stellenbosch Central,2024-05-13
+C02160,Pieter,Mokwena,F,1963,Bronze,Brooklyn,2023-07-27
+C02161,Vuyo,van der Merwe,F,,Bronze,Menlyn,2025-03-30
+C02162,Kabelo,Mhlongo,F,1961,Silver,Phoenix,2023-07-26
+C02163,Sizwe,Mokwena,F,1997,Silver,Brooklyn,2024-06-27
+C02164,James,Adams,,1994,Bronze,CBD,2024-04-10
+C02165,Vuyo,Zwane,M,1989,Bronze,Alberton,2023-12-07
+C02166,Lerato,Moyo,M,2005,Silver,Wonderpark,2024-04-19
+C02167,Nthabiseng,Mkhize,F,1975,Bronze,Boksburg,2023-11-04
+C02168,Mosa,Mokoena,M,1997,Bronze,Boksburg,2023-01-05
+C02169,Fatima,Govender,F,1983,Bronze,Khayelitsha,2023-03-19
+C02170,Bontle,Khan,M,1989,Bronze,Mthatha Central,2025-03-17
+C02171,Ayanda,Sibiya,M,1986,Bronze,Beacon Bay,2024-07-19
+C02172,Mpho,Zulu,M,1979,Bronze,PMB Central,2024-11-02
+C02173,Palesa,Nkosi,M,1960,Bronze,Umhlanga,2023-01-22
+C02174,Lindiwe,Mahlangu,M,2001,Bronze,Beacon Bay,2023-09-21
+C02175,Emma,Botha,M,1968,Bronze,Alberton,2023-11-13
+C02176,Ibrahim,Buthelezi,M,1959,Silver,Sea Point,2023-09-03
+C02177,Zanele,Khan,,1962,Bronze,Phoenix,2025-02-23
+C02178,Khanyisile,Nyathi,F,1962,Bronze,Stellenbosch Central,2023-12-31
+C02179,Karabo,Mabaso,F,1979,Bronze,Boksburg,2025-01-12
+C02180,Lerato,Ngcobo,M,2005,Gold,Tygervalley,2023-06-14
+C02181,Fatima,Nyathi,F,2003,Bronze,Soweto,2025-03-22
+C02182,Lehlogonolo,Smith,F,1987,Bronze,Tygervalley,2023-07-14
+C02183,Kabelo,du Plessis,M,2002,Gold,Edenvale,2024-05-21
+C02184,Yusuf,van Wyk,F,1996,Silver,CBD,2024-04-08
+C02185,Palesa,Nkosi,M,1956,Gold,Vincent,2023-01-08
+C02186,Johan,van Wyk,F,1961,Bronze,Mitchell's Plain,2024-08-30
+C02187,Naledi,du Plessis,F,1990,Bronze,Pinetown,2025-04-10
+C02188,Sipho,Tshabalala,F,1989,Bronze,Paarl Central,2023-02-26
+C02189,Ayanda,Mahlangu,M,1979,Bronze,Wonderpark,2023-03-18
+C02190,Fatima,Mhlongo,F,1974,Bronze,Claremont,2023-10-19
+C02191,Johan,van der Merwe,M,1963,Bronze,Paarl Central,2024-01-07
+C02192,Bongani,Sithole,,2004,Silver,George Central,2024-08-13
+C02193,Sizwe,Zwane,M,,Bronze,Ballito,2025-02-11
+C02194,Ibrahim,Mabaso,M,1990,Silver,PMB Central,2023-11-01
+C02195,Yusuf,Mthembu,F,1980,Bronze,Wonderpark,2023-04-06
+C02196,Tumelo,Mabena,F,1958,Bronze,Westville,2023-01-05
+C02197,Lindiwe,du Plessis,F,1978,Bronze,Tygervalley,2024-08-28
+C02198,Yusuf,Pillay,F,1965,Silver,Walmer,2025-06-06
+C02199,Lindiwe,Dlamini,F,2001,Bronze,Greenacres,2024-06-05
+C02200,Andile,Moyo,F,1988,Bronze,Midrand,2024-05-19
+C02201,Yusuf,Pillay,F,1968,Bronze,Chatsworth,2023-10-27
+C02202,Anika,Mahlangu,F,1992,Bronze,Brooklyn,2023-09-13
+C02203,Kabelo,Zulu,M,1971,Bronze,Mitchell's Plain,2024-02-20
+C02204,Lesedi,Pretorius,M,1999,Bronze,Vincent,2024-08-17
+C02205,Bongani,Pillay,F,1957,Bronze,CBD,2025-01-18
+C02206,Zanele,Sibanda,F,1968,Bronze,Sea Point,2024-10-29
+C02207,Sizwe,Zulu,M,1955,Bronze,Berea,2023-05-28
+C02208,Themba,Zulu,M,1975,Bronze,Chatsworth,2024-11-27
+C02209,Busisiwe,Jones,M,1995,Bronze,Midrand,2025-06-09
+C02210,Tumelo,Pillay,F,1972,Bronze,Rosebank,2024-04-19
+C02211,Refilwe,Khumalo,M,1958,Bronze,Sandton,2024-02-28
+C02212,Bongani,Maseko,F,1972,Silver,Umhlanga,2025-03-15
+C02213,Lehlogonolo,Adams,F,1984,Bronze,Berea,2023-07-25
+C02214,Nokwanda,Khan,M,1979,Bronze,Berea,2023-05-17
+C02215,Lerato,Pillay,M,1979,Gold,Phoenix,2023-05-29
+C02216,Bongani,Khan,M,1988,Bronze,Beacon Bay,2024-06-12
+C02217,Bontle,Mthembu,M,1956,Gold,Paarl Central,2023-10-17
+C02218,Kagiso,Pillay,M,1997,Silver,Richards Bay Central,2025-03-29
+C02219,Fatima,van der Merwe,M,,Gold,Centurion,2024-07-21
+C02220,Emma,Mkhize,F,1985,Bronze,Krugersdorp,2025-01-08
+C02221,Lehlogonolo,Smith,F,1972,Bronze,Beacon Bay,2025-05-12
+C02222,Nthabiseng,Mkhize,M,1961,Bronze,Roodepoort,2023-11-29
+C02223,Sipho,Mabena,F,2003,Bronze,Edenvale,2024-03-17
+C02224,Yusuf,Dlamini,M,1961,Bronze,Wonderpark,2025-06-06
+C02225,Sipho,Naidoo,F,1989,Bronze,Greenacres,2024-07-15
+C02226,Rachel,Mahlangu,F,1968,Bronze,Boksburg,2023-01-12
+C02227,Lesedi,Moyo,F,1972,Silver,Sandton,2023-04-06
+C02228,Pieter,Pillay,M,1960,Silver,PMB Central,2025-02-03
+C02229,Thandiwe,Pillay,F,1999,Bronze,Walmer,2025-01-16
+C02230,Thabo,Coetzee,M,1968,Silver,Paarl Central,2023-04-01
+C02231,Aisha,Zwane,F,1991,Bronze,Randburg,2024-01-01
+C02232,Lehlogonolo,Jones,M,,Bronze,Mthatha Central,2024-08-08
+C02233,Lerato,Khan,F,1965,Bronze,George Central,2023-07-20
+C02234,Dineo,Naidoo,F,1973,Bronze,Edenvale,2024-09-25
+C02235,Naledi,Mokoena,F,2001,Bronze,Krugersdorp,2025-05-04
+C02236,Lungile,Smith,F,1959,Bronze,Soweto,2023-01-08
+C02237,Refilwe,Mhlongo,F,1966,Silver,Paarl Central,2023-03-28
+C02238,Lehlogonolo,Botha,F,1964,Bronze,Walmer,2025-04-12
+C02239,Refilwe,Khan,M,2000,Bronze,Westville,2024-08-22
+C02240,Pieter,Jones,F,1993,Bronze,Berea,2024-03-11
+C02241,Mandla,Ngcobo,M,1983,Bronze,Sandton,2025-01-21
+C02242,Bontle,Dlamini,F,1973,Bronze,Stellenbosch Central,2025-06-14
+C02243,Lesedi,Zulu,M,1963,Bronze,Walmer,2024-06-30
+C02244,Mandisa,Zulu,M,1980,Bronze,Parow,2023-02-24
+C02245,Fatima,van der Merwe,M,1969,Bronze,Khayelitsha,2024-06-04
+C02246,Mandisa,Sibiya,M,1959,Bronze,Menlyn,2024-06-21
+C02247,Ibrahim,Mabaso,F,1976,Silver,CBD,2024-03-13
+C02248,Rajesh,Naidoo,F,2005,Bronze,Chatsworth,2023-06-01
+C02249,Kabelo,Jones,F,2001,Bronze,Centurion,2024-04-16
+C02250,Refilwe,Khan,,,Silver,Claremont,2025-03-04
+C02251,Tumelo,Dlamini,M,,Bronze,Mthatha Central,2024-08-22
+C02252,Tshepo,Mabaso,M,1985,Bronze,PMB Central,2024-10-25
+C02253,Marius,Khumalo,M,2002,Bronze,Bellville,2023-12-28
+C02254,Johan,Radebe,M,2005,Bronze,Alberton,2023-09-25
+C02255,Refilwe,Mabaso,M,1964,Bronze,Umhlanga,2023-10-22
+C02256,Rajesh,Adams,M,1959,Silver,Alberton,2024-05-28
+C02257,Kabelo,Mokoena,F,,Bronze,Claremont,2023-02-15
+C02258,Nthabiseng,Khumalo,F,1971,Bronze,Mthatha Central,2023-12-16
+C02259,Tshepo,Mhlongo,M,1972,Bronze,Richards Bay Central,2023-05-06
+C02260,Andile,Moyo,F,1972,Gold,Hatfield,2024-01-10
+C02261,Ayanda,Botha,M,1979,Bronze,CBD,2024-10-02
+C02262,Priya,Khumalo,F,1970,Silver,Ballito,2024-04-16
+C02263,Kabelo,Cele,M,1956,Silver,Chatsworth,2023-07-09
+C02264,Naledi,Ndlovu,F,1958,Silver,Boksburg,2025-05-04
+C02265,Fatima,Zulu,M,1988,Bronze,Boksburg,2025-05-27
+C02266,Mosa,van der Merwe,M,1985,Gold,Chatsworth,2023-07-12
+C02267,Fatima,Ndlovu,F,1970,Bronze,Walmer,2024-02-14
+C02268,Kabelo,Maseko,M,1988,Bronze,Krugersdorp,2024-02-22
+C02269,Ayanda,Botha,F,1981,Bronze,Chatsworth,2024-03-17
+C02270,Sizwe,Sithole,F,2004,Bronze,CBD,2025-04-21
+C02271,Sarah,Maseko,M,1995,Bronze,Hatfield,2025-02-14
+C02272,Mpho,Mokoena,F,2005,Bronze,Menlyn,2024-07-10
+C02273,Lungile,van der Merwe,F,,Bronze,Soweto,2023-11-12
+C02274,Emma,Khan,M,1987,Silver,Phoenix,2023-01-24
+C02275,Refiloe,Govender,M,1978,Bronze,Chatsworth,2023-07-02
+C02276,Khanyisile,Khan,F,1963,Silver,Khayelitsha,2024-11-20
+C02277,Nokwanda,Mabena,F,1998,Gold,Alberton,2023-08-10
+C02278,Sizwe,Cele,F,1988,Bronze,Mitchell's Plain,2024-02-09
+C02279,Vuyo,Govender,M,1961,Silver,Pinetown,2024-06-22
+C02280,Michael,Zulu,M,1993,Bronze,Stellenbosch Central,2024-10-08
+C02281,Lungile,Pretorius,F,1963,Bronze,Edenvale,2023-02-10
+C02282,Emma,Mokoena,M,1960,Bronze,Phoenix,2024-05-23
+C02283,Lehlogonolo,Tshabalala,,1961,Bronze,Wonderpark,2025-03-08
+C02284,Yusuf,Adams,M,1955,Bronze,Claremont,2025-04-10
+C02285,Lerato,Zwane,F,2004,Bronze,Berea,2024-06-20
+C02286,Thabo,Pillay,M,1976,Silver,Boksburg,2025-01-16
+C02287,Mpho,Sibiya,F,2001,Silver,Pinetown,2024-11-27
+C02288,Sizwe,Sibanda,F,2005,Silver,Constantia,2023-11-15
+C02289,Nthabiseng,Ndlovu,M,1988,Bronze,Paarl Central,2024-07-06
+C02290,Mpho,Govender,F,1988,Silver,Westville,2023-05-23
+C02291,Lehlogonolo,Moyo,F,2001,Bronze,Berea,2024-06-01
+C02292,Themba,Ndlovu,F,1972,Bronze,Stellenbosch Central,2023-09-19
+C02293,Sipho,Maseko,F,1989,Silver,Hatfield,2024-10-07
+C02294,Lerato,Mabena,F,1980,Gold,CBD,2023-04-09
+C02295,Bongani,Mahlangu,F,1956,Gold,Khayelitsha,2023-07-28
+C02296,Marius,Radebe,F,1993,Silver,Claremont,2024-01-31
+C02297,Themba,van Wyk,F,2002,Gold,Sandton,2023-12-15
+C02298,Anika,Khumalo,M,1987,Bronze,Paarl Central,2024-05-12
+C02299,Thandiwe,Coetzee,F,1990,Bronze,Sandton,2024-06-21
+C02300,Khanyisile,Patel,F,1957,Bronze,Ballito,2023-01-06
+C02301,Karabo,Adams,,2004,Bronze,Umhlanga,2025-06-02
+C02302,Tumelo,Buthelezi,M,1988,Bronze,Edenvale,2024-10-22
+C02303,Marius,Ngcobo,M,1958,Bronze,Walmer,2024-12-11
+C02304,Lerato,Sibiya,M,1987,Bronze,Constantia,2025-04-02
+C02305,Mpho,Maseko,M,1956,Bronze,Boksburg,2024-08-19
+C02306,Bontle,Botha,F,1993,Bronze,Mthatha Central,2024-03-06
+C02307,Refiloe,Ngcobo,M,1979,Bronze,Ballito,2024-10-19
+C02308,Nthabiseng,Sibiya,M,1998,Gold,Pinetown,2024-06-18
+C02309,Mpho,Mokwena,M,1978,Bronze,Richards Bay Central,2023-09-12
+C02310,Themba,Mabena,M,,Bronze,Krugersdorp,2024-08-06
+C02311,Kabelo,Pretorius,,1967,Silver,Edenvale,2023-10-29
+C02312,Refiloe,Mokwena,M,1982,Bronze,Khayelitsha,2024-02-22
+C02313,Kabelo,Dlamini,,1985,Bronze,Pinetown,2025-02-21
+C02314,Emma,Dlamini,M,1966,Bronze,Edenvale,2024-06-16
+C02315,Nthabiseng,Govender,F,1997,Bronze,Roodepoort,2024-06-16
+C02316,Naledi,Buthelezi,M,1973,Silver,Wonderpark,2025-06-27
+C02317,Tumelo,Zulu,,1999,Bronze,Claremont,2024-07-16
+C02318,Bontle,Mokwena,F,2003,Bronze,Rosebank,2024-11-07
+C02319,Busisiwe,Mabaso,M,1979,Bronze,Mthatha Central,2023-03-16
+C02320,Khanyisile,Naidoo,F,1985,Bronze,Greenacres,2025-06-22
+C02321,Themba,Pretorius,M,1975,Gold,Mitchell's Plain,2023-07-16
+C02322,Refiloe,Khan,F,1964,Silver,Krugersdorp,2025-05-20
+C02323,Aisha,Khan,M,1957,Silver,Tygervalley,2024-05-04
+C02324,Lehlogonolo,Govender,F,1997,Bronze,Fourways,2025-06-25
+C02325,Sarah,Ndlovu,,1962,Silver,Phoenix,2023-07-26
+C02326,Zanele,Mabaso,M,1994,Gold,Claremont,2023-03-09
+C02327,Sarah,Adams,F,1996,Bronze,Berea,2023-03-16
+C02328,Mandisa,Tshabalala,F,1981,Silver,Chatsworth,2023-07-20
+C02329,Nokulunga,Zwane,M,1996,Bronze,Hatfield,2023-08-14
+C02330,Thandiwe,Khan,F,1986,Bronze,Fourways,2023-06-16
+C02331,Nomvula,Jones,M,2001,Silver,Beacon Bay,2023-05-14
+C02332,Nthabiseng,Mahlangu,F,1990,Silver,Hayfields,2025-01-12
+C02333,Thandiwe,du Plessis,M,1958,Bronze,Berea,2023-03-10
+C02334,Refiloe,Patel,F,1988,Bronze,Midrand,2023-07-23
+C02335,Palesa,van Wyk,F,1963,Bronze,Tygervalley,2023-07-27
+C02336,Anika,Sibanda,F,1989,Bronze,Sandton,2025-05-19
+C02337,Refilwe,Sithole,F,,Bronze,Rosebank,2023-09-01
+C02338,Dineo,Joseph,,1975,Bronze,Richards Bay Central,2023-12-20
+C02339,Sarah,Zulu,F,1983,Bronze,Alberton,2023-11-11
+C02340,Kagiso,Zwane,F,1965,Bronze,Bellville,2025-06-03
+C02341,James,Maseko,M,1961,Bronze,Khayelitsha,2023-08-31
+C02342,Rachel,Naidoo,M,1961,Bronze,Bellville,2024-04-19
+C02343,Olwethu,Coetzee,M,1965,Bronze,Tygervalley,2024-10-16
+C02344,Tshepo,Coetzee,M,1992,Bronze,Mthatha Central,2023-07-18
+C02345,Kagiso,Adams,M,1981,Bronze,Hayfields,2025-03-14
+C02346,Vuyo,Sibiya,F,2003,Silver,PMB Central,2023-09-06
+C02347,Bongani,Joseph,F,1998,Bronze,Menlyn,2023-08-23
+C02348,Kgomotso,Jones,,1956,Silver,PMB Central,2025-01-06
+C02349,Thandiwe,Smith,F,1962,Silver,Fourways,2025-05-31
+C02350,Rajesh,Pillay,M,1988,Bronze,Sea Point,2024-01-09
+C02351,Lehlogonolo,Nkosi,F,1964,Silver,George Central,2023-08-18
+C02352,Thandiwe,Cele,F,1965,Bronze,Beacon Bay,2024-01-10
+C02353,Thabo,Mabena,M,1983,Bronze,Fourways,2024-08-06
+C02354,Themba,Ndlovu,M,2004,Bronze,Richards Bay Central,2023-05-23
+C02355,Johan,Mkhize,F,1984,Gold,Ballito,2023-10-02
+C02356,Andile,Smith,M,1989,Bronze,Claremont,2023-06-12
+C02357,Naledi,Mokoena,M,1957,Bronze,Edenvale,2024-11-09
+C02358,Khanyisile,Nyathi,F,2001,Bronze,Phoenix,2023-10-26
+C02359,Mosa,Mahlangu,F,1993,Silver,Phoenix,2024-07-20
+C02360,Thandiwe,Ndlovu,M,1973,Bronze,Phoenix,2024-04-13
+C02361,Bontle,Mokoena,M,1983,Gold,Roodepoort,2024-02-16
+C02362,Rachel,Radebe,F,1989,Bronze,Claremont,2024-09-22
+C02363,Rachel,Khan,F,1959,Bronze,Mthatha Central,2024-11-10
+C02364,Michael,Coetzee,M,1986,Bronze,Pinetown,2024-08-11
+C02365,David,Joseph,F,1964,Bronze,Chatsworth,2024-08-13
+C02366,Palesa,Coetzee,,1957,Bronze,Greenacres,2024-06-20
+C02367,Thabo,Sibanda,M,1998,Bronze,Khayelitsha,2024-12-13
+C02368,Busisiwe,Dlamini,M,1978,Bronze,Pinetown,2023-12-06
+C02369,Lungile,van Wyk,M,1956,Bronze,PMB Central,2023-06-30
+C02370,Refiloe,Mabena,M,1972,Gold,Fourways,2024-02-08
+C02371,Palesa,Mahlangu,F,1994,Bronze,Mthatha Central,2023-05-17
+C02372,Lungile,Nyathi,M,1972,Silver,Edenvale,2025-06-06
+C02373,Palesa,Nyathi,,1991,Bronze,Tygervalley,2023-09-24
+C02374,Tshepo,Tshabalala,F,2003,Gold,Umhlanga,2023-12-18
+C02375,Sarah,Botha,,1965,Bronze,Walmer,2023-08-16
+C02376,Pieter,Adams,M,1998,Bronze,Phoenix,2023-04-19
+C02377,Yusuf,Sibanda,F,1956,Bronze,Boksburg,2024-01-31
+C02378,Mandisa,Buthelezi,F,1994,Bronze,Greenacres,2023-10-22
+C02379,Dineo,Patel,F,1967,Bronze,Greenacres,2024-06-08
+C02380,Dineo,Mkhize,F,1962,Bronze,Tygervalley,2023-02-18
+C02381,Palesa,Adams,M,1976,Bronze,CBD,2023-03-30
+C02382,Khanyisile,Mhlongo,F,1974,Bronze,Paarl Central,2023-12-01
+C02383,Dineo,Tshabalala,F,1968,Bronze,Sandton,2025-04-17
+C02384,Emma,du Plessis,M,1988,Silver,Berea,2025-05-21
+C02385,Johan,Mokoena,F,1994,Silver,Walmer,2025-06-04
+C02386,Mosa,Sithole,F,2004,Bronze,Randburg,2023-07-01
+C02387,Michael,Radebe,M,1962,Bronze,Ballito,2023-03-03
+C02388,Nthabiseng,Mahlangu,M,1955,Bronze,Phoenix,2024-06-23
+C02389,Yusuf,Cele,F,1963,Bronze,Rosebank,2024-03-02
+C02390,Nomvula,Tshabalala,M,1992,Silver,Berea,2024-07-05
+C02391,Rachel,Khan,F,1965,Silver,Phoenix,2023-12-12
+C02392,Olwethu,Khan,M,1976,Bronze,Hatfield,2025-03-26
+C02393,Nokulunga,Tshabalala,M,1994,Bronze,Krugersdorp,2024-09-21
+C02394,Bongani,Mabaso,M,1982,Bronze,Sea Point,2025-06-22
+C02395,Sipho,Mokoena,F,1974,Bronze,Vincent,2025-06-18
+C02396,Nokuthula,Ndlovu,,1963,Silver,Mitchell's Plain,2025-03-29
+C02397,Johan,Tshabalala,F,1955,Bronze,Chatsworth,2023-07-28
+C02398,Thandiwe,Smith,M,1966,Bronze,Alberton,2025-05-21
+C02399,Fatima,Adams,M,1979,Gold,Hayfields,2023-08-16
+C02400,David,Jones,M,2005,Gold,Vincent,2023-01-07
+C02401,Naledi,Mhlongo,M,2002,Silver,Alberton,2023-08-03
+C02402,Zanele,Adams,F,1966,Silver,Paarl Central,2025-01-24
+C02403,Naledi,Pretorius,M,1963,Bronze,Vincent,2023-01-08
+C02404,Thandiwe,Mthembu,M,1958,Bronze,Stellenbosch Central,2024-06-16
+C02405,Andile,Moyo,F,1965,Bronze,Randburg,2023-01-25
+C02406,Ibrahim,Botha,M,1980,Bronze,Pinetown,2023-07-01
+C02407,Karabo,van der Merwe,M,1985,Bronze,Hatfield,2024-07-29
+C02408,Thandiwe,Khan,F,1979,Bronze,CBD,2023-11-30
+C02409,Themba,Ngcobo,F,2004,Silver,Soweto,2024-11-04
+C02410,Yusuf,Pillay,M,1980,Silver,Berea,2023-05-04
+C02411,Mosa,du Plessis,F,1984,Bronze,Sandton,2024-08-01
+C02412,Mosa,Zwane,,1956,Bronze,Richards Bay Central,2024-08-03
+C02413,Kabelo,Naidoo,M,1965,Silver,Centurion,2024-11-04
+C02414,Mandisa,Zwane,F,1974,Bronze,Roodepoort,2023-06-20
+C02415,Johan,Mhlongo,M,1970,Silver,PMB Central,2023-07-28
+C02416,Johan,Buthelezi,M,1972,Bronze,Vincent,2024-04-19
+C02417,Olwethu,Coetzee,F,1980,Gold,Richards Bay Central,2023-09-17
+C02418,Kgomotso,Coetzee,M,2001,Silver,Berea,2025-04-24
+C02419,Mandisa,Zwane,F,1966,Bronze,Tygervalley,2023-02-26
+C02420,Pieter,Pillay,M,1993,Bronze,Hayfields,2025-01-06
+C02421,Bongani,Naidoo,F,1975,Gold,Chatsworth,2023-06-02
+C02422,Lerato,Sithole,F,1978,Silver,Khayelitsha,2024-07-15
+C02423,Palesa,van der Merwe,F,1957,Bronze,Berea,2025-04-10
+C02424,Lungile,van Wyk,M,1987,Bronze,Greenacres,2023-08-04
+C02425,Nokwanda,Mhlongo,M,1977,Bronze,Fourways,2023-03-04
+C02426,Bontle,Mokoena,F,1972,Bronze,Soweto,2024-10-22
+C02427,Tshepo,Mkhize,M,1991,Bronze,Randburg,2025-05-05
+C02428,Nokulunga,Botha,,2001,Gold,Stellenbosch Central,2023-06-02
+C02429,Mosa,Mkhize,F,2001,Silver,Beacon Bay,2023-01-25
+C02430,Tshepo,Mthembu,F,1972,Silver,Midrand,2023-02-28
+C02431,Kabelo,Pretorius,M,1991,Bronze,Sandton,2024-12-04
+C02432,Lesedi,Coetzee,F,1962,Bronze,Bellville,2025-01-19
+C02433,Themba,Zulu,F,1962,Gold,Pinetown,2023-05-23
+C02434,Nomvula,Zulu,M,2002,Bronze,Soweto,2024-02-17
+C02435,Lindiwe,Mahlangu,M,1957,Silver,Berea,2023-05-20
+C02436,Vuyo,Mabena,M,1988,Gold,Midrand,2025-01-18
+C02437,Sipho,Maseko,M,1982,Bronze,Sea Point,2024-11-07
+C02438,Mandla,van Wyk,M,1997,Silver,Paarl Central,2023-06-03
+C02439,Lehlogonolo,Maseko,F,1960,Silver,Greenacres,2024-02-09
+C02440,Thandiwe,Adams,F,1976,Bronze,Centurion,2023-05-18
+C02441,Themba,Sibiya,F,,Silver,Midrand,2024-12-18
+C02442,Mandisa,Mhlongo,,1977,Silver,Constantia,2025-04-09
+C02443,Olwethu,Nkosi,M,1968,Bronze,Randburg,2023-05-12
+C02444,Refiloe,Zwane,F,1956,Bronze,Pinetown,2023-05-02
+C02445,Themba,Khan,F,1977,Bronze,Soweto,2023-11-11
+C02446,Lehlogonolo,Mahlangu,F,1956,Bronze,Bellville,2023-01-27
+C02447,Themba,du Plessis,M,1982,Bronze,Umhlanga,2023-08-25
+C02448,Yusuf,Coetzee,F,1965,Bronze,Stellenbosch Central,2024-03-17
+C02449,David,Zwane,F,1969,Silver,Chatsworth,2024-10-27
+C02450,Lindiwe,Mabena,F,1965,Bronze,Vincent,2023-01-08
+C02451,Nokuthula,Maseko,F,1958,Bronze,Fourways,2024-05-23
+C02452,Kgomotso,Jones,F,2005,Bronze,Berea,2024-08-27
+C02453,Lungile,Cele,F,1982,Gold,Boksburg,2023-04-19
+C02454,Naledi,Patel,F,1955,Bronze,Mitchell's Plain,2025-03-27
+C02455,Karabo,Joseph,F,,Silver,Wonderpark,2024-07-21
+C02456,Nokuthula,Sithole,F,1972,Bronze,Tygervalley,2024-03-09
+C02457,Fatima,Mokoena,M,1988,Silver,Hatfield,2024-04-03
+C02458,Lindiwe,Mokwena,M,2001,Bronze,Khayelitsha,2024-04-19
+C02459,Tshepo,Pretorius,M,1981,Bronze,Pinetown,2024-12-30
+C02460,Nokuthula,Mabena,F,1958,Bronze,Chatsworth,2023-10-10
+C02461,Rajesh,Mthembu,F,1980,Silver,Claremont,2023-01-18
+C02462,Kgomotso,Smith,F,1989,Bronze,Berea,2024-03-12
+C02463,Sibusiso,Smith,M,,Bronze,Sea Point,2023-12-08
+C02464,Palesa,Pretorius,M,1965,Silver,Berea,2023-09-18
+C02465,Khanyisile,Smith,M,1982,Bronze,Westville,2023-03-07
+C02466,Fatima,Pillay,M,1999,Bronze,Khayelitsha,2023-09-30
+C02467,James,Moyo,F,1974,Bronze,Claremont,2025-02-12
+C02468,Zanele,Zulu,F,1992,Bronze,Boksburg,2023-02-08
+C02469,Lerato,Patel,M,1989,Bronze,Richards Bay Central,2025-02-14
+C02470,Nokwanda,Khan,M,1975,Gold,Constantia,2023-06-26
+C02471,Sipho,Patel,M,,Bronze,Vincent,2025-04-30
+C02472,Nthabiseng,Coetzee,M,1980,Bronze,Hayfields,2024-10-16
+C02473,Nokuthula,Ndlovu,F,1992,Bronze,Wonderpark,2024-01-27
+C02474,Nthabiseng,Buthelezi,M,1961,Bronze,Paarl Central,2023-06-02
+C02475,Sizwe,Coetzee,F,1958,Bronze,Roodepoort,2023-08-27
+C02476,Khanyisile,van der Merwe,M,1982,Silver,Phoenix,2024-11-16
+C02477,Lesedi,Sibiya,F,1991,Gold,Berea,2023-03-10
+C02478,Sibusiso,Patel,F,1982,Gold,Parow,2024-04-23
+C02479,Nomvula,Joseph,F,1989,Bronze,Wonderpark,2023-02-26
+C02480,Khanyisile,Botha,M,,Silver,Mthatha Central,2023-09-23
+C02481,Lindiwe,Nyathi,M,1960,Bronze,Pinetown,2024-08-08
+C02482,Aisha,Sibiya,M,2004,Silver,Mitchell's Plain,2023-03-27
+C02483,Rachel,Dlamini,M,1989,Bronze,Alberton,2024-11-08
+C02484,Aisha,Dlamini,M,1959,Gold,Boksburg,2023-05-22
+C02485,Refilwe,Zulu,F,1977,Silver,Edenvale,2024-08-07
+C02486,Rachel,Joseph,F,1955,Bronze,Claremont,2023-09-23
+C02487,Ibrahim,Mokoena,F,1975,Bronze,George Central,2025-05-12
+C02488,Palesa,Radebe,M,1974,Bronze,Vincent,2024-11-15
+C02489,Tshepo,Botha,M,1986,Bronze,Tygervalley,2024-09-06
+C02490,Tumelo,Smith,M,1987,Silver,Fourways,2024-08-15
+C02491,Tumelo,du Plessis,M,1958,Bronze,Edenvale,2024-12-31
+C02492,Bongani,Patel,M,1960,Bronze,Randburg,2024-03-13
+C02493,Sipho,Coetzee,M,1996,Bronze,Greenacres,2025-04-07
+C02494,Nokwanda,Buthelezi,M,1976,Bronze,Pinetown,2024-08-17
+C02495,Bontle,Sibanda,F,,Bronze,Wonderpark,2024-12-19
+C02496,Thandiwe,Maseko,M,1979,Bronze,Boksburg,2024-09-18
+C02497,David,Dlamini,F,1987,Bronze,Sea Point,2023-06-06
+C02498,Yusuf,Mabena,F,1964,Gold,Westville,2024-02-21
+C02499,Busisiwe,Nyathi,M,1955,Bronze,Edenvale,2023-09-30
+C02500,Ibrahim,Sibanda,M,1987,Bronze,Rosebank,2023-05-21
+C02501,Kagiso,Sibanda,F,2003,Bronze,Constantia,2024-03-11
+C02502,Lerato,Ngcobo,M,1960,Bronze,Mitchell's Plain,2024-08-23
+C02503,Lehlogonolo,Pillay,F,2003,Bronze,Tygervalley,2025-04-20
+C02504,Nokulunga,Naidoo,M,1961,Bronze,Wonderpark,2023-01-01
+C02505,Pieter,van der Merwe,,1957,Bronze,Phoenix,2023-04-07
+C02506,James,Mabena,M,,Bronze,Brooklyn,2025-02-07
+C02507,Ayanda,Coetzee,F,1962,Bronze,Vincent,2023-02-02
+C02508,Nokulunga,Pretorius,M,,Bronze,Fourways,2025-05-15
+C02509,Zanele,du Plessis,M,1985,Gold,Constantia,2023-05-10
+C02510,Nokwanda,Patel,M,1991,Bronze,PMB Central,2024-07-08
+C02511,Vuyo,Nkosi,M,1984,Bronze,Brooklyn,2023-03-23
+C02512,Rachel,Khan,F,1961,Silver,Pinetown,2023-07-09
+C02513,James,Radebe,M,1989,Bronze,Pinetown,2025-04-04
+C02514,Andile,Zwane,F,1994,Bronze,Phoenix,2024-01-26
+C02515,Kgomotso,Mthembu,M,1960,Bronze,Centurion,2025-04-02
+C02516,Tumelo,Khumalo,F,1994,Bronze,George Central,2023-03-01
+C02517,Mandisa,du Plessis,,1970,Bronze,Walmer,2023-02-15
+C02518,Anika,Zulu,F,1960,Silver,Edenvale,2025-05-02
+C02519,Nthabiseng,Nyathi,M,1990,Bronze,Centurion,2023-09-12
+C02520,Emma,Mahlangu,F,1992,Bronze,Khayelitsha,2024-01-24
+C02521,Rajesh,Nkosi,F,1993,Bronze,Parow,2023-11-02
+C02522,Fatima,Zwane,F,1958,Bronze,Soweto,2024-11-29
+C02523,Nokulunga,Khan,M,2002,Bronze,Rosebank,2024-05-24
+C02524,Emma,Khumalo,F,1982,Bronze,Krugersdorp,2023-11-19
+C02525,David,Mhlongo,F,1983,Silver,Richards Bay Central,2024-04-06
+C02526,Karabo,Mthembu,M,1969,Bronze,Berea,2023-01-30
+C02527,David,Mahlangu,F,2005,Silver,Soweto,2025-03-13
+C02528,Naledi,van der Merwe,M,1976,Bronze,Fourways,2024-10-09
+C02529,Pieter,Sibiya,M,1969,Bronze,Greenacres,2024-03-11
+C02530,Refilwe,van der Merwe,F,1964,Gold,Berea,2024-05-04
+C02531,Nokwanda,du Plessis,F,1963,Bronze,Soweto,2023-01-29
+C02532,Lindiwe,Mabaso,F,2000,Bronze,Phoenix,2025-04-14
+C02533,Kagiso,Nyathi,M,1995,Bronze,PMB Central,2023-01-16
+C02534,Lindiwe,du Plessis,M,1980,Bronze,Ballito,2023-05-11
+C02535,Palesa,Mabaso,F,1993,Bronze,Sea Point,2025-04-01
+C02536,Busisiwe,Jones,F,2000,Bronze,Tygervalley,2024-10-15
+C02537,Bontle,Smith,F,2001,Bronze,Sandton,2024-06-25
+C02538,Kagiso,Govender,M,1985,Bronze,Walmer,2024-08-25
+C02539,Vuyo,Radebe,M,,Bronze,Mthatha Central,2023-06-22
+C02540,Marius,Patel,M,1966,Bronze,Ballito,2024-12-12
+C02541,Lehlogonolo,Govender,M,1971,Silver,Brooklyn,2023-02-18
+C02542,Sipho,Smith,F,1996,Bronze,Menlyn,2025-01-27
+C02543,Themba,Pretorius,M,1959,Gold,Bellville,2025-05-18
+C02544,Mpho,Nyathi,M,2002,Bronze,Pinetown,2025-01-21
+C02545,Dineo,Mabaso,F,2004,Bronze,Beacon Bay,2023-10-28
+C02546,Mosa,Botha,F,1956,Silver,PMB Central,2024-01-24
+C02547,Lungile,Botha,M,1985,Bronze,PMB Central,2023-03-04
+C02548,Bontle,Ndlovu,M,1979,Silver,Boksburg,2023-12-03
+C02549,Sibusiso,Pretorius,F,1993,Gold,Centurion,2024-05-30
+C02550,Khanyisile,Mokwena,F,1969,Bronze,Krugersdorp,2023-01-13
+C02551,Sipho,Sithole,M,2000,Bronze,Phoenix,2023-10-21
+C02552,Aisha,Ndlovu,M,1977,Bronze,Boksburg,2024-11-17
+C02553,Marius,Patel,F,1958,Bronze,PMB Central,2025-06-19
+C02554,Marius,Ndlovu,F,1994,Silver,Ballito,2023-04-20
+C02555,Thabo,Tshabalala,F,1993,Bronze,Phoenix,2024-06-08
+C02556,Tumelo,Patel,M,2002,Bronze,Westville,2024-03-11
+C02557,Lesedi,Adams,M,1964,Silver,Berea,2023-03-04
+C02558,Ayanda,Tshabalala,F,1999,Bronze,Brooklyn,2025-05-09
+C02559,Rachel,Mahlangu,F,,Bronze,Berea,2024-07-07
+C02560,Olwethu,Radebe,M,1966,Silver,Ballito,2024-10-26
+C02561,Nokuthula,Zwane,F,1988,Bronze,Paarl Central,2023-06-04
+C02562,Bongani,Buthelezi,F,1980,Bronze,Richards Bay Central,2023-08-04
+C02563,Mandla,Adams,M,1958,Bronze,Sandton,2023-06-21
+C02564,Themba,Zulu,F,,Bronze,Sea Point,2023-01-17
+C02565,Zanele,Adams,F,1982,Bronze,Claremont,2024-06-04
+C02566,Khanyisile,Sibiya,M,1990,Bronze,Soweto,2023-05-05
+C02567,Thabo,Buthelezi,F,1973,Bronze,Stellenbosch Central,2023-10-23
+C02568,Nomvula,Pillay,M,1973,Bronze,Vincent,2023-03-29
+C02569,Lesedi,Joseph,M,2005,Bronze,Ballito,2024-10-18
+C02570,Naledi,Pretorius,F,1981,Bronze,Greenacres,2025-03-20
+C02571,Lindiwe,Mokoena,F,2001,Bronze,Fourways,2023-07-06
+C02572,Thabo,Mhlongo,M,1972,Gold,Westville,2023-03-18
+C02573,Pieter,Dlamini,M,1957,Gold,Beacon Bay,2023-10-03
+C02574,Tshepo,Ndlovu,F,1996,Bronze,Stellenbosch Central,2024-12-26
+C02575,Tshepo,Govender,,1955,Bronze,Paarl Central,2024-02-13
+C02576,Kabelo,Zwane,F,1994,Bronze,Sea Point,2024-01-12
+C02577,Refiloe,Buthelezi,M,1982,Bronze,Ballito,2023-05-25
+C02578,Sarah,Nyathi,M,1991,Bronze,Berea,2024-04-15
+C02579,Karabo,Nkosi,M,1989,Bronze,Mthatha Central,2024-08-02
+C02580,Bongani,du Plessis,M,1998,Bronze,Pinetown,2023-03-16
+C02581,Marius,Dlamini,F,1992,Bronze,Constantia,2024-08-06
+C02582,Michael,Radebe,F,1993,Bronze,Stellenbosch Central,2023-05-16
+C02583,David,Cele,F,1995,Bronze,George Central,2024-01-25
+C02584,Thabo,Mthembu,,1990,Silver,Richards Bay Central,2024-01-13
+C02585,Naledi,Ndlovu,M,1978,Bronze,Mitchell's Plain,2024-04-16
+C02586,Rajesh,van Wyk,F,1960,Bronze,Alberton,2024-01-30
+C02587,Nthabiseng,van der Merwe,M,1961,Silver,Vincent,2024-07-18
+C02588,Themba,Khan,F,2000,Gold,Rosebank,2023-06-16
+C02589,Themba,Sibiya,M,1976,Bronze,Khayelitsha,2025-04-10
+C02590,Sibusiso,Patel,M,1978,Bronze,Ballito,2023-12-21
+C02591,Lungile,Maseko,F,1957,Silver,Parow,2023-01-03
+C02592,Mandisa,Mkhize,F,1978,Bronze,Richards Bay Central,2023-01-19
+C02593,Vuyo,Khumalo,F,1980,Silver,Menlyn,2024-02-24
+C02594,Busisiwe,Khumalo,F,1968,Bronze,Umhlanga,2023-07-01
+C02595,Aisha,Botha,M,1994,Silver,Brooklyn,2023-01-06
+C02596,Nomvula,Mabaso,F,1996,Silver,George Central,2023-06-14
+C02597,Nokwanda,Patel,M,1970,Gold,Constantia,2024-07-09
+C02598,Karabo,Mhlongo,F,1959,Bronze,Ballito,2024-10-18
+C02599,Nokwanda,Khumalo,F,1991,Bronze,George Central,2025-05-14
+C02600,Michael,Sithole,,1997,Bronze,Stellenbosch Central,2025-02-04
+C02601,Sipho,Mhlongo,F,2005,Silver,Parow,2023-07-24
+C02602,Sipho,Mokoena,F,1982,Bronze,Sea Point,2024-05-10
+C02603,Kagiso,Mabaso,M,1991,Bronze,Centurion,2024-12-16
+C02604,Mpho,Govender,M,1964,Bronze,Wonderpark,2024-08-30
+C02605,Yusuf,Mkhize,F,1981,Bronze,Brooklyn,2024-04-28
+C02606,Refiloe,Zulu,F,2001,Bronze,Phoenix,2023-05-25
+C02607,Priya,Pretorius,M,1989,Silver,Constantia,2023-02-06
+C02608,Kagiso,Mabena,F,1977,Bronze,Fourways,2023-08-16
+C02609,Lungile,van der Merwe,F,1973,Silver,Hatfield,2024-03-24
+C02610,Kagiso,Adams,M,1970,Silver,Wonderpark,2024-06-26
+C02611,Nomvula,Sibanda,M,1989,Silver,Berea,2023-07-18
+C02612,Lesedi,Buthelezi,F,2000,Silver,PMB Central,2024-05-30
+C02613,Palesa,Buthelezi,F,1966,Bronze,Mthatha Central,2025-05-20
+C02614,Ayanda,Sibanda,M,,Bronze,Berea,2025-04-15
+C02615,Rachel,Khan,M,1980,Bronze,Randburg,2023-03-23
+C02616,Marius,Sibanda,F,1991,Silver,Berea,2023-02-04
+C02617,Ibrahim,Mabena,M,1975,Bronze,Walmer,2023-11-13
+C02618,Vuyo,Dlamini,M,1993,Bronze,Stellenbosch Central,2023-04-13
+C02619,Michael,Joseph,M,1961,Bronze,Bellville,2023-12-03
+C02620,Bontle,Maseko,M,1983,Bronze,Walmer,2023-07-01
+C02621,Refilwe,Dlamini,F,1994,Bronze,Brooklyn,2024-12-16
+C02622,Tshepo,van der Merwe,,1960,Bronze,Centurion,2025-03-14
+C02623,Karabo,Mkhize,F,,Silver,Walmer,2023-02-21
+C02624,Tshepo,Tshabalala,F,1968,Gold,Randburg,2025-02-10
+C02625,Rachel,Ngcobo,F,1983,Gold,Hayfields,2024-03-29
+C02626,Sibusiso,Pretorius,M,1984,Bronze,Randburg,2024-12-26
+C02627,Olwethu,Zwane,M,,Bronze,Constantia,2023-02-19
+C02628,Thabo,Sibanda,F,1998,Gold,Sea Point,2024-08-15
+C02629,Bongani,Nkosi,F,1963,Silver,Rosebank,2023-02-16
+C02630,Aisha,Ngcobo,M,2003,Bronze,Krugersdorp,2024-10-03
+C02631,Kabelo,Sithole,,1996,Bronze,George Central,2024-07-12
+C02632,Anika,Cele,M,1970,Bronze,Menlyn,2023-05-31
+C02633,Sipho,Mhlongo,F,1957,Gold,Richards Bay Central,2024-10-07
+C02634,Mosa,Dlamini,F,1982,Silver,Ballito,2023-03-02
+C02635,Zanele,Nyathi,F,1983,Bronze,Walmer,2023-09-05
+C02636,Priya,Joseph,F,1998,Silver,Sandton,2024-11-09
+C02637,Palesa,Mkhize,M,1974,Gold,Hatfield,2023-01-22
+C02638,Thabo,Sibanda,F,1979,Silver,Menlyn,2023-12-02
+C02639,Thabo,Naidoo,F,1977,Bronze,Sandton,2024-01-24
+C02640,Johan,Patel,F,1980,Bronze,PMB Central,2023-09-18
+C02641,Mandla,Zwane,F,1966,Bronze,Bellville,2023-08-13
+C02642,Karabo,Govender,F,1961,Silver,CBD,2024-08-08
+C02643,Sipho,Moyo,M,1957,Bronze,PMB Central,2024-07-23
+C02644,Emma,Joseph,F,1955,Silver,Stellenbosch Central,2024-01-29
+C02645,James,Jones,F,1963,Bronze,Greenacres,2023-12-09
+C02646,Michael,Mabena,M,1991,Gold,Berea,2024-08-02
+C02647,Nokulunga,van der Merwe,F,1992,Silver,Krugersdorp,2023-06-21
+C02648,James,Mokoena,F,1970,Silver,George Central,2025-03-27
+C02649,Thabo,Mokwena,F,1977,Bronze,Pinetown,2024-04-19
+C02650,Lerato,Sibiya,F,1983,Silver,Tygervalley,2023-08-20
+C02651,Sibusiso,Buthelezi,F,1967,Gold,Paarl Central,2024-09-14
+C02652,Vuyo,Botha,F,1988,Bronze,Hayfields,2025-01-10
+C02653,Thabo,Mhlongo,M,1982,Bronze,Rosebank,2023-08-05
+C02654,Ibrahim,Mhlongo,F,1990,Bronze,Centurion,2024-08-05
+C02655,Olwethu,van Wyk,M,1985,Bronze,Soweto,2024-07-23
+C02656,Fatima,Mokoena,M,2003,Bronze,Roodepoort,2024-05-05
+C02657,Ibrahim,Sibiya,M,1959,Bronze,Bellville,2024-06-04
+C02658,Lesedi,du Plessis,M,1987,Gold,Krugersdorp,2023-04-09
+C02659,Aisha,Mahlangu,F,2003,Bronze,George Central,2024-07-18
+C02660,Sizwe,Ngcobo,F,1963,Silver,Edenvale,2023-05-19
+C02661,Tumelo,Mokwena,F,1960,Bronze,Brooklyn,2024-11-01
+C02662,Sizwe,Mahlangu,M,1988,Bronze,Hatfield,2024-08-14
+C02663,Nthabiseng,Pretorius,M,1998,Bronze,Sea Point,2023-05-11
+C02664,Sipho,Naidoo,,1972,Bronze,Edenvale,2025-05-22
+C02665,Naledi,Mahlangu,M,1986,Gold,Walmer,2023-09-07
+C02666,Marius,Pretorius,F,2004,Bronze,Wonderpark,2023-12-10
+C02667,Nomvula,Moyo,F,,Gold,Khayelitsha,2024-09-01
+C02668,Nokuthula,Jones,F,1977,Bronze,Pinetown,2024-07-04
+C02669,Nokuthula,Mahlangu,M,,Bronze,Berea,2023-04-02
+C02670,Emma,Ndlovu,F,1979,Bronze,Tygervalley,2024-08-19
+C02671,Olwethu,Adams,F,,Bronze,PMB Central,2025-04-20
+C02672,Busisiwe,Ndlovu,M,1980,Bronze,Midrand,2023-05-02
+C02673,Emma,Coetzee,F,1958,Bronze,Hatfield,2025-05-11
+C02674,Emma,Sibanda,F,2003,Bronze,Edenvale,2024-12-18
+C02675,James,Mokwena,F,1987,Bronze,Khayelitsha,2023-11-07
+C02676,Lesedi,Maseko,M,2005,Bronze,Berea,2024-03-17
+C02677,James,Pretorius,M,1993,Silver,Richards Bay Central,2024-03-02
+C02678,Anika,Nkosi,F,1993,Bronze,Parow,2025-05-16
+C02679,Refilwe,Radebe,F,1962,Gold,Boksburg,2024-02-25
+C02680,Tumelo,Mahlangu,M,2002,Bronze,Walmer,2023-11-25
+C02681,Busisiwe,Mokwena,F,1987,Bronze,CBD,2024-06-30
+C02682,Olwethu,Coetzee,M,1993,Bronze,Pinetown,2024-02-22
+C02683,Themba,Pillay,M,2000,Bronze,Greenacres,2024-01-25
+C02684,Kagiso,Govender,F,1976,Silver,Alberton,2024-04-16
+C02685,Mandla,Mhlongo,M,1978,Bronze,Boksburg,2023-07-27
+C02686,Dineo,Mokoena,M,1970,Silver,Hatfield,2025-05-18
+C02687,Tumelo,Adams,F,1956,Silver,Hatfield,2025-06-03
+C02688,Michael,Radebe,M,1991,Bronze,Pinetown,2024-02-16
+C02689,Lesedi,Khan,M,1995,Bronze,Roodepoort,2024-03-23
+C02690,Marius,Mkhize,F,1972,Gold,Berea,2024-01-27
+C02691,Bontle,Ndlovu,F,1972,Bronze,Alberton,2024-01-14
+C02692,Lerato,Nyathi,M,1955,Gold,Pinetown,2025-03-06
+C02693,Aisha,Mabaso,M,1966,Bronze,Centurion,2025-03-16
+C02694,Marius,Mkhize,F,1974,Bronze,Roodepoort,2023-01-14
+C02695,Michael,Khan,F,1978,Bronze,Mitchell's Plain,2023-09-30
+C02696,Mandla,Radebe,F,1973,Bronze,Boksburg,2024-10-28
+C02697,Ibrahim,Zwane,F,2005,Gold,Mitchell's Plain,2023-11-21
+C02698,Ayanda,Naidoo,M,1958,Bronze,Beacon Bay,2025-02-27
+C02699,Michael,Govender,F,1998,Bronze,Vincent,2024-12-03
+C02700,Vuyo,Zulu,F,1988,Silver,Bellville,2023-05-04
+C02701,Tshepo,Mhlongo,M,1983,Gold,Brooklyn,2023-08-03
+C02702,Marius,Khan,M,1966,Silver,Pinetown,2023-09-23
+C02703,Busisiwe,Coetzee,F,1986,Gold,Vincent,2024-10-13
+C02704,Nokwanda,Adams,F,1976,Silver,Edenvale,2024-03-31
+C02705,Michael,Jones,F,1982,Bronze,Midrand,2023-07-19
+C02706,Michael,Nkosi,F,1958,Bronze,Mthatha Central,2024-12-18
+C02707,Anika,Mokwena,M,1989,Gold,Hatfield,2024-06-15
+C02708,Tumelo,Mokoena,F,1964,Bronze,Parow,2023-03-09
+C02709,Ayanda,van der Merwe,F,1997,Bronze,Rosebank,2023-01-28
+C02710,Nthabiseng,Mthembu,F,1991,Bronze,Sandton,2025-02-20
+C02711,James,Adams,M,1999,Gold,CBD,2023-07-22
+C02712,Sarah,Ngcobo,F,2000,Silver,George Central,2025-01-08
+C02713,Lerato,Sibiya,M,1991,Silver,Roodepoort,2023-12-19
+C02714,Naledi,Mhlongo,,1977,Silver,Greenacres,2023-08-07
+C02715,Andile,Mokwena,F,1995,Silver,Edenvale,2024-12-17
+C02716,Kabelo,Pretorius,M,1993,Bronze,Hatfield,2025-05-23
+C02717,Priya,Govender,M,1969,Bronze,Stellenbosch Central,2024-06-03
+C02718,Anika,Mokoena,F,1960,Bronze,Pinetown,2023-02-16
+C02719,Aisha,van der Merwe,F,1986,Bronze,Phoenix,2025-04-06
+C02720,Refilwe,Pretorius,F,,Bronze,Fourways,2023-04-13
+C02721,Anika,Buthelezi,F,1990,Bronze,George Central,2024-12-24
+C02722,Tshepo,Coetzee,M,1995,Silver,Boksburg,2024-06-30
+C02723,Nokulunga,Patel,M,1985,Bronze,Boksburg,2023-05-15
+C02724,Themba,Naidoo,,1968,Gold,Bellville,2025-06-18
+C02725,Lerato,Sithole,M,1973,Bronze,Ballito,2024-11-17
+C02726,Mandisa,Mkhize,F,1997,Bronze,George Central,2023-07-02
+C02727,Vuyo,Cele,F,1979,Silver,Menlyn,2023-08-05
+C02728,Marius,Khumalo,M,1970,Bronze,Umhlanga,2025-06-04
+C02729,Bontle,Pillay,F,1996,Bronze,Fourways,2024-12-01
+C02730,Karabo,Coetzee,F,,Bronze,Edenvale,2025-05-27
+C02731,Yusuf,Mthembu,M,1996,Bronze,Beacon Bay,2023-03-15
+C02732,Nokuthula,Radebe,F,1997,Silver,Beacon Bay,2024-02-13
+C02733,Nokuthula,Mkhize,M,1985,Bronze,Centurion,2025-01-18
+C02734,Busisiwe,du Plessis,F,1975,Bronze,George Central,2024-10-03
+C02735,Tumelo,Ndlovu,F,1982,Bronze,Constantia,2024-08-02
+C02736,Refiloe,Mabena,F,,Gold,Stellenbosch Central,2024-01-20
+C02737,Lesedi,Naidoo,M,1983,Bronze,George Central,2023-03-03
+C02738,Priya,Nkosi,M,1956,Bronze,Tygervalley,2024-11-13
+C02739,Thabo,Ndlovu,M,1996,Bronze,Beacon Bay,2023-04-02
+C02740,Themba,Mthembu,F,1967,Silver,Rosebank,2024-09-27
+C02741,James,van Wyk,M,1996,Bronze,Chatsworth,2024-04-30
+C02742,Sizwe,Ndlovu,F,1986,Bronze,Berea,2025-02-27
+C02743,Mandla,Mahlangu,F,1979,Bronze,Menlyn,2024-12-13
+C02744,Kgomotso,Adams,M,1985,Bronze,Roodepoort,2025-05-10
+C02745,Thandiwe,Naidoo,M,1998,Silver,Walmer,2023-11-13
+C02746,Palesa,Zulu,M,1995,Bronze,Midrand,2023-02-01
+C02747,Aisha,Zwane,M,1966,Bronze,Tygervalley,2023-05-04
+C02748,Lesedi,Ndlovu,F,1956,Bronze,Soweto,2023-10-06
+C02749,Mpho,Mkhize,M,1973,Silver,Sea Point,2023-05-24
+C02750,Emma,Buthelezi,F,1974,Bronze,Rosebank,2024-05-23
+C02751,James,Mthembu,M,1992,Bronze,Stellenbosch Central,2024-03-05
+C02752,Dineo,Pretorius,F,1977,Gold,Boksburg,2023-02-03
+C02753,Lerato,Moyo,F,1975,Bronze,CBD,2024-08-25
+C02754,Olwethu,Radebe,,1991,Bronze,Pinetown,2024-03-27
+C02755,Tshepo,Zulu,M,1991,Bronze,Walmer,2024-01-25
+C02756,Nokuthula,Tshabalala,F,1999,Bronze,Sea Point,2023-07-03
+C02757,Marius,Cele,F,1988,Bronze,Sandton,2024-03-12
+C02758,Ayanda,Pillay,,1975,Silver,Pinetown,2025-05-20
+C02759,Yusuf,Mkhize,M,1994,Gold,Wonderpark,2023-09-11
+C02760,Ayanda,Mabena,M,1973,Bronze,Boksburg,2025-03-15
+C02761,Zanele,Mthembu,M,1980,Bronze,Roodepoort,2025-02-10
+C02762,Nthabiseng,Pillay,M,1971,Bronze,Edenvale,2024-08-11
+C02763,Busisiwe,Moyo,F,1988,Silver,Walmer,2024-07-28
+C02764,Refilwe,Mokwena,F,1992,Bronze,Berea,2025-01-10
+C02765,Priya,Naidoo,,1997,Bronze,Chatsworth,2024-08-19
+C02766,Mandisa,Khan,F,1965,Bronze,Richards Bay Central,2024-04-01
+C02767,Naledi,Khumalo,M,1962,Silver,Umhlanga,2023-12-01
+C02768,Ayanda,Adams,F,1973,Silver,Hatfield,2023-12-11
+C02769,Priya,Zwane,F,2004,Bronze,CBD,2023-11-06
+C02770,Busisiwe,Mkhize,F,1974,Bronze,Pinetown,2023-08-17
+C02771,Kgomotso,Khumalo,M,1964,Silver,Paarl Central,2023-05-20
+C02772,Refiloe,Zulu,F,1984,Bronze,Randburg,2024-06-25
+C02773,Sibusiso,Sibiya,F,1976,Bronze,Umhlanga,2023-01-03
+C02774,Yusuf,Smith,,1960,Bronze,Constantia,2023-09-25
+C02775,Sibusiso,Mhlongo,M,1967,Bronze,Soweto,2023-08-15
+C02776,Tshepo,Ndlovu,F,1989,Bronze,Sandton,2023-10-31
+C02777,Mandla,Pretorius,M,1965,Silver,CBD,2025-05-28
+C02778,Andile,Pretorius,F,1973,Bronze,Vincent,2023-04-21
+C02779,Lerato,Mthembu,F,1983,Bronze,Walmer,2024-11-21
+C02780,Bontle,Sibanda,M,1989,Bronze,Vincent,2023-11-18
+C02781,Sibusiso,Mokwena,M,1972,Bronze,Khayelitsha,2023-06-06
+C02782,Bontle,Mabaso,M,1986,Bronze,Pinetown,2023-09-27
+C02783,Palesa,Mokoena,F,1975,Bronze,Hatfield,2023-02-18
+C02784,Refilwe,Botha,M,1994,Bronze,Menlyn,2023-07-05
+C02785,Rachel,Mabena,M,2003,Bronze,Midrand,2023-05-17
+C02786,Fatima,Mokwena,M,,Bronze,Menlyn,2024-02-15
+C02787,Kgomotso,Sithole,F,1955,Bronze,Boksburg,2024-02-23
+C02788,Michael,Jones,F,1999,Silver,Pinetown,2024-01-09
+C02789,Dineo,Nkosi,F,1982,Bronze,Pinetown,2023-12-22
+C02790,Lehlogonolo,Tshabalala,F,2002,Bronze,Hatfield,2023-08-04
+C02791,Nomvula,Mabaso,M,1966,Silver,Ballito,2025-02-27
+C02792,Kagiso,Coetzee,F,1956,Silver,Parow,2023-02-17
+C02793,Naledi,Nyathi,F,1959,Silver,Claremont,2023-04-04
+C02794,Michael,Botha,,1997,Bronze,Hatfield,2023-03-01
+C02795,Rachel,Moyo,M,1971,Bronze,Paarl Central,2025-05-01
+C02796,Priya,Coetzee,F,1971,Bronze,Berea,2025-06-01
+C02797,Mandla,Patel,F,1978,Bronze,Berea,2023-06-07
+C02798,Karabo,du Plessis,M,1976,Gold,George Central,2024-09-05
+C02799,Sipho,Zwane,M,1976,Silver,Alberton,2024-12-30
+C02800,Kagiso,Joseph,M,1964,Bronze,Mthatha Central,2023-07-12
+C02801,Rachel,Mkhize,M,1959,Bronze,Stellenbosch Central,2023-03-30
+C02802,Nomvula,Zulu,M,,Bronze,Walmer,2024-07-20
+C02803,Emma,Ngcobo,F,1959,Bronze,Hayfields,2023-10-26
+C02804,Nokwanda,Mokoena,M,1969,Bronze,Westville,2024-09-26
+C02805,Kabelo,Patel,M,1966,Silver,Mitchell's Plain,2024-05-20
+C02806,Lindiwe,van der Merwe,F,1986,Silver,Roodepoort,2023-08-14
+C02807,Yusuf,van Wyk,F,1956,Bronze,Bellville,2023-04-26
+C02808,Sarah,van der Merwe,F,1975,Bronze,Vincent,2024-01-27
+C02809,Mandisa,Pretorius,M,2002,Bronze,Midrand,2023-07-27
+C02810,Mpho,Maseko,F,1956,Silver,Hayfields,2024-06-04
+C02811,Nthabiseng,Zwane,M,1955,Bronze,Tygervalley,2023-01-11
+C02812,Nokulunga,Mhlongo,M,1979,Bronze,Constantia,2024-09-18
+C02813,Refiloe,Tshabalala,F,1998,Bronze,Walmer,2023-07-06
+C02814,James,Smith,M,1968,Silver,Centurion,2024-02-29
+C02815,Nokuthula,Khan,F,1986,Silver,Tygervalley,2024-01-03
+C02816,Kgomotso,Mokwena,F,1960,Bronze,Stellenbosch Central,2023-05-26
+C02817,Bontle,Sibiya,F,1996,Silver,Tygervalley,2023-06-04
+C02818,Lesedi,Maseko,F,1975,Gold,Wonderpark,2023-06-05
+C02819,Lesedi,Tshabalala,F,1997,Bronze,Rosebank,2023-09-08
+C02820,Michael,Mokwena,M,1966,Silver,Beacon Bay,2025-02-21
+C02821,Mandla,Mokoena,F,1959,Bronze,Phoenix,2023-01-28
+C02822,Mosa,Buthelezi,F,1967,Bronze,Vincent,2024-07-05
+C02823,Lehlogonolo,Mokoena,F,1991,Silver,Tygervalley,2023-03-07
+C02824,Dineo,Mabaso,F,1964,Silver,Constantia,2024-01-17
+C02825,Olwethu,Maseko,M,1962,Bronze,Rosebank,2024-07-10
+C02826,Emma,Nyathi,F,1980,Bronze,Westville,2023-04-23
+C02827,Fatima,Tshabalala,F,1989,Bronze,Krugersdorp,2025-02-07
+C02828,Naledi,Nkosi,F,1979,Gold,Hayfields,2024-06-21
+C02829,Priya,Pillay,M,1988,Silver,Soweto,2024-10-15
+C02830,James,Maseko,M,1980,Silver,Mitchell's Plain,2024-09-02
+C02831,David,Mahlangu,F,1997,Bronze,Rosebank,2025-04-08
+C02832,Themba,van der Merwe,F,,Bronze,CBD,2023-10-19
+C02833,Refilwe,Ngcobo,F,1968,Bronze,Hayfields,2024-06-07
+C02834,Kgomotso,Zulu,F,1994,Silver,Wonderpark,2024-08-25
+C02835,Kabelo,Sibiya,,1972,Bronze,Vincent,2023-06-14
+C02836,Aisha,Pretorius,F,,Bronze,Rosebank,2024-03-08
+C02837,Emma,Dlamini,M,2002,Bronze,Sea Point,2023-12-23
+C02838,Palesa,Botha,M,1967,Bronze,Paarl Central,2023-01-04
+C02839,Johan,Mokoena,F,1966,Silver,Roodepoort,2024-07-17
+C02840,Sibusiso,Nkosi,M,1990,Gold,Pinetown,2024-08-01
+C02841,Refiloe,Ngcobo,F,1983,Bronze,Tygervalley,2025-04-22
+C02842,Michael,Smith,M,1969,Bronze,Sandton,2025-06-22
+C02843,Nokulunga,Joseph,M,1979,Silver,Sandton,2023-08-08
+C02844,Dineo,du Plessis,F,2002,Bronze,Mitchell's Plain,2025-06-23
+C02845,Thandiwe,Nyathi,M,2003,Bronze,Fourways,2024-04-10
+C02846,Lindiwe,Pillay,F,1974,Bronze,Constantia,2023-07-14
+C02847,Themba,Joseph,M,1967,Silver,Bellville,2023-04-12
+C02848,Lungile,Nyathi,M,2001,Bronze,George Central,2024-04-17
+C02849,Olwethu,Sibiya,M,1959,Bronze,Walmer,2023-01-21
+C02850,James,du Plessis,F,1961,Bronze,Mthatha Central,2025-01-10
+C02851,Marius,Zwane,F,1995,Bronze,Paarl Central,2025-05-26
+C02852,Mosa,Khan,F,1959,Bronze,Berea,2024-02-24
+C02853,Bongani,van Wyk,M,1999,Gold,Wonderpark,2024-06-30
+C02854,Mosa,Pillay,M,1974,Bronze,Greenacres,2023-01-18
+C02855,Sibusiso,Mokwena,M,1979,Gold,Fourways,2023-06-24
+C02856,Kabelo,Cele,M,1961,Bronze,Krugersdorp,2024-09-23
+C02857,Aisha,Zwane,M,1965,Bronze,Brooklyn,2024-11-18
+C02858,David,Nkosi,M,2002,Bronze,Berea,2023-01-24
+C02859,Rachel,Khan,M,1964,Bronze,Westville,2023-11-08
+C02860,Zanele,Jones,M,1980,Bronze,Ballito,2025-03-11
+C02861,Nthabiseng,van Wyk,F,1998,Bronze,Greenacres,2024-09-24
+C02862,Mandisa,Mkhize,F,1972,Bronze,Berea,2025-04-01
+C02863,Aisha,Mthembu,F,1984,Silver,Chatsworth,2024-10-07
+C02864,Pieter,Naidoo,F,1992,Bronze,Soweto,2023-10-27
+C02865,Refiloe,Zwane,M,1971,Bronze,Berea,2023-06-20
+C02866,Tumelo,Joseph,M,1955,Bronze,CBD,2023-06-17
+C02867,James,Mahlangu,,1957,Bronze,Berea,2023-03-04
+C02868,Lerato,Nyathi,F,1989,Bronze,Paarl Central,2025-02-27
+C02869,Nokuthula,Nkosi,M,1989,Bronze,Beacon Bay,2025-04-03
+C02870,Sipho,Mabena,F,1997,Bronze,Pinetown,2024-09-01
+C02871,Olwethu,du Plessis,F,2002,Bronze,Wonderpark,2025-06-05
+C02872,Andile,Nkosi,F,1983,Silver,Khayelitsha,2023-01-01
+C02873,Sizwe,Mokoena,M,2001,Bronze,Paarl Central,2024-08-29
+C02874,Nokulunga,Sibiya,F,,Gold,Randburg,2023-04-10
+C02875,Yusuf,Patel,M,1967,Gold,Beacon Bay,2023-10-29
+C02876,David,Jones,M,1987,Silver,Claremont,2024-10-31
+C02877,Bongani,Adams,F,1981,Silver,Claremont,2023-04-26
+C02878,Thandiwe,Naidoo,F,1999,Bronze,Alberton,2023-11-07
+C02879,Kagiso,Mahlangu,M,1957,Bronze,Menlyn,2024-03-08
+C02880,Yusuf,Sibanda,M,1978,Gold,Soweto,2023-05-10
+C02881,Bongani,Tshabalala,M,1994,Silver,Parow,2023-11-19
+C02882,David,van der Merwe,F,1966,Bronze,Roodepoort,2023-08-09
+C02883,Thandiwe,Maseko,F,1956,Bronze,Soweto,2023-11-07
+C02884,Ibrahim,Maseko,M,1975,Bronze,Rosebank,2023-12-01
+C02885,Refilwe,Sithole,M,1969,Bronze,Hayfields,2025-04-30
+C02886,Tshepo,Mahlangu,F,2001,Bronze,Walmer,2025-04-28
+C02887,Nokulunga,Sibiya,F,2002,Bronze,George Central,2023-04-04
+C02888,Nokulunga,Ndlovu,M,2004,Gold,Mthatha Central,2024-04-19
+C02889,Rajesh,Botha,F,1972,Bronze,Roodepoort,2024-09-24
+C02890,Anika,Buthelezi,F,1998,Bronze,George Central,2024-08-21
+C02891,Tumelo,Mthembu,F,1977,Silver,Paarl Central,2024-02-20
+C02892,Bongani,Joseph,F,1978,Bronze,Khayelitsha,2023-12-11
+C02893,Nomvula,Adams,M,1958,Bronze,Boksburg,2024-04-03
+C02894,Michael,Mthembu,F,1969,Bronze,Randburg,2025-03-01
+C02895,Themba,Mthembu,F,1988,Silver,Alberton,2023-04-25
+C02896,Khanyisile,van Wyk,F,1992,Silver,Richards Bay Central,2024-04-15
+C02897,Palesa,Patel,F,1993,Bronze,Hayfields,2024-06-06
+C02898,Ibrahim,Dlamini,F,1962,Bronze,Constantia,2024-12-05
+C02899,Palesa,Pillay,M,1988,Gold,Rosebank,2025-06-20
+C02900,Priya,Joseph,M,1966,Bronze,Randburg,2025-03-24
+C02901,Mandla,du Plessis,M,,Silver,Rosebank,2023-07-08
+C02902,Johan,Ndlovu,F,1962,Bronze,Centurion,2025-05-01
+C02903,Tumelo,Naidoo,M,2001,Silver,Phoenix,2023-02-21
+C02904,Lindiwe,Joseph,M,1961,Bronze,Midrand,2023-10-27
+C02905,Busisiwe,Radebe,F,2002,Silver,Tygervalley,2024-08-29
+C02906,Bontle,Sibanda,M,1959,Bronze,Fourways,2023-05-20
+C02907,Lesedi,Sibiya,M,1979,Bronze,Menlyn,2023-02-23
+C02908,Kabelo,Zwane,M,,Bronze,Khayelitsha,2024-06-29
+C02909,Nthabiseng,Buthelezi,F,1969,Bronze,Edenvale,2025-05-02
+C02910,Lungile,Mabena,F,2000,Bronze,Beacon Bay,2024-06-18
+C02911,Mpho,Maseko,F,1973,Silver,Phoenix,2025-03-06
+C02912,Fatima,Mthembu,M,1997,Bronze,Hatfield,2024-03-24
+C02913,Refilwe,Buthelezi,M,1978,Silver,Menlyn,2024-10-12
+C02914,Sibusiso,Mkhize,F,1988,Bronze,Mitchell's Plain,2025-05-12
+C02915,Lesedi,Khumalo,F,1959,Bronze,PMB Central,2024-09-15
+C02916,Tumelo,Ndlovu,M,1974,Bronze,Berea,2025-05-30
+C02917,Rachel,Mabaso,F,1976,Bronze,Boksburg,2023-12-03
+C02918,Bontle,Sithole,M,2005,Bronze,Tygervalley,2024-06-19
+C02919,James,Adams,F,1966,Bronze,Sandton,2024-06-24
+C02920,Aisha,Mabena,M,1989,Bronze,Roodepoort,2024-09-16
+C02921,Rajesh,Nyathi,F,1976,Silver,Claremont,2025-01-25
+C02922,Karabo,Ngcobo,M,2001,Silver,Paarl Central,2024-03-31
+C02923,Michael,Mkhize,F,1975,Silver,Rosebank,2024-08-22
+C02924,Sizwe,Govender,M,1978,Silver,Centurion,2025-02-01
+C02925,Aisha,Nyathi,M,2003,Gold,Sea Point,2023-11-23
+C02926,Palesa,Mahlangu,M,1956,Bronze,Richards Bay Central,2023-09-04
+C02927,Karabo,Zwane,F,1970,Bronze,Richards Bay Central,2024-04-30
+C02928,Ayanda,Mahlangu,M,1975,Bronze,Rosebank,2023-02-13
+C02929,Kgomotso,Khumalo,M,1975,Silver,Phoenix,2025-01-04
+C02930,Bongani,Mokoena,F,1958,Bronze,Pinetown,2023-07-31
+C02931,James,Ndlovu,M,1999,Bronze,Sandton,2024-01-24
+C02932,Lehlogonolo,Sibanda,F,1983,Bronze,Phoenix,2025-01-07
+C02933,Nthabiseng,Sibanda,M,1968,Silver,Khayelitsha,2024-12-22
+C02934,Thabo,Mabena,M,2003,Bronze,Hatfield,2024-10-10
+C02935,Mpho,Jones,M,1960,Silver,Soweto,2023-09-03
+C02936,Lesedi,Coetzee,M,1977,Silver,Paarl Central,2024-01-24
+C02937,Mpho,Pillay,F,1998,Bronze,Phoenix,2023-09-03
+C02938,Priya,Coetzee,F,1956,Bronze,Wonderpark,2025-02-23
+C02939,Mosa,Radebe,F,1976,Bronze,Chatsworth,2023-03-26
+C02940,Sarah,Patel,F,2000,Bronze,Paarl Central,2024-09-30
+C02941,Nokwanda,van Wyk,,1975,Bronze,PMB Central,2025-06-12
+C02942,Dineo,Mthembu,F,,Bronze,Mitchell's Plain,2023-02-08
+C02943,Palesa,Buthelezi,M,1963,Bronze,Boksburg,2023-05-27
+C02944,Rajesh,Moyo,F,1963,Bronze,Paarl Central,2023-09-27
+C02945,Thandiwe,Patel,M,1984,Silver,Edenvale,2024-08-29
+C02946,Johan,Naidoo,M,1991,Silver,Wonderpark,2024-05-22
+C02947,James,Patel,M,1997,Bronze,Walmer,2023-01-04
+C02948,Kgomotso,van der Merwe,F,1989,Bronze,Pinetown,2024-06-05
+C02949,Michael,Khan,M,2003,Bronze,Roodepoort,2025-05-01
+C02950,Khanyisile,Mabena,M,1984,Bronze,Pinetown,2023-09-30
+C02951,Palesa,Dlamini,M,1982,Gold,Mitchell's Plain,2024-01-28
+C02952,Khanyisile,Khan,M,2004,Bronze,Sandton,2024-08-27
+C02953,Aisha,Adams,M,1987,Bronze,Berea,2024-10-29
+C02954,Olwethu,Cele,,1969,Bronze,Alberton,2025-02-18
+C02955,Priya,Jones,F,1971,Silver,Berea,2023-01-13
+C02956,Kabelo,Zulu,M,1977,Silver,Wonderpark,2023-01-24
+C02957,Mandla,Nyathi,F,1963,Silver,CBD,2023-09-26
+C02958,Zanele,Botha,M,1969,Bronze,Vincent,2023-12-31
+C02959,Rachel,van Wyk,F,1972,Bronze,Khayelitsha,2024-12-25
+C02960,Nokwanda,Coetzee,M,2000,Bronze,Tygervalley,2023-10-05
+C02961,Marius,Pillay,M,1996,Bronze,Pinetown,2023-11-13
+C02962,Lindiwe,Mokwena,F,1972,Bronze,Westville,2025-01-17
+C02963,Olwethu,Buthelezi,F,2002,Bronze,Richards Bay Central,2024-02-21
+C02964,Sizwe,van der Merwe,F,1960,Silver,Bellville,2023-07-09
+C02965,Mpho,Nkosi,F,1999,Bronze,Wonderpark,2023-04-13
+C02966,Lindiwe,Nyathi,M,,Bronze,Chatsworth,2024-03-17
+C02967,Lindiwe,Radebe,F,,Bronze,Berea,2024-12-12
+C02968,Mosa,Botha,F,1964,Bronze,Menlyn,2025-03-09
+C02969,Karabo,Pillay,F,1981,Bronze,Hatfield,2023-07-21
+C02970,Emma,Nyathi,M,1955,Bronze,Centurion,2023-01-31
+C02971,Nomvula,Sithole,F,1963,Silver,Sea Point,2023-01-27
+C02972,Bontle,van Wyk,F,1984,Silver,CBD,2024-11-01
+C02973,Rachel,Botha,F,1961,Silver,Richards Bay Central,2023-02-12
+C02974,Olwethu,Joseph,F,1959,Bronze,George Central,2023-05-03
+C02975,Lerato,Patel,F,2000,Silver,Mitchell's Plain,2024-05-22
+C02976,Bongani,Mkhize,F,1959,Bronze,Boksburg,2023-11-10
+C02977,Andile,Moyo,F,1964,Silver,Alberton,2025-05-27
+C02978,Karabo,Mahlangu,F,1964,Bronze,Bellville,2023-12-17
+C02979,Mandla,Naidoo,M,1972,Bronze,Beacon Bay,2025-01-17
+C02980,Lerato,Zwane,F,2002,Silver,Umhlanga,2025-06-23
+C02981,Mandla,Radebe,M,1968,Bronze,Mthatha Central,2023-12-28
+C02982,Johan,Sithole,F,1963,Bronze,Pinetown,2024-09-09
+C02983,Dineo,Mthembu,M,1956,Bronze,Brooklyn,2023-12-20
+C02984,Dineo,Cele,M,1977,Bronze,Paarl Central,2023-04-19
+C02985,Kgomotso,Zulu,F,1989,Silver,Tygervalley,2025-04-04
+C02986,David,Nyathi,M,2003,Silver,PMB Central,2025-06-25
+C02987,Emma,Patel,F,1982,Silver,Phoenix,2024-11-21
+C02988,Emma,Mahlangu,F,1979,Silver,Phoenix,2024-06-22
+C02989,Busisiwe,Mthembu,F,1956,Bronze,Beacon Bay,2024-07-24
+C02990,Tshepo,Mkhize,F,1957,Bronze,Richards Bay Central,2023-05-14
+C02991,Tshepo,Smith,F,1958,Silver,Chatsworth,2025-04-23
+C02992,Refiloe,Pretorius,F,2001,Silver,Centurion,2023-08-24
+C02993,Busisiwe,Nyathi,F,1982,Gold,CBD,2023-05-01
+C02994,Nokuthula,Mkhize,,1981,Bronze,Bellville,2025-01-01
+C02995,Mandisa,Nkosi,F,1965,Silver,Greenacres,2025-01-30
+C02996,Themba,Nkosi,F,,Bronze,Sandton,2023-01-03
+C02997,Nomvula,Dlamini,F,1988,Silver,Fourways,2024-04-09
+C02998,Andile,Zwane,F,,Bronze,Richards Bay Central,2023-04-03
+C02999,Bongani,Patel,F,,Gold,Stellenbosch Central,2023-06-05
+C03000,Dineo,Pillay,F,1986,Bronze,Westville,2024-11-20

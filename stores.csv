@@ -1,0 +1,46 @@
+store_id,store_name,format,province,city,suburb,store_manager,opened_date
+S001,Imbewu Express Sea Point,Express,Western Cape,Cape Town,Sea Point,Karabo Cele,2008-01-03
+S002,Imbewu Market Claremont,Market,Western Cape,Cape Town,Claremont,Sipho Dlamini,2011-09-20
+S003,Imbewu Express CBD,Express,Western Cape,Cape Town,CBD,Lehlogonolo Mokwena,2016-04-23
+S004,Imbewu Market Khayelitsha,Market,Western Cape,Cape Town,Khayelitsha,Khanyisile Zwane,2014-04-15
+S005,Imbewu Express Constantia,Express,Western Cape,Cape Town,Constantia,Johan Pretorius,2021-01-25
+S006,Imbewu Market Stellenbosch Central,Market,Western Cape,Stellenbosch,Stellenbosch Central,Karabo Cele,2013-05-05
+S007,Imbewu Mega Paarl Central,Mega,western cape,Paarl,Paarl Central,Mandla Mkhize,2013-02-03
+S008,Imbewu Express Mitchell's Plain,Express,Western Cape,Cape Town,Mitchell's Plain,Marius du Plessis,2021-06-20
+S009,Imbewu Mega Parow,Mega,Western Cape,Cape Town,Parow,Rajesh Patel,2019-08-18
+S010,Imbewu Mega Bellville,Mega,Western Cape,Cape Town,Bellville,Themba Radebe,2014-02-18
+S011,Imbewu Mega Tygervalley,Mega,Western Cape,Cape Town,Tygervalley,Tshepo Sibiya,2017-06-19
+S012,Imbewu Market George Central,Market,Western Cape,George,George Central,Themba Radebe,2008-11-08
+S013,Imbewu Market Midrand,Market,Gauteng,Johannesburg,Midrand,,2010-09-24
+S014,Imbewu Express Sandton,Express,Gauteng,Johannesburg,Sandton,Nokwanda Khan,2014-05-21
+S015,Imbewu Market Edenvale,Market,Gauteng,Johannesburg,Edenvale,Pieter Botha,2018-06-27
+S016,Imbewu Express Roodepoort,Express,gauteng,Johannesburg,Roodepoort,Priya Govender,2008-06-13
+S017,Imbewu Express Boksburg,Express,Gauteng,Johannesburg,Boksburg,Vuyo Nyathi,2022-10-23
+S018,Imbewu Express Brooklyn,Express,Gauteng,Pretoria,Brooklyn,Emma Adams,2015-07-21
+S019,Imbewu Express Alberton,Express,Gauteng,Johannesburg,Alberton,Dineo Pillay,2010-04-24
+S020,Imbewu Market Krugersdorp,Market,Gauteng,Johannesburg,Krugersdorp,Khanyisile Zwane,2019-10-14
+S021,Imbewu Express Centurion,Express,Gauteng,Pretoria,Centurion,Michael Coetzee,2011-03-17
+S022,Imbewu Express Menlyn,Express,gauteng,Pretoria,Menlyn,Karabo Mahlangu,2008-02-05
+S023,Imbewu Express Randburg,Express,Gauteng,Johannesburg,Randburg,Lerato Khumalo,2018-07-20
+S024,Imbewu Express Hatfield,Express,Gauteng,Pretoria,Hatfield,Marius du Plessis,2017-08-17
+S025,Imbewu Mega Soweto,Mega,Gauteng,Johannesburg,Soweto,Rajesh Patel,2021-01-22
+S026,Imbewu Market Fourways,Market,Gauteng,Johannesburg,Fourways,Lehlogonolo Mokwena,2016-05-25
+S027,Imbewu Express Wonderpark,Express,Gauteng,Pretoria,Wonderpark,Emma Adams,2012-07-06
+S028,Imbewu Express Rosebank,Express,Gauteng,Johannesburg,Rosebank,Ayanda Mabaso,2019-12-09
+S029,Imbewu Market Berea,Market,KwaZulu-Natal,Durban,Berea,Mandisa Cele,2016-09-01
+S030,Imbewu Express Pinetown,Express,KwaZulu-Natal,Durban,Pinetown,Lindiwe Zulu,2008-02-12
+S031,Imbewu Express Umhlanga,Express,KwaZulu-Natal,Durban,Umhlanga,Bongani Ndlovu,2011-10-03
+S032,Imbewu Market Hayfields,Market,KwaZulu-Natal,Pietermaritzburg,Hayfields,Bontle Mokoena,2021-02-25
+S033,Imbewu Market Phoenix,Market,KwaZulu-Natal,Durban,Phoenix,Dineo Pillay,2010-11-16
+S034,Imbewu Express Chatsworth,Express,KwaZulu-Natal,Durban,Chatsworth,Karabo Cele,2016-10-14
+S035,Imbewu Mega PMB Central,Mega,KwaZulu-Natal,Pietermaritzburg,PMB Central,Tshepo Sibiya,2020-12-23
+S036,Imbewu Market Ballito,Market,KwaZulu-Natal,Durban,Ballito,Olwethu Buthelezi,2014-11-21
+S037,Imbewu Market Richards Bay Central,Market,KwaZulu-Natal,Richards Bay,Richards Bay Central,Busisiwe Khan,2016-08-04
+S038,Imbewu Express Westville,Express,KwaZulu-Natal,Durban,Westville,Dineo Pillay,2013-01-19
+S039,Imbewu Express Berea,Express,KwaZulu-Natal,Durban,Berea,Karabo Mahlangu,2011-01-03
+S040,Imbewu Express Pinetown,Express,KwaZulu-Natal,Durban,Pinetown,Refilwe Tshabalala,2009-01-28
+S041,Imbewu Express Mthatha Central,Express,Eastern Cape,Mthatha,Mthatha Central,Tumelo Naidoo,2010-12-19
+S042,Imbewu Market Vincent,Market,Eastern Cape,East London,Vincent,Sizwe Mhlongo,2020-08-26
+S043,Imbewu Express Beacon Bay,Express,Eastern Cape,East London,Beacon Bay,Kabelo Maseko,2009-11-14
+S044,Imbewu Market Greenacres,Market,Eastern Cape,Gqeberha,Greenacres,Lungile Patel,2015-12-02
+S045,Imbewu Market Walmer,Market,Eastern Cape,Gqeberha,Walmer,Nokuthula Ngcobo,2018-02-02

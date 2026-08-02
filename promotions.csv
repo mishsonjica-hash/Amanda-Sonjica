@@ -1,0 +1,5 @@
+promo_id,promo_name,category_targeted,start_date,end_date,discount_pct
+PR001,Pap Power Promo,Maize Meal,2025-04-01,2025-04-30,33.33
+PR002,Winter Warmer Sale,Beverages,2024-06-01,2024-07-31,15.0
+PR003,Back to School,Apparel,2025-01-05,2025-01-31,20.0
+PR004,Festive Cheer Special,Snacks,2024-12-01,2024-12-24,10.0

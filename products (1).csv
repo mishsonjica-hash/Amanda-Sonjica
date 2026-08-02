@@ -1,0 +1,49 @@
+product_id,product_name,category,sub_category,brand,unit_cost,unit_price
+P001,Iwisa Super Maize Meal 2.5kg,Groceries,Maize Meal,Iwisa,28.0,39.99
+P002,Ace Super Maize Meal 2.5kg,Groceries,Maize Meal,Ace,26.0,37.99
+P003,White Star Maize Meal 5kg,Groceries,Maize Meal,White Star,52.0,74.99
+P004,Tastic Rice 2kg,Groceries,Rice,Tastic,38.0,54.99
+P005,Spekko Rice 2kg,Groceries,Rice,Spekko,36.0,52.99
+P006,Fatti's & Moni's Macaroni 500g,Groceries,Pasta,Fatti's & Moni's,14.0,21.99
+P007,Albany Superior White Bread,Groceries,Bread,Albany,12.0,18.99
+P008,Sasko Brown Bread,Groceries,Bread,Sasko,11.5,17.99
+P009,Clover Fresh Milk 2L,Groceries,Dairy,Clover,22.0,32.99
+P010,Parmalat UHT Milk 1L,Groceries,Dairy,Parmalat,11.0,16.99
+P011,Lancewood Cheddar Cheese 800g,Groceries,Dairy,Lancewood,75.0,109.99
+P012,Nulaid Eggs 18s,Groceries,Eggs,Nulaid,38.0,54.99
+P013,Rainbow Whole Chicken 1.5kg,Groceries,Meat,Rainbow,55.0,79.99
+P014,Enterprise Polony 750g,Groceries,Meat,Enterprise,28.0,41.99
+P015,Koo Baked Beans 410g,Groceries,Canned,Koo,13.0,19.99
+P016,All Gold Tomato Sauce 700ml,Groceries,Condiments,All Gold,22.0,32.99
+P017,Mrs Balls Chutney 470g,Groceries,Condiments,Mrs Balls,28.0,42.99
+P018,Five Roses Tea 100s,Groceries,Beverages,Five Roses,38.0,56.99
+P019,Ricoffy Coffee 750g,Groceries,Beverages,Nestle,65.0,94.99
+P020,Coca-Cola 2L,Groceries,Beverages,Coca-Cola,18.0,26.99
+P021,Oros Orange Squash 2L,Groceries,Beverages,Oros,32.0,47.99
+P022,Simba Chips Salt & Vinegar 125g,Groceries,Snacks,Simba,12.0,18.99
+P023,Bakers Tennis Biscuits 200g,Groceries,Snacks,Bakers,15.0,22.99
+P024,Sunlight Dishwashing Liquid 750ml,Household,Cleaning,Sunlight,22.0,32.99
+P025,Domestos Bleach 750ml,Household,Cleaning,Domestos,28.0,41.99
+P026,Omo Auto Washing Powder 2kg,Household,Laundry,Omo,65.0,94.99
+P027,Ariel Auto Washing Powder 2kg,Household,Laundry,Ariel,68.0,99.99
+P028,Comfort Fabric Softener 1.5L,Household,Laundry,Comfort,38.0,56.99
+P029,Twinsaver Toilet Paper 9-pack,Household,Paper,Twinsaver,55.0,79.99
+P030,Baby Soft Toilet Paper 18-pack,Household,Paper,Baby Soft,95.0,139.99
+P031,Glad Wrap 30m,Household,Kitchen,Glad,28.0,41.99
+P032,Colgate Toothpaste 100ml,Health & Beauty,Oral Care,Colgate,22.0,32.99
+P033,Sensodyne Toothpaste 75ml,Health & Beauty,Oral Care,Sensodyne,45.0,64.99
+P034,Dove Soap Bar 100g,Health & Beauty,Personal Care,Dove,14.0,21.99
+P035,Lifebuoy Soap Bar 100g,Health & Beauty,Personal Care,Lifebuoy,9.0,14.99
+P036,Sunsilk Shampoo 400ml,Health & Beauty,Hair Care,Sunsilk,38.0,56.99
+P037,Vaseline Body Lotion 400ml,Health & Beauty,Personal Care,Vaseline,42.0,62.99
+P038,Always Pads Ultra 16s,Health & Beauty,Personal Care,Always,35.0,51.99
+P039,Pampers Baby Diapers Size 3,Health & Beauty,Baby,Pampers,145.0,209.99
+P040,Eveready AA Batteries 4-pack,Electronics,Batteries,Eveready,28.0,41.99
+P041,Duracell AAA Batteries 4-pack,Electronics,Batteries,Duracell,35.0,51.99
+P042,USB Charger Cable Type-C,Electronics,Accessories,Generic,38.0,79.99
+P043,Phone Earphones 3.5mm,Electronics,Accessories,Generic,25.0,59.99
+P044,LED Bulb 9W,Electronics,Lighting,Eurolux,22.0,39.99
+P045,Plain Cotton T-Shirt,Apparel,Tops,Generic,65.0,119.99
+P046,Boys School Socks 3-pack,Apparel,Kids,Generic,35.0,64.99
+P047,Ladies Underwear 5-pack,Apparel,Underwear,Generic,85.0,149.99
+P048,Iwisa Maize Meal 2.5kg,Groceries,Maize Meal,Iwisa,28.0,39.99
