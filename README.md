@@ -53,7 +53,7 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 
 | File                    | Rows    | Description                                          |
 | ----------------------- | ------- | ---------------------------------------------------- |
-| `customers (1).csv`          | 3,000   |  loyalty programme members and their tier (Bronze / Silver / Gold)               |
+| `customers (1).csv`          | 3,000   |  Loyalty programme members and their tier (Bronze / Silver / Gold)               |
 | `products (1).csv`       | 48     |  Imbewu's product catalogue across 5 categories: Groceries, Household, Health & Beauty, Electronics, Apparel   |
 | `stores.csv`         | 45      | Stores across 4 South African provinces              |
 | `transaction_items.csv`      | 48,641   |     Line items inside each transaction    |
