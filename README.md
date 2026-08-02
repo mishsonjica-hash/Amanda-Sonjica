@@ -96,7 +96,7 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 - 💼 LinkedIn: www.linkedin.com/in/amanda-sonjica-b7a169104
 - 📧 Email: mish.sonjica@gmail.com
 
-I am open to internship and entry-level opportunities in Data Analytics.
+I’m always open to suggestions, improvements, or collaboration ideas.
 
 ---
 
