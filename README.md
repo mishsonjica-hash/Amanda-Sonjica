@@ -6,7 +6,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-orange)
 
 ---
-## 🧠 Project Goal
+## 🧠 Project Name: Imbewu Retail — Sales Analytics
 
 
 ---
@@ -33,10 +33,11 @@
 ## 💻 Tools & skills used
 
 **Tools**
-- Databricks
+- Databricks (SQL)
 - Power BI Desktop
 - DAX
 - Python for Data analytics
+- Microsoft Word
 - Git and GitHub
 
 **Skills**
@@ -49,14 +50,16 @@
 
 ## 📦 The dataset
 
-The full dataset lives in [`data/`](data/) as five CSV files. It's **fully synthetic** — no real customer or sales data is included — but it's been generated to look and behave like a real retail dataset, with the natural skew you'd expect (Gauteng over-indexed, December peaks, year-on-year growth, mixed payment methods).
+The full dataset contains six CSV files. The six files contain tables covering 18 months of operations (January 2024 through June 2025) across 
+all 45 stores nationwide. It's **fully synthetic** — no real customer or sales data is included — but it's been generated to look and behave like a real retail dataset, with the natural skew you'd expect. 
 
 | File                    | Rows    | Description                                          |
 | ----------------------- | ------- | ---------------------------------------------------- |
-| `dim_date.csv`          | 1,096   | Calendar: 2022-01-01 to 2024-12-31                   |
-| `dim_product.csv`       | 20      | Products across Electronics, Apparel, Home, Beauty   |
-| `dim_store.csv`         | 10      | Stores across 5 South African provinces              |
-| `dim_customer.csv`      | 5,000   | Customers with loyalty tiers and demographics        |
-| `fact_sales.csv`        | 50,000+ | Transactional sales at line-item grain               |
+| `customers (1).csv`          | 3,000   |  loyalty programme members and their tier (Bronze / Silver / Gold)               |
+| `products (1).csv`       | 48     |  Imbewu's product catalogue across 5 categories: Groceries, Household, Health & Beauty, Electronics, Apparel   |
+| `stores.csv`         | 45      | Stores across 4 South African provinces              |
+| `transaction_items.csv`      | 48,641   |     Line items inside each transaction    |
+| `transactions.csv`        | 9,164 | Every till receipt issued in the period              |
+| `promotions.csv`        | 4 | Historical and current marketing campaigns              |
 
 **Key dataset characteristics:**
