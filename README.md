@@ -15,19 +15,16 @@
 
 ## 📌 Table of contents
 
-- [The problem](#-the-problem)
-- [What I built](#-what-i-built)
+- [Overview](#-Overview)
 - [Tools & skills used](#-tools--skills-used)
 - [The dataset](#-the-dataset)
+- [Schema Diagram](#-schema-diagram)
 - [Data quality issues](#-data-quality-issues)
-- [How to run this project](#-how-to-run-this-project)
-- [Project structure](#-project-structure)
-- [Data model](#-data-model)
-- [Dashboards](#-dashboards)
 - [Key findings](#-key-findings)
-- [What I learned](#-what-i-learned)
+- [Dashboards](#-dashboards)
+- [Conclusion](#-conclusion)
 - [References](#-references)
-- [About me](#-about-me)
+- [Let's Connect](#-let's-connect)
 
 ----
 
