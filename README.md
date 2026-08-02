@@ -61,7 +61,11 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 | `transactions.csv`        | 9,164 | Every till receipt issued in the period              |
 | `promotions.csv`        | 4 | Historical and current marketing campaigns              |
 
-## Schema Diagram
+## 🗂️ Schema Diagram
 
 ![ERD Schema Diagram](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/ERD%20Schema%20Diagram.png)
+
+## ⚠️ Data quality issues
+
+
 
