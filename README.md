@@ -63,5 +63,5 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![ERD Schema Diagram](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/ERD%20Schema%20Diagram.png)
 
