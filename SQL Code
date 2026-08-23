@@ -1,0 +1,621 @@
+---TESTING HYPHOTHESIS WITH ALL INFORMATION FOUND---
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---hypothesis 1: Overall Revenue drop was highest in Western Cape due to drop in transaction number by over 53.81% while the revenue droped by 53.67%. The revenue drop is not only targeting Western Cape but also in other provinces.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Max_Revenue as (
+  SELECT 
+    YEAR(t.transaction_date) AS Year,
+    s.province AS province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN stores s ON t.store_id = s.store_id
+  where s.province IN ('Western Cape', 'Gauteng', 'KwaZulu-Natal', 'Eastern Cape')
+  GROUP BY YEAR(t.transaction_date), s.province
+)
+Select
+y1.province AS province,
+y1.Total_Revenue AS Revenue_2024,
+y2.Total_Revenue AS Revenue_2025,
+ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_Change,
+ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Change_Revenue_Percentage,
+RANK() OVER (ORDER BY ((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100 ASC) as Rank
+FROM Max_Revenue y1
+CROSS JOIN Max_Revenue y2
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.province = y2.province
+ORDER BY Revenue_2024 DESC
+
+--Revenue + Transaction Count by Province
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Max_Revenue as (
+  SELECT 
+    YEAR(t.transaction_date) AS Year,
+    s.province AS province,
+    Count(ti.item_id) AS Count_of_transactions, SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN stores s ON t.store_id = s.store_id
+  where s.province IN ('Western Cape', 'Gauteng', 'KwaZulu-Natal', 'Eastern Cape')
+  GROUP BY YEAR(t.transaction_date), s.province
+)
+Select
+y1.province AS province,
+y1.Count_of_transactions AS Count_2024,
+y1.Total_Revenue AS Revenue_2024,
+y2.Count_of_transactions AS Count_2025,
+y2.Total_Revenue AS Revenue_2025,
+ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_Change,
+ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Change_Revenue_Percentage,
+ROUND(((y2.Count_of_transactions - y1.Count_of_transactions) / y1.Count_of_transactions) * 100, 2) AS Change_count_Percentage
+FROM Max_Revenue y1
+CROSS JOIN Max_Revenue y2
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.province = y2.province
+ORDER BY Revenue_2024 DESC ---The biggest revenue drop was from Western Cape because the number of customers in the province dropped.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Hypothesis 2: Loyalty Tier by Province
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---Track how the loyalty tiers have played a role in the decrease of revenue between 2024 and 2025
+
+---**Gold**
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    c.loyalty_tier,
+    s.province AS Province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue, Count(c.loyalty_tier) AS Tier_Count
+FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2024 AND c.loyalty_tier = "Gold"
+  GROUP BY s.province, c.loyalty_tier
+  ORDER BY c.loyalty_tier, Total_Revenue DESC
+
+---**Silver**
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    c.loyalty_tier,
+    s.province AS Province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue, Count(c.loyalty_tier) AS Tier_Count
+FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2024 AND c.loyalty_tier = "Silver"
+  GROUP BY s.province, c.loyalty_tier
+  ORDER BY c.loyalty_tier, Total_Revenue DESC
+
+---**Bronze**
+
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    c.loyalty_tier,
+    s.province AS Province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue, Count(c.loyalty_tier) AS Tier_Count
+FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2024 AND c.loyalty_tier = "Bronze"
+  GROUP BY s.province, c.loyalty_tier
+  ORDER BY c.loyalty_tier, Total_Revenue DESC
+
+---Combined: All Loyalty Tiers by Province (2024 vs 2025 with % Change)
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+tier_revenue_by_year AS (
+    SELECT
+        YEAR(t.transaction_date) AS Year,
+        c.loyalty_tier,
+        s.province,
+        SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue,
+        COUNT(c.loyalty_tier) AS Tier_Count
+    FROM transactions t
+    JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+    JOIN customers_1 c ON t.customer_id = c.customer_id
+    JOIN Store_Fixed s ON t.store_id = s.store_id
+    WHERE YEAR(t.transaction_date) IN (2024, 2025)
+    GROUP BY YEAR(t.transaction_date), s.province, c.loyalty_tier
+)
+SELECT 
+    y1.loyalty_tier,
+    y1.province,
+    y1.Total_Revenue AS Revenue_2024,
+    y1.Tier_Count AS Tier_Count_2024,
+    y2.Total_Revenue AS Revenue_2025,
+    y2.Tier_Count AS Tier_Count_2025,
+    ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_Change,
+    ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Change_Percentage,
+    ROUND(y2.Tier_Count - y1.Tier_Count) AS Customer_count_Loss
+FROM tier_revenue_by_year y1
+JOIN tier_revenue_by_year y2 ON y1.loyalty_tier = y2.loyalty_tier AND y1.province = y2.province
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.province = y2.province
+ORDER BY y1.loyalty_tier, Revenue_2024 DESC
+----Key Findings:
+1. Bronze tier lost the most customers overall (1,588 in Western Cape alone)
+
+2. Western Cape is the epicenter of customer churn — ALL three tiers in Western Cape show the highest customer losses across all provinces
+
+3. Silver tier had the worst revenue decline (-56.19% in Western Cape), despite having fewer customers lost than Bronze
+
+4. Total Western Cape customer losses: 4,133 customers across all tiers (1,588 Bronze + 1,406 Gold + 1,139 Silver)
+
+The data confirms: Bronze tier in Western Cape lost the most customers, and Western Cape province experienced catastrophic losses across ALL loyalty tiers.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Hypothesis 3: Average Transaction Value Decline looking only at  top 5 stores that had the highest Revenue drop between 2024 and 2025 in western cape---
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Select *
+From transaction_items
+
+Select *
+From transactions
+
+Select *
+From stores
+
+---Compare average transaction value (spend per transaction) between 2024 and 2025 for Western Cape
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+transaction_metrics AS (
+  SELECT 
+    YEAR(t.transaction_date) AS Year,
+    s.store_id AS Store_ID,
+    s.store_name AS Store_Name,
+    s.province AS Province,
+    COUNT(DISTINCT t.transaction_id) AS Transaction_Count,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE s.province = 'Western Cape'
+  GROUP BY YEAR(t.transaction_date), s.store_id, s.store_name, s.province)
+SELECT
+  y1.Year AS Year_2024,
+  y1.Store_ID,
+  y1.Total_Revenue AS Revenue_2024,
+  ROUND(y1.Total_Revenue / y1.Transaction_Count, 2) AS Avg_Transaction_Value_2024,
+  y2.Year AS Year_2025,
+  y2.Total_Revenue AS Revenue_2025,
+  ROUND(y2.Total_Revenue / y2.Transaction_Count, 2) AS Avg_Transaction_Value_2025,
+    ROUND((((y2.Total_Revenue / y2.Transaction_Count) - (y1.Total_Revenue / y1.Transaction_Count)) / (y1.Total_Revenue / y1.Transaction_Count)) * 100, 2) AS Avg_Transaction_Value_Change_Pct,
+  ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_Change,
+  ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Revenue_Change_Pct,
+  ROUND((y2.Total_Revenue / y2.Transaction_Count) - (y1.Total_Revenue / y1.Transaction_Count), 2) AS Avg_Transaction_Value_Change
+FROM transaction_metrics y1
+CROSS JOIN transaction_metrics y2
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.Store_ID = y2.Store_ID
+ORDER BY Revenue_Change_Pct ASC ---- The average transaction spend declined from 2024 to 2025 for all stores in Western Cape. This means, customers are spending less or cheaper products per transaction in 2025 compared to 2024. They also buying less number of products per transaction.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Hyphothesis 4: Revenue drop per store in Western Cape: Store S010 lost the most revenue at 60.15% - Store performance
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WITH Store_Fixed AS (
+    SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+), 
+yearly_sales AS (
+  SELECT 
+    YEAR(t.transaction_date) AS Year,
+    s.store_id, 
+    s.province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  GROUP BY YEAR(t.transaction_date), s.store_id, s.province
+)
+SELECT 
+  y1.Year AS Year_2024,
+  y1.store_id,
+  y1.province,
+  y1.Total_Revenue AS Sales_2024,
+  y2.Year AS Year_2025,
+  y2.Total_Revenue AS Sales_2025,
+  ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_drop_per_store,
+  ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Revenue_drop_percentage,
+  RANK() OVER (ORDER BY ((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100 ASC) as Rank
+FROM yearly_sales y1
+CROSS JOIN yearly_sales y2
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.province = 'Western Cape' AND y1.store_id = y2.store_id
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Hyphothesis: 5 Repeat customer rate - Customers with more than 1 transaction count - No effect of repeat customers
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----Customers with more than 1 repeat transaction in Western Cape to see how it affects the revenue and transaction value.
+
+---**2024
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Customer_transaction AS (
+  SELECT 
+    c.customer_id,
+    s.province,
+    Count(DISTINCT t.transaction_id) AS transaction_count
+  FROM transactions t
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2024 AND s.province = 'Western Cape'
+    GROUP BY c.customer_id, s.province, c.loyalty_tier
+)
+SELECT
+    CASE
+        WHEN transaction_count = 1     THEN 'One-time'
+        WHEN transaction_count BETWEEN 2 AND 4  THEN 'Occasional (2-4)'
+        WHEN transaction_count BETWEEN 5 AND 10 THEN 'Regular (5-10)'
+        ELSE 'Loyal (10+)'
+  END AS Customer_Type,
+    COUNT(*)  AS customers,
+    province, 
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+FROM Customer_transaction
+GROUP BY Customer_Type, province
+ORDER BY
+    CASE Customer_Type
+        WHEN 'One-time'        THEN 1
+        WHEN 'Occasional (2-4)' THEN 2
+        WHEN 'Regular (5-10)'   THEN 3
+        ELSE 4
+    END----2024
+
+---**2025
+ WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Customer_transaction AS (
+  SELECT 
+    c.customer_id,
+    s.province,
+    Count(DISTINCT t.transaction_id) AS transaction_count
+  FROM transactions t
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2025 AND s.province = 'Western Cape'
+    GROUP BY c.customer_id, s.province, c.loyalty_tier
+)
+SELECT
+    CASE
+        WHEN transaction_count = 1     THEN 'One-time'
+        WHEN transaction_count BETWEEN 2 AND 4  THEN 'Occasional (2-4)'
+        WHEN transaction_count BETWEEN 5 AND 10 THEN 'Regular (5-10)'
+        ELSE 'Loyal (10+)'
+  END AS Customer_Type,
+    COUNT(*)  AS customers,
+    province, 
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+FROM Customer_transaction
+GROUP BY Customer_Type, province
+ORDER BY
+    CASE Customer_Type
+        WHEN 'One-time'        THEN 1
+        WHEN 'Occasional (2-4)' THEN 2
+        WHEN 'Regular (5-10)'   THEN 3
+        ELSE 4
+    END ----2025
+
+---**2024 Loyalty breakdown of customers that repeat purchases**
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Customer_transaction AS (
+  SELECT 
+    c.customer_id,
+    s.province,
+    c.loyalty_tier AS loyalty_tier,
+    Count(DISTINCT t.transaction_id) AS transaction_count
+  FROM transactions t
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2024 AND s.province = 'Western Cape'
+    GROUP BY c.customer_id, s.province, c.loyalty_tier
+)
+SELECT
+    CASE
+        WHEN transaction_count = 1     THEN 'One-time'
+        WHEN transaction_count BETWEEN 2 AND 4  THEN 'Occasional (2-4)'
+        WHEN transaction_count BETWEEN 5 AND 10 THEN 'Regular (5-10)'
+        ELSE 'Loyal (10+)'
+  END AS Customer_Type,
+    COUNT(*)  AS customers,
+    province, loyalty_tier,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+FROM Customer_transaction
+GROUP BY Customer_Type, province, loyalty_tier
+ORDER BY
+    CASE Customer_Type
+        WHEN 'One-time'        THEN 1
+        WHEN 'Occasional (2-4)' THEN 2
+        WHEN 'Regular (5-10)'   THEN 3
+        ELSE 4
+    END  -----Customer type in 2024
+
+---**2025 Loyalty breakdown of customers that repeat purchases**
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+),
+Customer_transaction AS (
+  SELECT 
+    c.customer_id,
+    s.province,
+    c.loyalty_tier AS loyalty_tier,
+    Count(DISTINCT t.transaction_id) AS transaction_count
+  FROM transactions t
+  JOIN customers_1 c ON t.customer_id = c.customer_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  WHERE YEAR(t.transaction_date) = 2025 AND s.province = 'Western Cape'
+    GROUP BY c.customer_id, s.province, c.loyalty_tier
+)
+SELECT
+    CASE
+        WHEN transaction_count = 1     THEN 'One-time'
+        WHEN transaction_count BETWEEN 2 AND 4  THEN 'Occasional (2-4)'
+        WHEN transaction_count BETWEEN 5 AND 10 THEN 'Regular (5-10)'
+        ELSE 'Loyal (10+)'
+  END AS Customer_Type,
+    COUNT(*)  AS customers,
+    province, loyalty_tier,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+FROM Customer_transaction
+GROUP BY Customer_Type, province, loyalty_tier
+ORDER BY
+    CASE Customer_Type
+        WHEN 'One-time'        THEN 1
+        WHEN 'Occasional (2-4)' THEN 2
+        WHEN 'Regular (5-10)'   THEN 3
+        ELSE 4
+    END ---In 2025
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---Hyphothesis 6: Effects of products to revenue. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WITH category_revenue AS (
+SELECT
+    YEAR(t.transaction_date) AS Year, 
+    p.category AS category,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN stores s ON t.store_id = s.store_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  GROUP BY YEAR(t.transaction_date), p.category
+)
+Select
+y1.category,
+y1.Total_Revenue AS Revenue_2024,
+y2.Total_Revenue AS Revenue_2025,
+ROUND(y2.Total_Revenue - y1.Total_Revenue) AS Revenue_Change,
+ROUND(((y2.Total_Revenue - y1.Total_Revenue) / y1.Total_Revenue) * 100, 2) AS Change_Revenue_Percentage
+FROM category_revenue y1
+CROSS JOIN category_revenue y2
+WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.category = y2.category
+ORDER BY Revenue_2024 DESC -----Revenue comparison by product category
+
+----Groceries category brought the most revenue in 2025 = R 188,806.49 and 2024 = R 413,348.29
+
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    YEAR(t.transaction_date) AS Year, 
+    p.category AS category,
+    s.province AS province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  where YEAR(t.transaction_date) = 2025
+  GROUP BY YEAR(t.transaction_date), p.category, s.province
+ORDER BY Total_Revenue DESC
+
+---Looking only at Western Cape
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    YEAR(t.transaction_date) AS Year, 
+    p.category AS category,
+    p.sub_category AS sub_category,
+    s.province AS province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  where YEAR(t.transaction_date) = 2024 AND s.province = 'Western Cape'
+  GROUP BY YEAR(t.transaction_date), p.category, s.province, p.sub_category
+ORDER BY Total_Revenue DESC
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Did the ap Power Promo (Buy 2 Get 1 Free on Iwisa) in April work, Answer YES, it increased revenue compared to other 2025 months by R 7,045.44 and average basket value by R 75.76.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WITH Store_Fixed AS (
+  SELECT 
+        store_id,
+        store_name AS Store_Name,
+        CASE 
+            WHEN LOWER(province) = 'western cape' THEN 'Western Cape'
+            WHEN LOWER(province) = 'gauteng' THEN 'Gauteng'
+            ELSE province
+        END AS province
+    FROM stores
+)
+SELECT
+    YEAR(t.transaction_date) AS Year,
+    Month(t.transaction_date) AS Month,
+    p.category AS category,
+    p.sub_category AS sub_category,
+    s.province AS province,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Total_Revenue,
+    SUM(ti.quantity)                                    AS Units_Sold,
+    COUNT(DISTINCT t.transaction_id)                   AS transactions,
+    ROUND(SUM(ti.unit_price_at_sale * ti.quantity) / COUNT(DISTINCT t.transaction_id) , 2) AS avg_basket_value
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN Store_Fixed s ON t.store_id = s.store_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  where YEAR(t.transaction_date) = 2025 AND s.province = 'Western Cape' AND p.sub_category = 'Maize Meal'
+  Group by
+    YEAR(t.transaction_date),
+    Month(t.transaction_date),
+    p.category,
+    p.sub_category,
+    s.province
+ORDER BY Total_Revenue DESC
+
+---Monthly revenue trend by category (2025 only - detailed view)
+
+WITH monthly_category_revenue AS (
+  SELECT
+    MONTH(t.transaction_date) AS Month,
+    p.category,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Monthly_Revenue,
+    COUNT(DISTINCT t.transaction_id) AS Transactions,
+    SUM(ti.quantity) AS Units_Sold
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  WHERE YEAR(t.transaction_date) = 2025
+  GROUP BY MONTH(t.transaction_date), p.category
+)
+SELECT
+  Month,
+  category,
+  ROUND(Monthly_Revenue, 2) AS Monthly_Revenue,
+  Transactions,
+  Units_Sold,
+  ROUND(Monthly_Revenue / Transactions, 2) AS Avg_Transaction_Value,
+  ROUND(Monthly_Revenue / Units_Sold, 2) AS Avg_Price_Per_Unit
+FROM monthly_category_revenue
+ORDER BY category, Month
