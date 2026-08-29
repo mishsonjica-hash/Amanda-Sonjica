@@ -15,6 +15,16 @@ Select *
 From Duplicates_table
 where row_num > 1        -----So no duplicates in Customer table
 
+---Imbewu_products table
+
+With Duplicates_table as
+(Select *,
+row_number () OVER (PARTITION BY product_id, product_name, category, sub_category, brand, unit_cost, unit_price ORDER BY product_id) as row_num
+From imbewu_products)
+Select *
+From Duplicates_table
+where row_num > 1 ----no duplicates in Imbewu_products table
+
 --Transactions table
 
 With Duplicates_table as
