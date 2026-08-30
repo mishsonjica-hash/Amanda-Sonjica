@@ -73,9 +73,11 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 ## ⚠️ Data quality issues
 
 ----
-- All the data cleaning and Data preparation was done using SQL. There were 5 checks done overall and they include the following:
+All the data cleaning and Data preparation was done using SQL. There were 5 checks done overall and they include the following:
+
   1. Checking for Duplicates in all tables: No duplicates were found in the data.
-  2. Checking for Null values: There were a lot of Null vales in the data in almost all the tables. So the decision on what to do with the Null Values was based on whether the information on Null values will affect any findings or insights I'm trying to draw from the date. So in order to make that decision I first looked at the information I require to answer the questions the report is aimed for. 
+  2. Checking for Null values: There were a lot of Null vales in the data in almost all the tables. So the decision on what to do with the Null Values was based on whether the information on Null values will affect any findings or insights I'm trying to draw from the date. So in order to make that decision I first looked at the information I require to answer the questions the report is aimed for.
+   - 
 
 ## 🔍 Key findings
 
