@@ -113,6 +113,15 @@ These hypotheses complement your existing analysis by examining average transact
 ## 📊 Dashboards
 
 ### Executive Sales Overview
+<img width="1517" height="857" alt="Summary dashboard" src="https://github.com/user-attachments/assets/b2e0cfec-3432-4f98-b748-eaf6898a5c10" />
+
+<img width="1505" height="856" alt="Western Cape Dashboard" src="https://github.com/user-attachments/assets/c41bd45b-398e-464d-a2ab-a8bb3f230bbd" />
+
+<img width="1505" height="853" alt="Promo Analysis" src="https://github.com/user-attachments/assets/a367389e-bee8-41ca-9d10-fca94f699194" />
+
+
+<img width="1500" height="838" alt="image" src="https://github.com/user-attachments/assets/d05c8170-b944-4545-b7fc-a51628170332" />
+
 
 ---
 
