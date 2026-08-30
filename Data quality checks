@@ -1,11 +1,14 @@
-----------------------------------------------
----Checking for Duplicates in all tables
---------------------------------------------- 
+# Data Quality Notes
 
+
+##Checking for Duplicates in all tables
+ 
+```sql
 --CUSTOMERS TABLE
 Select *,
 row_number () OVER (PARTITION BY customer_id, first_name, last_name, gender, birth_year, loyalty_tier, home_suburb, signup_date ORDER BY customer_id) as row_num
 From customers_1
+```
 
 With Duplicates_table as
 (Select *,
