@@ -87,7 +87,7 @@ So the decision on what to do with the Null Values was based on whether the info
 
 **Final decision**: Keep the Null values in the data instead of replacing the data or deleting it from the tables especially the transactions because they contribute to the total revenue.
 
-3. Check for Inconsistent casing:
+3. Check for Inconsistent casing: Western Cape and Gauteng provinces contain both upper case and lower cases. This was causing inaccurate results for provincial revenue analysis. So to fix the issue, standardized the cases using SQL.
 
 ## 🔍 Key findings
 
