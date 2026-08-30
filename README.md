@@ -76,7 +76,7 @@ all 45 stores nationwide. It's **fully synthetic** — no real customer or sales
 All the data cleaning and Data preparation was done using SQL. There were 5 checks done overall and they include the following:
 
   1. Checking for Duplicates in all tables: No duplicates were found in the data.
-  2. Checking for Null values: There were a lot of Null values in 3 tables: Customers, Stores and Transactions table.
+  2. Checking for Null values: There were a lot of Null values in 3 tables: **Customers**, **Stores** and **Transactions** table.
 
    <img width="422" height="142" alt="image" src="https://github.com/user-attachments/assets/b5413276-2df4-4362-b898-7aa8be61a411" />
 
