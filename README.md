@@ -81,8 +81,8 @@ All the data cleaning and Data preparation was done using SQL. There were 5 chec
    <img width="422" height="142" alt="image" src="https://github.com/user-attachments/assets/b5413276-2df4-4362-b898-7aa8be61a411" />
 
 So the decision on what to do with the Null Values was based on whether the information on Null values will affect any findings or insights we're trying to determine and also if the information can be determined using information from other tables.
-- The missing Gender and Date of birth columns counted for 10% of the stores data and are original entered data when a customer signs up so there is no way to determine them from the rest of the data.
-- The missing Store Manager name counts for 2.2% of the stores data and it is original entered data and can't be confirmed from rest of the data.
+- The missing Gender and Date of birth rows counted for 10% of the stores data and are original entered data when a customer signs up so there is no way to determine them from the rest of the data.
+- The missing Store Manager name row counts for 2.2% of the stores data and it is original entered data and can't be confirmed from rest of the data.
 - The missing Customer_id data from the transactions data counted for about 42.68% and although customer_id data can be found from the customers table, we don't have a way of tracing the transaction back to the customer.
 
 **Final decision**: Keep the Null values in the data instead of replacing the data or deleting it from the tables especially the transactions because they contribute to the total revenue.
