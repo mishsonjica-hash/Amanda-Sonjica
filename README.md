@@ -13,7 +13,8 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 ---
 ## 🗺️ Overview
 
-<img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/8123b559-a3b4-44db-abc8-690af3140800" />
+<img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/5cfc6f1a-f776-4d11-8478-f4c6a091aafd" />
+
 
 
 ## 🎯 The problem
@@ -32,7 +33,7 @@ Imbewu Retail is a fictional South African Retail Business with 45 Stores locate
 - Hypothesis 2: Western Cape had a drop in revenue because of drop in Transaction count. This means customers are not purchasing as much products in 2025 than in 2024.
 - Hypothesis 3: Loyalty Tier plays a role in Revenue drop by Province.
 
-Before I could start the analysis, I had to take into consideration that the data used in this analysis does not include data set for 2025 July - December. Therefore when doing comparisons for both years I ensured to filter the data for the first 6 months (January - June) inorder to get accurate results of what is happening. Testing the above Hypotheses will help the company concentrate on high-revenue/profit product lines, optimize inventory management of stores and implement targeted, location-specific projects to increase revenue and profit.
+Before I could start the analysis, I had to take into consideration that the data used in this analysis does not include data set for 2025 July - December. Therefore when doing comparisons for both years, I ensured to filter the data for the first 6 months (January - June) inorder to get accurate results of what is happening. Using the full data set for YOY comparisons would have given inaccurate results given the data for 2024 is based a full year while 2025 is based on half the year so by default 2024 would seem like the best performing year if the full data is used. Testing the above Hypotheses will help the company concentrate on high-revenue/profit product lines, optimize inventory management of stores and implement targeted, location-specific projects to increase revenue and profit.
 
 ----
 
@@ -105,7 +106,8 @@ So the decision on what to do with the Null Values was based on whether the info
 <img width="648" height="370" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
 
 
-<img width="648" height="362" alt="Product Analysis dashboard" src="https://github.com/user-attachments/assets/8075d482-bdc0-4bc8-bc7b-f32a7057b037" />
+<img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
+
 
 
 
