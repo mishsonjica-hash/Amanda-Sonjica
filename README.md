@@ -13,7 +13,7 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 ---
 ## 🗺️ Overview
 
-<img width="655" height="371" alt="Summary dashboard" src="https://github.com/user-attachments/assets/1c49b613-c1bd-41fb-90dc-fc475178e332" />
+<img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/8123b559-a3b4-44db-abc8-690af3140800" />
 
 
 
