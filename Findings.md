@@ -32,4 +32,10 @@ The revenue is also influenced by customer tiers in Western Cape.  The highest T
 
 4. Total Western Cape customer transaction losses: 241 customers across all tiers (90 Bronze + 145 Silver + 6 Gold)
 
-----Hyyphothesis Correct: Customer Tier has influenced revenue change. The customers in Silver tier in Western Cape have lost the most revenue and transation count in 2025.
+----Hypothesis Correct: Customer Tier has influenced revenue change. The customers in Silver tier in Western Cape have lost the most revenue and transaction count in 2025. This influenced the drop in Revenue in 2025
+
+## Further Investigation done to Western Cape to determine the reason for Revenue decline:
+
+### Check if Average Transaction Value also influenced the decline in Revenue in Western Cape by customers spending less amount of money per transaction
+
+
