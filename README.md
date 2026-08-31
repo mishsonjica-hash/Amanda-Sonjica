@@ -126,12 +126,17 @@ So the decision on what to do with the Null Values was based on whether the info
 
 4. Average Transaction Value Shows Mixed Impact: While several Western Cape stores (S002, S007, S011, S012, S009, S005) saw a decline in average transaction spend — suggesting customers are buying cheaper products or spending less per visit — this was not the case for all stores. For example, Store S003 experienced a 10.66% revenue decline despite a 12.25% increase in average transaction value. This shows that average transaction value alone does not fully influence the revenue change; the drop in transaction volume remains the dominant factor.
 
-5. Promo Discount Analysis – "Buy 2 Get 1 Free on Iwisa" Was Effective: The Power Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also boosted transaction counts, confirming that customers spent more per visit during the promotional period. This suggests that targeted discount campaigns can be an effective lever to counteract the declining transaction trends in Western Cape.
+5. Promo Discount Analysis – "Buy 2 Get 1 Free on Iwisa" Was Effective: The Power Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also increased Transaction count which means customers are spending more per visit during the promotional period.
 
-6. Product Category Effect – Apparel Is the Growth Leader
-The Groceries category remains the top revenue contributor (R 495,829.88 in 2024 → R 512,113.53 in 2025), but the Apparel category showed the most significant revenue growth at 14.22% year-over-year. Within Western Cape specifically, the Beverages subcategory generates the highest revenue compared to other categories and subcategories. This highlights an opportunity to leverage high-growth categories like Apparel and strong performers like Beverages to drive recovery strategies.
+8. Product Category Effect: The Groceries category remains the top revenue contributor (R 495,829.88 in 2024 → R 512,113.53 in 2025), but the Apparel category showed the most revenue growth at 14.22% YOY. Within Western Cape specifically, the Beverages subcategory generates the highest revenue compared to other categories and subcategories. This highlights an opportunity to leverage high-growth categories like Apparel and strong performers like Beverages to drive recovery strategies.
+
+---
+
+## 🔍 Recommendations
 
 ----
+
+This suggests that targeted discount campaigns can be an effective lever to counteract the declining transaction trends in Western Cape. The Buy 2 get 1 free has also increased Transaction count which means customers are spending more than they spend on average per transaction.
 
 ## 📬 References 
 
