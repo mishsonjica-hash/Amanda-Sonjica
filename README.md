@@ -112,11 +112,11 @@ So the decision on what to do with the Null Values was based on whether the info
 - "Buy 2 Get 1 Free on Iwisa" Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also increased Transaction count which means customers are spending more per visit during the promotional period.
 - This also increased the number of units sold to 1238 and Transaction count to 1086.
 
-
+**Prducts Analysis**:
 
 <img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
 
-
+- Groceries is top category.
 
 
 
