@@ -114,7 +114,7 @@ So the decision on what to do with the Null Values was based on whether the info
 
 ---
 
-## 🔍 Key findings
+## 🔍 Key findings 
 
 ----
 
@@ -129,6 +129,8 @@ So the decision on what to do with the Null Values was based on whether the info
 5. Promo Discount Analysis – "Buy 2 Get 1 Free on Iwisa" Was Effective: The Power Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also increased Transaction count which means customers are spending more per visit during the promotional period.
 
 8. Product Category Effect: The Groceries category remains the top revenue contributor (R 495,829.88 in 2024 → R 512,113.53 in 2025), but the Apparel category showed the most revenue growth at 14.22% YOY. Within Western Cape specifically, the Beverages subcategory generates the highest revenue compared to other categories and subcategories. This highlights an opportunity to leverage high-growth categories like Apparel and strong performers like Beverages to drive recovery strategies.
+
+ The findings are indepth explained in the [`Findings.md`](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/Findings.md)
 
 ---
 
