@@ -315,7 +315,7 @@ SELECT
   END AS Customer_Type,
     COUNT(*)  AS customers,
     province, 
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_customers_coming_back
 FROM Customer_transaction
 GROUP BY Customer_Type, province
 ORDER BY
@@ -358,7 +358,7 @@ SELECT
   END AS Customer_Type,
     COUNT(*)  AS customers,
     province, 
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_customers_coming_back
 FROM Customer_transaction
 GROUP BY Customer_Type, province
 ORDER BY
@@ -402,7 +402,7 @@ SELECT
   END AS Customer_Type,
     COUNT(*)  AS customers,
     province, loyalty_tier,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_customers_coming_back
 FROM Customer_transaction
 GROUP BY Customer_Type, province, loyalty_tier
 ORDER BY
@@ -446,7 +446,7 @@ SELECT
   END AS Customer_Type,
     COUNT(*)  AS customers,
     province, loyalty_tier,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_base
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS pct_of_customers_coming_back
 FROM Customer_transaction
 GROUP BY Customer_Type, province, loyalty_tier
 ORDER BY
