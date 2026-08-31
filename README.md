@@ -98,9 +98,10 @@ So the decision on what to do with the Null Values was based on whether the info
 
 ## 📊 Dashboards
 
-### Executive Sales Overview
-
+**Western  Cape Analysis**:
 <img width="647" height="367" alt="WC Dashboard" src="https://github.com/user-attachments/assets/6f3fcb2a-004d-45bb-be9c-95facd588abc" />
+
+
 
 
 <img width="648" height="370" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
