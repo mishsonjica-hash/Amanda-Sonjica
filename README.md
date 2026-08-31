@@ -16,7 +16,15 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 <img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/8123b559-a3b4-44db-abc8-690af3140800" />
 
 
+## 🎯 The problem
 
+Imbewu Retail is a fictional South African Retail Business with 45 Stores located across Gauteng, Western Cape, KwaZulu-Natal and Eastern Cape. The leadership has noticed a drop in Revenue in the Western Cape and has requested for an investigation to findout the reasons why this is happening and what should be done to fix it. To investigate this issue, I have drawn 3 Hypotheses that will help us determine or answer the following questions:
+
+1. Is this Revenue drop only happening in Western Cape or other Provinces are affected as well?
+2. Is there a specific business metric or patten that is causing this drop or its just happening on a random?
+3. Is this affecting all stores or a select few? if not all Stores are affected, please explain which ones and why?
+4. There was a Promotion ran in April 2025, the CFO would like to know if it worked or not
+5. What are the recommendation to you suggest to stop this bleeding?
 
 #### 📌 Hyphothesis Tested aimed at answering the question of what happened
 
