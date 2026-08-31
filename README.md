@@ -118,22 +118,21 @@ So the decision on what to do with the Null Values was based on whether the info
 
 ----
 
-Hypothesis 1: Average Transaction Value Decline
-The revenue drop is driven by a decrease in average transaction value (spend per transaction) rather than just transaction volume, indicating customers are buying fewer or cheaper items per visit.
+1. Revenue Decline Is Isolated to Western Cape (Hypothesis 1 – Incorrect): The initial hypothesis that revenue dropped across all provinces was disproven. Revenue only declined in Western Cape by 5.6%, while all other provinces saw revenue increases year-over-year. This confirms that problem is within Western Cape and not shared across provinces.
 
-Rationale: You're tracking transaction counts and total revenue, but the revenue decline could be explained by customers spending less per transaction. This would be tested by calculating Total_Revenue / Count_of_transactions for 2024 vs 2025.
+2. Transaction Count Drop Is the Primary Driver of Revenue change (Hypothesis 2 – Correct): The Western Cape revenue decline is directly linked to a 7.49% drop in transaction count. Fewer customers are purchasing products in 2025 compared to 2024. Importantly, this decline is concentrated in just 6 stores (S011, S003, S012, S007, S002, and S010), with Store S010 experiencing the steepest decline at 26.13% in transactions and 25.24% in revenue. The transaction-to-revenue relationship is linear — provinces with growing transactions saw revenue growth, and vice versa.
 
-Hypothesis 2: Loyalty Tier Migration Impact
-Customers have been downgrading from higher loyalty tiers (Gold/Silver) to lower tiers (Bronze/None) between 2024-2025, causing revenue loss as higher-tier customers typically spend more.
+3. Customer Loyalty Tiers Are Amplifying the Decline (Hypothesis 3 – Correct)
+All three loyalty tiers (Bronze, Silver, Gold) experienced transaction and revenue declines in Western Cape, making it the epicenter of customer churn. The Silver tier was hit hardest, losing 145 transactions and suffering a 10.46% revenue drop in Western Cape alone. Total transaction losses across all tiers in Western Cape amounted to 241 customers (90 Bronze + 145 Silver + 6 Gold). Other provinces saw tier-level growth, further isolating the problem to Western Cape.
 
-Rationale: Your data shows loyalty tier revenue changes, but you haven't examined whether the composition of customers in each tier changed. If Gold customers dropped to Silver or Bronze, total Gold revenue would decline even if per-customer spending stayed constant.
+4. Average Transaction Value Shows Mixed Impact
+While several Western Cape stores (S002, S007, S011, S012, S009, S005) saw a decline in average transaction spend — suggesting customers are buying cheaper products or spending less per visit — this was not universal. Notably, Store S003 experienced a 10.66% revenue decline despite a 12.25% increase in average transaction value. This indicates that average transaction value alone does not fully explain the revenue change; the drop in transaction volume remains the dominant factor.
 
-Hypothesis 3: Product Mix Shift
-The revenue decline is concentrated in specific product categories, with customers shifting from higher-margin or higher-priced products to lower-priced alternatives.
+5. Promo Discount Analysis – "Buy 2 Get 1 Free on Iwisa" Was Effective
+The Power Promo campaign in April 2025 delivered positive results: revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also boosted transaction counts, confirming that customers spent more per visit during the promotional period. This suggests that targeted discount campaigns can be an effective lever to counteract the declining transaction trends in Western Cape.
 
-Rationale: You have the imbewu_products table in your query but haven't joined it for analysis yet. Product-level analysis could reveal whether certain product categories are underperforming, which wouldn't be visible in province/loyalty-tier aggregations alone.
-
-These hypotheses complement your existing analysis by examining average transaction value, customer tier migration, and product-level patterns — three dimensions you haven't fully explored yet but have the data to investigate.
+6. Product Category Effect – Apparel Is the Growth Leader
+The Groceries category remains the top revenue contributor (R 495,829.88 in 2024 → R 512,113.53 in 2025), but the Apparel category showed the most significant revenue growth at 14.22% year-over-year. Within Western Cape specifically, the Beverages subcategory generates the highest revenue compared to other categories and subcategories. This highlights an opportunity to leverage high-growth categories like Apparel and strong performers like Beverages to drive recovery strategies.
 
 ----
 
