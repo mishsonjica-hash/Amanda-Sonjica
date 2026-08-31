@@ -16,8 +16,20 @@ Before I could started the analysis, I had to take into consideration that the d
 
   <img width="682" height="88" alt="image" src="https://github.com/user-attachments/assets/d5bd003d-e63d-47bb-8ab3-7d7d4f50a2e9" />
 
-- Upon indepth investigation, I was able to confirm that the revenue and transactions count decline was not affecting stores in Western Cape. It was only 6 Stores that experienced revenue and transaction count drop namely: S011, S003, S012, S007, S002 and S010 which the highest decline rate being 26.13% Transaction count% and 25.24% revenue drop
+- Upon in-depth investigation, I was able to confirm that the revenue and transactions count decline was not affecting stores in Western Cape. It was only 6 Stores that experienced revenue and transaction count drop namely: S011, S003, S012, S007, S002 and S010 with the highest decline rate from S010 store being 26.13% Transaction count% and 25.24% revenue drop
 
 ---Hypothesis correct: The revenue drop of Western Cape was influenced by the drop Transactions count from 2024 and 2026. This means customers are not purchasing products as much as they did in 2024.
   
 ### Hypothesis 3: Loyalty Tier plays a role in Revenue drop by Province.
+
+The revenue is also influenced by customer tiers in Western Cape.  The highest Transactions counts come from the Bronze tier followed by Gold tier customers with the Silver tier reporting less transactions on average in all provinces. However, even with that being the case, the transactions seemed to have increased from 2024 with all provinces except the Western Cape. The Western Cape experienced a drop in transaction for each tier.
+
+1. Silver tier lost the most customers transactions and Revenue overall (145 transactions and 10.46% revenue drop in Western Cape alone) followed by Bronze tier.
+
+2. Western Cape is the epicenter of customer transaction churn — ALL three tiers in Western Cape show decline in Revenue and customer Transaction count while other provinces have had an increase.
+
+3. Silver tier had the worst revenue decline (10.46% in Western Cape), despite having customers in that tier compared to Gold and Bronze
+
+4. Total Western Cape customer transaction losses: 241 customers across all tiers (90 Bronze + 145 Silver + 6 Gold)
+
+----Hyyphothesis Correct: Customer Tier has influenced revenue change. The customers in Silver tier in Western Cape have lost the most revenue and transation count in 2025.
