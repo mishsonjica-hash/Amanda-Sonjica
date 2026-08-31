@@ -64,6 +64,7 @@ Therefore, it is not entirely true that for all Stores in Western Cape that expe
 - The Groceries category contributes most revenue for both years at 2024 = R 495,829.88 and 2025 = R 512,113.53. However Apparel had the most revenue increase between 2024 and 2025
 - Even though the Groceries category generates higher revenue per year, the Appeals category increased revenue significantly by 14.22%.
 - In Western Cape, the Beverages subcategory is generating the most revenue compared to other categories and sub categories.
+- Product name: Ladies Underwear 5-pack is the highest contributer of revenue in 2024 and 2025.
 
 
 <img width="522" height="183" alt="image" src="https://github.com/user-attachments/assets/05c41a6e-d0ec-4002-ac17-995c2e3943e5" />
