@@ -56,7 +56,8 @@ Therefore, it is not entirely true that for all Stores in Western Cape that expe
 
 ## Power Promo (Buy 2 Get 1 Free on Iwisa) Discount Analysis
 
-- 
+- The discount promotion worked for April 2025. The revenue increased in April 2025 by R 7,045.44 and average basket value by R 75.76.
+- The Buy 2 get 1 free has also increased Transaction count which means customers are spending more than they spend on average per transaction.
 
 ## Products Effect to revenue change
 
