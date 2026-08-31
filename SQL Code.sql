@@ -543,6 +543,32 @@ SELECT
   GROUP BY YEAR(t.transaction_date), p.category, s.province, p.sub_category
 ORDER BY Total_Revenue DESC
 
+---Monthly revenue trend by category (2025 only - detailed view)-----
+    
+WITH monthly_category_revenue AS (
+  SELECT
+    MONTH(t.transaction_date) AS Month,
+    p.category,
+    SUM(ti.unit_price_at_sale * ti.quantity) AS Monthly_Revenue,
+    COUNT(DISTINCT t.transaction_id) AS Transactions,
+    SUM(ti.quantity) AS Units_Sold
+  FROM transactions t
+  JOIN transaction_items ti ON t.transaction_id = ti.transaction_id
+  JOIN imbewu_products p ON ti.product_id = p.product_id
+  WHERE YEAR(t.transaction_date) = 2025
+  GROUP BY MONTH(t.transaction_date), p.category
+)
+SELECT
+  Month,
+  category,
+  ROUND(Monthly_Revenue, 2) AS Monthly_Revenue,
+  Transactions,
+  Units_Sold,
+  ROUND(Monthly_Revenue / Transactions, 2) AS Avg_Transaction_Value,
+  ROUND(Monthly_Revenue / Units_Sold, 2) AS Avg_Price_Per_Unit
+FROM monthly_category_revenue
+ORDER BY category, Month
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---Did the ap Power Promo (Buy 2 Get 1 Free on Iwisa) in April work, Answer YES, it increased revenue compared to other 2025 months by R 7,045.44 and average basket value by R 75.76.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
