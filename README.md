@@ -13,6 +13,8 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 ---
 ## 🗺️ Overview
 
+As a fictional newly hired Junior Data Analyst at Imbewu Retail, I were tasked by the Head of Sales to investigate an unexplained revenue decline in Western Cape — despite stable foot traffic — and deliver a Power BI dashboard with a written summary for an executive readout to the COO within three weeks
+
 <img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/5cfc6f1a-f776-4d11-8478-f4c6a091aafd" />
 
 
@@ -100,21 +102,21 @@ So the decision on what to do with the Null Values was based on whether the info
 
 **Western  Cape Analysis**: 
 
-<img width="647" height="367" alt="WC Dashboard" src="https://github.com/user-attachments/assets/6f3fcb2a-004d-45bb-be9c-95facd588abc" />
+<img width="747" height="467" alt="WC Dashboard" src="https://github.com/user-attachments/assets/6f3fcb2a-004d-45bb-be9c-95facd588abc" />
 
 - 6 Store lost revenue and Transactions Count
 - S010 is the highest revenue generating store in 2025 and March and April are the only months where revenue increased.
 
 **Promo Impact Analysis**:
 
-<img width="648" height="370" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
+<img width="748" height="470" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
 
 - "Buy 2 Get 1 Free on Iwisa" Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also increased Transaction count which means customers are spending more per visit during the promotional period.
 - This also increased the number of units sold to 1238 and Transaction count to 1086.
 
 **Products Analysis**:
 
-<img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
+<img width="748" height="462" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
 
 - Groceries is top category.
 - Product name: Ladies Underwear 5-pack is the highest contributer of revenue in 2024 and 2025.
