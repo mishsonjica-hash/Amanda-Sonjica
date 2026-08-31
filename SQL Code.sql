@@ -213,8 +213,13 @@ ORDER BY y1.loyalty_tier, Revenue_2024 DESC
        
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----Hypothesis 4: Average Transaction Value also influenced the decline in Revenue in Western Cape because customer are spending less amount of money per transaction
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Further Investigation Done to Werstern Cape Data to determine the reason for decline
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    
+Tested to see if Average Transaction Value also influenced the decline in Revenue in Western Cape because customer are spending less amount of money per transaction
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Select *
 From transaction_items
@@ -271,9 +276,8 @@ Key Findings: The average transaction spend declined from 2024 to 2025 for Selec
 
 Hyphothesis not entirely true for all Stores in Western Cape. Most stores experienced drop in Revenue because customer are spending less amount per transaction in 2025 but stores were not positively affeceted by avaerage transaction amount. Overall I can conclude that average transaction amount does not affect revenue change.
 
-Additional Test Done to determine what influences Revenue change
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ---Repeat customer rate - Customers with more than 1 transaction count - No effect of repeat customers
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
