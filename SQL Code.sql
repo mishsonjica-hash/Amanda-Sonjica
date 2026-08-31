@@ -2,7 +2,7 @@ SPECIAL NOTE:
 ---Code for all Tested Hyphothesis: Details and Findings can be found  in the [`Findings.md`](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/Findings.md) ---
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----hypothesis 1: Total Revenue has not only droped for Western Cape but has droped for all Provinces
+---hypothesis 1: Total Revenue has not only droped for Western Cape but has droped for all Provinces - In depth details in Findings page
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 WITH Store_Fixed AS (
     SELECT 
