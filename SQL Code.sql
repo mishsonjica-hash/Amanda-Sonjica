@@ -457,6 +457,8 @@ ORDER BY
         ELSE 4
     END ---In 2025
 
+Key Findings: Bronze tier has most customers purchasing products more than once in both 2024 and 2025 - It doesn't seem to affect the decline in revenue
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Effects of products to revenue. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
