@@ -1,4 +1,4 @@
----TESTING HYPHOTHESIS WITH ALL INFORMATION FOUND---
+---Code for all Tested Hyphothesis: Details and Findings can be found  in the ---
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---hypothesis 1: Total Revenue has not only droped for Western Cape but has droped for all Provinces
@@ -207,9 +207,7 @@ ORDER BY y1.loyalty_tier, Revenue_2024 DESC
 
 4. Total Western Cape customer transaction losses: 241 customers across all tiers (90 Bronze + 145 Silver + 6 Gold)
 
-The data confirms: Bronze tier in Western Cape lost the most customers, and Western Cape province experienced catastrophic losses across ALL loyalty tiers.
-
-----Hyyphothesis Correct: Customer Tier has influenced revenue change. The customers in Silver tier in Western Cape have lost the most revenue and transation count in 2025.
+    ----Hyyphothesis Correct: Customer Tier has influenced revenue change. The customers in Silver tier in Western Cape have lost the most revenue and transation count in 2025.
        
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
