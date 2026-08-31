@@ -1,4 +1,4 @@
----Code for all Tested Hyphothesis: Details and Findings can be found  in the [Findings.md](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/Findings.md) ---
+---Code for all Tested Hyphothesis: Details and Findings can be found  in the [`Findings.md`](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/Findings.md) ---
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---hypothesis 1: Total Revenue has not only droped for Western Cape but has droped for all Provinces
@@ -35,6 +35,8 @@ FROM Max_Revenue y1
 CROSS JOIN Max_Revenue y2
 WHERE y1.Year = 2024 AND y2.Year = 2025 AND y1.province = y2.province
 ORDER BY Revenue_2024 DESC
+
+    Key Findings: The Revenue droped beween the months January - June only in Western Cape by R10,912.34 from 2024.
 
 ----Hyphothesis incorrect: Revenue drop only occured in Western Cape by 5.6% while the rest of the other provinces, the revenue increased.
 
