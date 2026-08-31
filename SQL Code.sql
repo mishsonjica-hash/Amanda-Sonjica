@@ -572,6 +572,7 @@ ORDER BY category, Month
     Key Findings: 
     - Grocery category in Western Cape is acumulating the most revenue compared to other categories in all Provinces.
     - Beverages subcategory is generating the most revenue compared to other categories and sub categories.
+    - Product name: Ladies Underwear 5-pack is the highest contributer of revenue in 2024 and 2025.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---Did the ap Power Promo (Buy 2 Get 1 Free on Iwisa) in April work?
