@@ -490,7 +490,7 @@ ORDER BY Revenue_2024 DESC -----Revenue comparison by product category
 ----Groceries category contributes most revenue for both years at 2024 = R 495,829.88 and 2025 = R 512,113.53. However Apparel had the most revenue increase between 2024 and 2025
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
----In depth detail of Category performances in 2025 - Grocery category in Western Cape is acumulating the most revenue cpmpared to other categories in al Provinces.
+---In depth detail of Category performances in 2025 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WITH Store_Fixed AS (
@@ -517,7 +517,7 @@ SELECT
   GROUP BY YEAR(t.transaction_date), p.category, s.province
 ORDER BY Total_Revenue DESC
 
----Looking only at Western Cape - Beverages subcategory is generating the most revenue compared to other categories and sub categories.
+---Looking only at Western Cape - 
 WITH Store_Fixed AS (
   SELECT 
         store_id,
@@ -569,8 +569,12 @@ SELECT
 FROM monthly_category_revenue
 ORDER BY category, Month
 
+    Key Findings: 
+    - Grocery category in Western Cape is acumulating the most revenue compared to other categories in all Provinces.
+    - Beverages subcategory is generating the most revenue compared to other categories and sub categories.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----Did the ap Power Promo (Buy 2 Get 1 Free on Iwisa) in April work, Answer YES, it increased revenue compared to other 2025 months by R 7,045.44 and average basket value by R 75.76.
+---Did the ap Power Promo (Buy 2 Get 1 Free on Iwisa) in April work?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WITH Store_Fixed AS (
@@ -631,6 +635,8 @@ SELECT
   ROUND(Monthly_Revenue / Units_Sold, 2) AS Avg_Price_Per_Unit
 FROM monthly_category_revenue
 ORDER BY category, Month
+
+Key Finding: Answer YES, it increased revenue compared to other 2025 months by R 7,045.44 and average basket value by R 75.76.
 
 
 
