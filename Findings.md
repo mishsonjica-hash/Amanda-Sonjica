@@ -44,3 +44,10 @@ Therefore, it is not entirely true that for all Stores in Western Cape that expe
 
 <img width="500" height="358" alt="AVG Change per Store" src="https://github.com/user-attachments/assets/6ed5fdc2-44a1-4678-a6d0-8fd53af77cd0" />
 
+### Repeat customer rate - Check if Customers with more than 1 transaction count had any effect on the Revenue change
+
+<img width="369" height="130" alt="image" src="https://github.com/user-attachments/assets/9b402f11-c01e-46aa-ac99-7df0f5efd2a8" />
+
+Bronze tier has most customer purchasing products more than once in both 2024 and 2025 - It doesn't seem to affect the decline in revenue
+
+
