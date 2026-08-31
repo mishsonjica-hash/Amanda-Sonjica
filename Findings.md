@@ -46,8 +46,14 @@ Therefore, it is not entirely true that for all Stores in Western Cape that expe
 
 ### Repeat customer rate - Check if Customers with more than 1 transaction count had any effect on the Revenue change
 
+- Bronze tier has most customer purchasing products more than once in both 2024 and 2025 - It doesn't seem to affect the decline in revenue
+
+2025
+<img width="425" height="119" alt="image" src="https://github.com/user-attachments/assets/7c9de135-6e19-4913-a2b6-5c31e6848822" />
+
+2024
 <img width="369" height="130" alt="image" src="https://github.com/user-attachments/assets/9b402f11-c01e-46aa-ac99-7df0f5efd2a8" />
 
-Bronze tier has most customer purchasing products more than once in both 2024 and 2025 - It doesn't seem to affect the decline in revenue
+
 
 
