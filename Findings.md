@@ -38,4 +38,9 @@ The revenue is also influenced by customer tiers in Western Cape.  The highest T
 
 ### Check if Average Transaction Value also influenced the decline in Revenue in Western Cape by customers spending less amount of money per transaction
 
+The average transaction spend declined from 2024 to 2025 for Select few stores: S002, S007, S011, S012, S009 AND S005 in Western Cape with exception of Store S003 that experienced 10.66% Revenue decline despite getting an increase of 12.25% of average Transaction value. This means that some customers are spending less or buying cheaper products per transaction in 2025 compared to 2024. 
+
+Therefore, it is not entirely true that for all Stores in Western Cape that experienced revenue decline also experienced a decline in Average transaction value. Overall I can conclude that average transaction amount does not affect revenue change. The screenshot below shows stores that experienced decline in average transaction value
+
+<img width="206" height="158" alt="AVG Change per Store" src="https://github.com/user-attachments/assets/6ed5fdc2-44a1-4678-a6d0-8fd53af77cd0" />
 
