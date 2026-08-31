@@ -75,7 +75,9 @@ all 45 stores nationwide. The data used is not a real-life data but it's been ge
 
 ## 🗂️ Schema Diagram
 
-![ERD Schema Diagram](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/ERD%20Schema%20Diagram.png)
+<img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/9a1222b5-a4ec-4bbd-ab8a-9e0ee3f599f6" />
+
+
 
 ----
 
