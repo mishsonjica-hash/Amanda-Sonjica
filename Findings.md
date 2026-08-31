@@ -42,5 +42,5 @@ The average transaction spend declined from 2024 to 2025 for Select few stores: 
 
 Therefore, it is not entirely true that for all Stores in Western Cape that experienced revenue decline also experienced a decline in Average transaction value. Overall I can conclude that average transaction amount does not affect revenue change. The screenshot below shows stores that experienced decline in average transaction value
 
-<img width="206" height="158" alt="AVG Change per Store" src="https://github.com/user-attachments/assets/6ed5fdc2-44a1-4678-a6d0-8fd53af77cd0" />
+<img width="500" height="358" alt="AVG Change per Store" src="https://github.com/user-attachments/assets/6ed5fdc2-44a1-4678-a6d0-8fd53af77cd0" />
 
