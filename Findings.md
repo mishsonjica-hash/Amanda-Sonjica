@@ -16,7 +16,7 @@ Before I could started the analysis, I had to take into consideration that the d
 
   <img width="682" height="88" alt="image" src="https://github.com/user-attachments/assets/d5bd003d-e63d-47bb-8ab3-7d7d4f50a2e9" />
 
-- Upon indepth investigation, I was able to confirm that the revenue and transactions count decline was not affecting stores in Western Cape.
+- Upon indepth investigation, I was able to confirm that the revenue and transactions count decline was not affecting stores in Western Cape. It was only 6 Stores that experienced revenue and transaction count drop namely: S011, S003, S012, S007, S002 and S010 which the highest decline rate being 26.13% Transaction count% and 25.24% revenue drop
 
 ---Hypothesis correct: The revenue drop of Western Cape was influenced by the drop Transactions count from 2024 and 2026. This means customers are not purchasing products as much as they did in 2024.
   
