@@ -54,3 +54,45 @@ Avg Transaction Value 2025 =
     )
 ```
 
+    Avg Non-April Monthly Revenue = 
+    CALCULATE(
+        DIVIDE([Total Revenue], DISTINCTCOUNT(transactions[Month])),
+        YEAR(Transactions[transaction_date]) = 2025,
+        MONTH(Transactions[transaction_date]) <> 4,
+        imbewu_products[sub_category] = "Maize Meal",
+        Stores[province] = "Western Cape"
+    )
+
+    Avg Transaction Value 2024 = 
+    DIVIDE(
+        [Revenue 2024],
+        [Transactions 2024],
+        0
+    )
+```
+
+```dax
+Avg Transaction Value 2025 = 
+    DIVIDE(
+        [Revenue 2025],
+        [Transactions 2025],
+        0
+    )
+```
+
+```dax
+Avg Transaction Value Change % = 
+    DIVIDE(
+        [Avg Transaction Value 2025] - [Avg Transaction Value 2024],
+        [Avg Transaction Value 2024],
+        0
+    ) 
+```
+
+```dax
+Product unit price x quantity = (transaction_items[quantity]*transaction_items[unit_price_at_sale])
+```
+
+Revenue
+
+
