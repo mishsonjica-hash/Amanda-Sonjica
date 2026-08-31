@@ -153,7 +153,7 @@ So the decision on what to do with the Null Values was based on whether the info
 - Since the Iwisa promotion in April 2025 proved effective, I would recommend that you replicate or create more promotional campaign targeting the underperforming stores in Western Cape.
 - Since Transaction count directly affects the revenue growth, I would recommend that you create a monitoring system in Western Cape that targets transactions made per month to keep track of Revenue.
 - Since the issue in Western Cape only affects a select few stores, the team must drive store-level initiatives that are aimed at increasing revenue. This includes internal investigation of operational issues of the affected stores.
-- Given that the customer tier with reduced revenue amount is Silver tier, I would recommend creating more promos that include points in for Silver tier with the aim to win the customer's back.
+- Given that the customer tier with reduced revenue amount is Silver tier, I would recommend creating more promos that include points in for Silver tier with the aim to win the customers lost back.
 
 ## 📬 References 
 
