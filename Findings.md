@@ -54,6 +54,10 @@ Therefore, it is not entirely true that for all Stores in Western Cape that expe
 2024
 <img width="369" height="130" alt="image" src="https://github.com/user-attachments/assets/9b402f11-c01e-46aa-ac99-7df0f5efd2a8" />
 
+## Power Promo (Buy 2 Get 1 Free on Iwisa) Discount Analysis
+
+- 
+
 ## Products Effect to revenue change
 
 - The Groceries category contributes most revenue for both years at 2024 = R 495,829.88 and 2025 = R 512,113.53. However Apparel had the most revenue increase between 2024 and 2025
