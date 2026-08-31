@@ -4,6 +4,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Intermediate-green)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-orange)
+Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR Diagram ➡️ Findings ➡️ Power BI Dashboard
 
 ---
 ## 🧠 Project Name: Imbewu Retail — Sales Analytics
@@ -13,8 +14,15 @@
 
 <img width="1517" height="857" alt="Summary dashboard" src="https://github.com/user-attachments/assets/b2e0cfec-3432-4f98-b748-eaf6898a5c10" />
 
-#### 📌 Project Workflow
-Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR Diagram ➡️ Findings ➡️ Power BI Dashboard
+
+
+#### 📌 Hyphothesis Tested aimed at answering the question of what happened
+
+- Hypothesis 1: Total Revenue has not only dropped for Western Cape but has dropped for all Provinces.
+- Hypothesis 2: Western Cape had a drop in revenue because of drop in Transaction count. This means customers are not purchasing as much products in 2025 than in 2024.
+- Hypothesis 3: Loyalty Tier plays a role in Revenue drop by Province.
+
+Before I could start the analysis, I had to take into consideration that the data used in this analysis does not include data set for 2025 July - December. Therefore when doing comparisons for both years I ensured to filter the data for the first 6 months (January - June) inorder to get accurate results of what is happening.
 
 ----
 
@@ -54,7 +62,7 @@ Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR Diagram ➡️ Find
 ## 📦 The dataset
 
 The full dataset contains six CSV files. The six files contain tables covering 18 months of operations (January 2024 through June 2025) across 
-all 45 stores nationwide. It's **fully synthetic** — no real customer or sales data is included — but it's been generated to look and behave like a real retail dataset, with the natural skew you'd expect. 
+all 45 stores nationwide. The data used is not a real-life data but it's been generated to look and behave like a real industry retail dataset, with the natural skew you'd expect. 
 
 | File                    | Rows    | Description                                          |
 | ----------------------- | ------- | ---------------------------------------------------- |
