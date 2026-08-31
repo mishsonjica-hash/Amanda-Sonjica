@@ -144,7 +144,7 @@ So the decision on what to do with the Null Values was based on whether the info
 
 ---
 
-## 🔍 Recommendations
+## 🔍 Recommendations and Conclusion
 
 ----
 
