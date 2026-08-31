@@ -117,6 +117,8 @@ So the decision on what to do with the Null Values was based on whether the info
 <img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
 
 - Groceries is top category.
+- Product name: Ladies Underwear 5-pack is the highest contributer of revenue in 2024 and 2025.
+- In 2025, approximately 53k units sold.
 
 
 
