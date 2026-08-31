@@ -12,7 +12,8 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 ---
 ## 🗺️ Overview
 
-<img width="1517" height="857" alt="Summary dashboard" src="https://github.com/user-attachments/assets/b2e0cfec-3432-4f98-b748-eaf6898a5c10" />
+<img width="655" height="371" alt="Summary dashboard" src="https://github.com/user-attachments/assets/1c49b613-c1bd-41fb-90dc-fc475178e332" />
+
 
 
 
@@ -22,22 +23,7 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 - Hypothesis 2: Western Cape had a drop in revenue because of drop in Transaction count. This means customers are not purchasing as much products in 2025 than in 2024.
 - Hypothesis 3: Loyalty Tier plays a role in Revenue drop by Province.
 
-Before I could start the analysis, I had to take into consideration that the data used in this analysis does not include data set for 2025 July - December. Therefore when doing comparisons for both years I ensured to filter the data for the first 6 months (January - June) inorder to get accurate results of what is happening.
-
-----
-
-## 📌 Table of contents
-
-- [Overview](#-Overview)
-- [Tools & skills used](#-tools--skills-used)
-- [The dataset](#-the-dataset)
-- [Schema Diagram](#-schema-diagram)
-- [Data quality issues](#-data-quality-issues)
-- [Key findings](#-key-findings)
-- [Dashboards](#-dashboards)
-- [Conclusion](#-conclusion)
-- [References](#-references)
-- [Let's Connect](#-let's-connect)
+Before I could start the analysis, I had to take into consideration that the data used in this analysis does not include data set for 2025 July - December. Therefore when doing comparisons for both years I ensured to filter the data for the first 6 months (January - June) inorder to get accurate results of what is happening. Testing the above Hypotheses will help the company concentrate on high-revenue/profit product lines, optimize inventory management of stores and implement targeted, location-specific projects to increase revenue and profit.
 
 ----
 
@@ -100,6 +86,23 @@ So the decision on what to do with the Null Values was based on whether the info
 
 3. Check for Inconsistent casing: Western Cape and Gauteng provinces contain both upper case and lower cases. This was causing inaccurate results for provincial revenue analysis. So to fix the issue, standardized the cases using SQL.
 
+## 📊 Dashboards
+
+### Executive Sales Overview
+
+<img width="647" height="367" alt="WC Dashboard" src="https://github.com/user-attachments/assets/6f3fcb2a-004d-45bb-be9c-95facd588abc" />
+
+
+<img width="648" height="370" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
+
+
+<img width="648" height="362" alt="Product Analysis dashboard" src="https://github.com/user-attachments/assets/8075d482-bdc0-4bc8-bc7b-f32a7057b037" />
+
+
+
+
+---
+
 ## 🔍 Key findings
 
 ----
@@ -121,20 +124,7 @@ Rationale: You have the imbewu_products table in your query but haven't joined i
 
 These hypotheses complement your existing analysis by examining average transaction value, customer tier migration, and product-level patterns — three dimensions you haven't fully explored yet but have the data to investigate.
 
-## 📊 Dashboards
-
-### Executive Sales Overview
-
-
-<img width="1505" height="856" alt="Western Cape Dashboard" src="https://github.com/user-attachments/assets/c41bd45b-398e-464d-a2ab-a8bb3f230bbd" />
-
-<img width="1505" height="853" alt="Promo Analysis" src="https://github.com/user-attachments/assets/a367389e-bee8-41ca-9d10-fca94f699194" />
-
-
-<img width="1500" height="838" alt="image" src="https://github.com/user-attachments/assets/d05c8170-b944-4545-b7fc-a51628170332" />
-
-
----
+----
 
 ## 📬 References 
 
