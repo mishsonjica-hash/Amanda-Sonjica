@@ -25,7 +25,7 @@ Imbewu Retail is a fictional South African Retail Business with 45 Stores locate
 2. Is there a specific business metric or patten that is causing this drop or its just happening on a random?
 3. Is this affecting all stores or a select few? if not all Stores are affected, please explain which ones and why?
 4. There was a Promotion ran in April 2025, the CFO would like to know if it worked or not
-5. What are the recommendation to you suggest to stop this bleeding?
+5. What recommendations do you suggest to stop this bleeding?
 
 #### 📌 Hyphothesis Tested aimed at answering the question of what happened
 
@@ -105,8 +105,13 @@ So the decision on what to do with the Null Values was based on whether the info
 - 6 Store lost revenue and Transactions Count
 - S010 is the highest revenue generating store in 2025 and March and April are the only months where revenue increased.
 
+**Promo Impact Analysis**:
 
 <img width="648" height="370" alt="Promo dashboaed" src="https://github.com/user-attachments/assets/f7cadb80-e155-45f6-86e1-eed210e72478" />
+
+- "Buy 2 Get 1 Free on Iwisa" Promo run in April 2025 worked and revenue increased by R 7,045.44 and the average basket value rose by R 75.76. The promotion also increased Transaction count which means customers are spending more per visit during the promotional period.
+- This also increased the number of units sold to 1238 and Transaction count to 1086.
+
 
 
 <img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/042af4e3-5bdf-4f4d-a491-a096f6021b79" />
