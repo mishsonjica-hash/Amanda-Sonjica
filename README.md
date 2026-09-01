@@ -122,7 +122,7 @@ So the decision on what to do with the Null Values was based on whether the info
 
 - Groceries is top category.
 - Product name: Ladies Underwear 5-pack is the highest contributer of revenue in 2024 and 2025.
-- In 2025, approximately 53k units sold.
+- In 2025, approximately 18k units sold.
 
 [`PowerBi Dashboard`](https://github.com/mishsonjica-hash/Amanda-Sonjica/blob/main/Final%20project%202.pbix)
 
