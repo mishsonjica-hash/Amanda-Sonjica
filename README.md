@@ -13,7 +13,7 @@ Project Workflow: Data ➡️ Data Cleaning & Preparation using SQL ➡️ EDR D
 ---
 ## 🗺️ Overview
 
-As a fictional newly hired Junior Data Analyst at Imbewu Retail, I was tasked by the Head of Sales to investigate an unexplained revenue decline in Western Cape — despite stable foot traffic — and deliver a Power BI dashboard with a written summary for an executive readout to the COO within three weeks
+As a fictional newly hired Junior Data Analyst at Imbewu Retail, I was tasked by the Head of Sales to investigate an unexplained revenue decline in Western Cape - despite stable foot traffic - and deliver a Power BI dashboard with a written summary for an executive readout to the COO within three weeks
 
 <img width="953" height="571" alt="image" src="https://github.com/user-attachments/assets/58473f37-4e62-4ad7-a0d8-0ad7ab288687" />
 
